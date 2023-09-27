@@ -1,0 +1,504 @@
+question,user query
+What is the sales in 2020,What were the 2020 sales figures?
+What is the sales in 2020,What was the total sales income in 2020?
+What is the sales across months in 2020,"What are the sales numbers for 2020, month by month?"
+What is the sales by sub category in 2020,What were the sales by subcategory for the year 2020?
+What is the sales by sub category across months in 2020,How did subcategory sales perform on a monthly basis in 2020?
+What is the sales of phone in 2020,What is the 2020 figure for phone sales?
+What is the sales of phone across months in 2020,Monthly breakdown of 2020 phone sales?
+What is the sales by sub category in 2020 vs 2021,Subcategory sales comparison: 2020 vs 2021?
+What is the sales in 2020 vs 2021,2020 sales versus 2021 sales?
+What is the sales and discount percentage in 2020,Sales and discount % in 2020?
+What is the sales and discount percentage by sub category in 2020,What are the 2020 sales and discount percentages for each subcategory?
+What is the sales and discount percentage by sub category in 2020,"For 2020, what were the sales and discount percentages across subcategories?"
+What is the sales and discount percentage by sub category and country in 2020,What are the sales and discount percentages for subcategories and countries in the year 2020?
+What is the sales and discount percentage in 2020 vs 2021,What's the change in sales and discount percentages from 2020 to 2021?
+What is the sales and discount percentage by sub category in 2020 vs 2021,How have the sales and discount percentages by subcategory changed from 2020 to 2021?
+What is the sales and discount percentage by sub category and country in 2020 vs 2021,What were the sales and discount percentages in 2020 and 2021 for each country and subcategory?
+What are the sub category with sales is more than 10k,"In which subcategories do sales exceed 10,000?"
+What is the sales of sub category except chairs,What are the non-chair subcategory sales?
+What is the sales across months,What's the sales breakdown by month?
+What is the sales by sub category across months,How much did each subcategory sell per month?
+What is the sales of phone across months,What are the monthly phone sales figures?
+What is the sales of phone across months,What are the phone sales for each month?
+What is the sales and discount percentage across months,What are the sales and discount percentages month by month?
+What is the sales and discount percentage by sub category across months,Monthly sales and discount percentages in each subcategory?
+What is the sales and discount percentage by sub category and country across months,"Month by month, what are the sales and discount percentages for each subcategory and country?"
+What are the sub category with sales more than 10k across months,Name the subcategories with sales surpassing 10k each month.
+What is the sales of sub category except chairs across months,"Subcategory sales by month, with chairs excluded?"
+"What is the sales , discount percentage and discount across months","Monthly breakdown of sales, discount percentages, and discount amounts?"
+"What is the sales , discount percentage and discount by sub category across months","Monthly breakdown of sales, discount percentage, and discount by subcategory?"
+"What is the sales , discount percentage and discount in 2020","In 2020, what were the sales figures, discount percentage, and discount value?"
+"What is the sales , discount percentage and discount of sub category in 2020","What are the 2020 sales, discount %, and discount for each subcategory?"
+"What is the sales , discount percentage and discount of sub category in 2020","In 2020, what were the subcategory sales figures, discount percentages, and discounts?"
+Which sub category have sales more than 10k,Which subcategory has achieved over 10k in sales?
+Which sub category have sales more than 10k in 2020,"In 2020, which subcategory had sales above 10k?"
+What is the sales of phone and paper in 2020,How many phones and paper units were sold in 2020?
+What is the sales of phone and paper across months,Provide the sales numbers for phones and paper per month.
+What is the sales of phone and paper across months in 2020,Provide the 2020 monthly sales breakdown for phones and paper.
+List of sub category,Show me the subcategory list.
+List of sub category in 2020,Identify 2020's subcategories.
+List of sub category and country,Show subcategory and country list.
+List of sub category and country in 2020,Subcategories and countries in 2020: what's the list?
+List of sub category and country in 2020,2020's subcategories and countries: what were they?
+List of sub category having sales more than 10k,Which subcategories have 10k+ sales?
+List of sub category having sales more than 10k in 2020,2020's subcategories with 10k or more sales?
+List of sub category and country having sales more than 10k,Indicate subcategories and countries with sales beyond 10k.
+List of sub category and country having sales more than 10k in 2020,"What are the subcategories and countries with 2020 sales above 10,000?"
+List of sub category except chairs,"Identify subcategories, omitting chairs."
+List of sub category across months,Show subcategories across months.
+List of sub category except chairs across months,"Sub-category list by month, without chairs."
+How many sub category are there,Count the subcategories present.
+How many sub category across months,What is the count of subcategories for each month?
+How many sub category across months,Monthly count of subcategories?
+How many sub category where sales is more than 10k,In how many subcategories are sales higher than 10k?
+How many sub category across months where sales is more than 10k,Monthly subcategories with sales greater than 10k?
+How many sub category contributing to growth of sales across months,Monthly sales growth: how many subcategories involved?
+When was sales lowest,When did the sales trough happen?
+When was sales lowest in 2020,During which month of 2020 were sales the lowest?
+When was sales lowest for phone in 2020,In which month of 2020 were phone sales the lowest?
+When was sales lowest across months,In what month did sales reach the minimum level?
+When was the last time that sales lowest,When was the most recent low-sales period?
+When was the last time that sales of phone was lowest,When did phone sales last hit their lowest point?
+When was the last time that sales of phone was lowest,When was the last nadir in phone sales?
+When was the last time that sales of sub category was lowest,When did the sub-category last see its lowest sales figures?
+When was the last time that sales more than 10k,Most recent 10k+ sales?
+When was the last time that sales of phone was more than 10k,When was the previous 10k+ phone sales occurrence?
+When was the last time that sales and discount percentage was more than 10k,Most recent date with sales and discount percentage over 10k?
+When was the last time that sales and discount percentage of phone was more than 10k,When was the previous instance of phone sales and discount percentage above 10k?
+When was the last time that sales was more than 10k and discount percentage was less than 5k,Last time sales surpassed 10k with a discount percentage under 5k?
+When was the last time that sales lowest in 2020,When in 2020 were sales at their minimum?
+When was the last time that sales of phone was lowest in 2020,When did phone sales hit the lowest point in 2020?
+When was the last time that sales of sub category was lowest in 2020,"In 2020, when was the sub-category's lowest sales point?"
+When was the last time that sales of sub category was lowest in 2020,What was the lowest sales date for the sub-category in 2020?
+When was the last time that sales more than 10k in 2020,2020's final date with over 10k sales?
+When was the last time that sales of phone was more than 10k in 2020,"In 2020, when did phone sales last cross the 10k mark?"
+When was the last time that sales and discount percentage was more than 10k in 2020,When was the last 10k+ sales and discount percentage event in 2020?
+When was the last time that sales and discount percentage of phone was more than 10k in 2020,What was the last 2020 date when phone sales and discount percentage were above 10k?
+When was the last time that sales was more than 10k and discount percentage was less than 5k in 2020,When did 2020 last witness sales above 10k and discount percentage below 5k?
+What is the ratio of phone and paper for sales,Ratio of sales: phone and paper?
+What is the ratio of phone and paper for sales across months,Monthly phone and paper sales ratio?
+What is the ratio of phone and paper for sales in 2020,"In 2020, what was the sales ratio for phone vs"
+What is the share of sub category for sales,What percentage of sales belongs to the subcategory?
+What is the share of sub category for sales,How much does the subcategory account for in sales?
+What is the share of sub category to overall sales across months,How significant are subcategories in overall sales across months?
+What is the share of sub category to overall sales in 2020,"In 2020, what was the ratio of subcategory sales to overall sales?"
+What is the share of phone for sales,Phone sales represent what percentage of total sales?
+What is the share of phone to overall sales across months,What's the phone sales percentage in overall sales per month?
+What is the share of phone to overall sales in 2020,"In 2020, what fraction of total sales came from phones?"
+What is the share of phone and paper for sales,What portion of sales is from phone and paper?
+What is the share of phone and paper to overall sales across months,How much do phone and paper sales contribute to the total sales monthly?
+What is the share of phone and paper to overall sales in 2020,"In 2020, what was the proportion of phone and paper sales to overall sales?"
+"What is the share of phone, paper and art for sales","What percentage of sales is attributed to phone, paper, and art?"
+"What is the share of phone, paper and art for sales","What is the sales composition of phone, paper, and art?"
+"What is the share of phone, paper, art and binders for sales","What part of sales is represented by phones, paper, art, and binders?"
+"What is the share of phone, paper, art, binders and envelopes for sales","What is the sales composition of phone, paper, art, binders, and envelopes?"
+What is the correlation between sales and discount percentage,What is the association between sales and discount percentage?
+What is the correlation between sales and discount percentage in 2020,"In 2020, what is the association between sales and discount percentage?"
+What is the correlation of sales for phone and paper,How are phone and paper sales correlated?
+What is the correlation of sales for phone and paper in 2020,How do phone and paper sales relate in 2020?
+What is the monthly trend of sales,Sales trend for each month?
+What is the monthly trend of sales and discount percentage,Monthly sales and discount percentage trend?
+What is the monthly trend of sales for phone,What's the phone sales trend on a monthly basis?
+What is the monthly trend of sales for phone,Phone sales: what's the monthly progression?
+What is the monthly trend of sales and discount percentage of phone and paper,Phone and paper: monthly sales trends and discount percentages?
+What is the monthly trend of sales of phone and paper,Monthly variations in phone and paper sales?
+What is the monthly trend of sales and discount percentage for phone,Sales and discount percentage trends for phones monthly?
+What is the monthly trend of sales in 2020,"2020 sales trend, month by month?"
+What is the monthly trend of sales and discount percentage in 2020,What are the monthly sales and discount percentages in 2020?
+What is the monthly trend of sales for phone in 2020,Phone sales' monthly pattern in 2020?
+What is the monthly trend of sales and discount percentage of phone and paper in 2020,Can you show the sales and discount percentage trends for phone and paper in each month of 2020?
+What is the monthly trend of sales of phone and paper in 2020,"In 2020, what is the trend of phone and paper sales per month?"
+What is the monthly trend of sales and discount percentage for phone in 2020,What's the 2020 monthly sales trend and discount percentage for phones?
+What is the monthly trend of sales and discount percentage for phone in 2020,What's the trend for phone sales and discounts per month in 2020?
+What is the trend of sales for all sub category except chairs,"Excluding chairs, how are sales progressing for all subcategories?"
+What is the trend of sales and discount percentage for all sub category except chairs,"What is the sales and discount percentage trend for all subcategories, with chairs excluded?"
+What will be sales in 2020 for phone,"In the year 2020, what will the phone sales amount to?"
+What will be sales in 2020,What's the anticipated sales revenue for 2020?
+Forecast of sales in 2020,Sales estimates for 2020?
+Forecast of sales for phone in 2020,Expected 2020 phone sales?
+what will be the monthly sales,What's the sales forecast for the month?
+what will be the monthly sales of phone,How many phones will be sold in a month?
+what will be the monthly sales in 2020,What are the projected monthly sales for 2020?
+what will be the monthly sales in 2020,What are the 2020 sales on a month-by-month basis?
+what will be the monthly sales of phone in 2020,How many phones are likely to be sold monthly during 2020?
+Forecast of monthly sales,Expected sales for each month?
+Forecast of monthly sales of phone,Monthly phone sales expectations?
+Forecast of monthly sales in 2020,Anticipated monthly sales in 2020?
+Forecast of monthly sales of phone in 2020,Phone sales projections for each month of 2020?
+Which are the top sub category for sales except chairs,"What are the leading sales subcategories, excluding chairs?"
+Which are the top sub category for sales except chairs and accessories,"Best-selling subcategories, not including chairs and accessories?"
+top sub category basis sales in 2020,Highest sales subcategory in 2020?
+Which are the top grown sub category basis sales in 2020,What were the highest-selling subcategories in 2020?
+Which are the top grown sub category basis sales in 2020,Top-selling subcategories during 2020?
+top sub category basis sales across months,Monthly highest sales by subcategory?
+top sub category basis sales across months growth rate,Top subcategory sales growth across months?
+top sub category contributing to growth of sales across months,Which subcategory leads in sales growth over various months?
+top sub category by sales across country and months,Which sub category had the greatest sales across all countries and months?
+Diagnose sales change in 2020,Assess the changes in sales for the year 2020.
+Diagnose sales of phone change in 2020,Determine the alteration in 2020 phone sales.
+Diagnose sales of phone and paper change in 2020,Examine the shift in phone and paper sales for 2020.
+Why sales changed in 2020,Reasons for sales alteration in 2020?
+Why sales of phone changed in 2020,What caused phone sales to shift in 2020?
+Why sales of phone changed in 2020,Why did 2020 see a change in phone sales?
+Why sales of phone and paper changed in 2020,Why did the sales of phone and paper experience a change in 2020?
+What are the key drivers of sales,What components play a key role in sales?
+What are the drivers of sales,What are the primary factors affecting sales?
+what are the key drivers of sales for phone,What are the major determinants of phone sales?
+what are the key drivers of sales for phone and paper,What are the primary determinants of phone and paper sales?
+what are the drivers of sales for phone,What are the key drivers for phone sales?
+what are the drivers of sales for phone and paper,What influences sales of phone and paper items?
+What is the monthly growth rate of sales for 2020,Monthly sales growth rate in 2020?
+What is the monthly growth rate of sales,What's the sales growth rate per month?
+What is the monthly growth rate of sales,Sales growth rate for each month?
+What is the growth rate of sales of phone for 2020,Phone sales' growth rate in the year 2020?
+What is the growth rate of sales for 2020,What is the sales growth percentage for 2020?
+What is the growth contribution to overall sales for sub category in 2020,How much growth did the subcategory contribute to 2020's total sales?
+What is the growth contribution to overall sales for sub category across months,"Monthly, what is the growth contribution of subcategories to total sales?"
+What is the growth contribution to overall sales for sub category except chairs in 2020,"In 2020, what's the growth contribution for subcategories, other than chairs, to total sales?"
+What is the growth contribution to overall sales for sub category except chairs across months,"What is the monthly growth rate of subcategories, except chairs, in overall sales?"
+Which are the top sub category contributing to sales,Identify the leading subcategories for sales.
+What is the contribution of phone for sales,How do phones impact sales figures?
+What is the contribution of sales for sub category,What's the sales contribution for the sub-category?
+What is the contribution of sales for sub category,What's the sales proportion for the sub-category?
+What is the contribution of phone to overall sales in 2020,"In 2020, what was the phone's impact on overall sales?"
+What is the contribution of sales for sub category in 2020,How significant was the subcategory sales contribution in 2020?
+What is the contribution of phone to overall sales across months,What part do phones play in total sales across months?
+What is the contribution of sales for sub category across months,Monthly distribution of sales contributions in subcategories?
+How many sub category contributing to growth of sales across months,Number of subcategories increasing sales growth month by month?
+How many sub category contributing to growth of sales in 2020,How many subcategories played a role in boosting sales in 2020?
+When was share of sales of sub category lowest,When was the lowest sales share for the subcategory recorded?
+When was share of sub category to overall sales lowest in 2020,When did the subcategory have its smallest sales proportion in 2020?
+When was share of sub category to overall sales lowest across months,In which month was the subcategory's sales share the lowest?
+When was share of sub category to overall sales lowest across months,When did the subcategory's share of overall sales hit its lowest level?
+When was share of sales of phone lowest,At what date was the phone sales share at its minimum?
+When was share of phone to overall sales lowest in 2020,When did the share of phone sales hit its lowest in 2020?
+When was share of phone to overall sales lowest across months,In which month did phone sales make up the smallest portion of overall sales?
+When was share of sales of phone and paper lowest,At which point in time was the share of phone and paper sales the lowest?
+When was share of phone and paper to overall sales lowest in 2020,At what point in 2020 was the share of phone and paper sales at its lowest?
+When was share of phone and paper to overall sales lowest across months,When was the lowest monthly share of phone and paper sales?
+When was the ratio of phone and paper for sales was lowest in 2020,What was the date of the lowest phone and paper sales ratio in 2020?
+When was the ratio of phone and paper for sales across months was lowest,In which month was the phone-paper sales ratio at its lowest?
+When was the ratio of phone and paper for sales lowest,When did the phone-to-paper sales ratio reach its lowest point?
+When was the ratio of phone and paper for sales lowest,At what moment was the phone and paper sales ratio at its lowest?
+When was the growth rate of sales lowest,When was the sales growth rate at its least?
+When was the growth rate of sales lowest in 2020,"In 2020, when was the minimum sales growth rate recorded?"
+When was the lowest growth rate of sales recorded across months,"Across months, when was the sales growth rate at its lowest?"
+When was the lowest sales contribution to growth of sub category recorded,When was the smallest sales contribution to the subcategory's growth observed?
+When was the lowest sales contribution to growth of sub category recorded in 2020,"In 2020, when was the least sales contribution to subcategory growth observed?"
+List the top sub category having sales more than 10k,"What is the top subcategory with sales above 10,000?"
+List the top sub category having sales more than 10k in 2020,Identify the leading subcategory with sales exceeding 10k in 2020.
+List the top sub category basis sales in 2020,Identify the best-selling subcategories of 2020.
+Which are the top sub category based on share of sales,What are the highest-ranking subcategories by sales share?
+Which are the top sub category based on share of sales,Top-performing subcategories by share of sales?
+Which are the top sub category based on share of sales across months,Which subcategories rank highest in sales share across months?
+Which are the top sub category basis share of sales in 2020,"In 2020, what were the top subcategories in terms of sales share?"
+Which are the top sub category based on ratio of phone and paper for sales,Rank subcategories by their phone-to-paper sales ratio.
+Which are the top sub category based on ratio of phone and paper for sales across months,Which subcategories excel in phone-to-paper sales ratios throughout the months?
+Which are the top sub category based on ratio of phone and paper for sales in 2020,"In 2020, what were the top subcategories based on the ratio of phone sales to paper sales?"
+Which are the top sub category based on correlation between sales and discount percentage,Top subcategories based on sales and discount percentage correlation?
+Which are the top sub category based on correlation between sales and discount percentage in 2020,Identify the top subcategories in 2020 with a strong correlation between sales and discount percentage.
+Which are the top sub category based on correlation of sales between phone and paper in 2020,"In 2020, which subcategories had the strongest sales correlation between phone and paper?"
+Which are the top sub category based on growth rate of sales in 2020,What are the highest-growth subcategories in 2020 sales?
+Which are the top sub category based on growth rate of sales in 2020,Which subcategories had the top sales growth rates in '20?
+Which are the top sub category based on monthly growth rate of sales,Which subcategories lead in monthly sales growth rate?
+Which are the top sub category based on growth contribution to overall sales in 2020,"In 2020, what were the main subcategories driving growth in overall sales?"
+Which are the top sub category based on growth contribution to overall sales across months,Which subcategories have the highest growth contribution to total sales over the months?
+What is the trend of share of sales of phone across months,How does the share of phone sales change from month to month?
+What is the trend of share of phone sales in 2020,What was the 2020 phone sales share trajectory?
+What is the monthly trend of share of phone of sales,Trend in monthly share of phone sales?
+What is the trend of share of sales of sub category across months,Monthly trend of sub-category sales share?
+What is the trend of share of sub category sales in 2020,"In 2020, what is the subcategory sales share trend?"
+What is the monthly trend of share of sub category sales,What's the monthly trend for subcategory sales shares?
+What is the monthly trend of share of sub category sales,Month-wise trend of subcategory sales shares?
+What is the trend of share of phone and paper basis sales across months,What is the monthly trajectory of phone and paper sales shares?
+What is the trend of share of phone and paper basis sales in 2020,What is the 2020 trend in sales share for phone and paper basis?
+What is the monthly trend of share of phone and paper of sales,Phone and paper sales share: what's the monthly trend?
+What is the trend of growth rate of sales across months,Month-wise sales growth rate trend?
+What is the trend of growth rate of sales of sub category for 2020,What's the trend for subcategory sales growth in 2020?
+What is the trend of growth rate of sales in 2020,2020's trend in sales growth rate?
+What is the trend of growth rate of phone and paper sales across the months,What's the pattern of phone and paper sales growth rates month by month?
+What is the trend of ratio of sales of phone to paper,Trend of phone sales to paper sales ratio?
+What is the trend of sales ratio of phone to paper in 2020,What's the 2020 sales ratio trend for phone vs
+What is the trend of sales ratio of phone to paper in 2020,What's the 2020 trend for the sales ratio of phone and paper?
+What is the trend of ratio of sales of phone to paper across months,What is the monthly fluctuation in the phone to paper sales ratio?
+What is the trend of growth contribution to overall sales for sub category in 2020,What was the growth trend of subcategories in overall sales for 2020?
+What is the trend of growth contribution to overall sales for sub category to country in 2020,How did subcategories contribute to the growth trend of overall sales in the country in 2020?
+What is the trend of contribution to growth for sales of sub category across months,Growth contribution pattern for subcategory sales across months?
+Why share of sales of phone changed in 2020,What influenced the variation in phone sales share in 2020?
+Diagnose the share of sales of phone in 2020,Calculate the 2020 phone sales ratio.
+List sub category based on contribution to growth of sales in 2020,Identify top subcategories for sales growth in 2020.
+List sub category based on growth rate of sales in 2020,Display subcategories ranked by 2020 sales growth rate.
+List sub category based on monthly trends,Show subcategories according to monthly trends.
+List sub category based on monthly trends,Categorize subcategories by monthly trend data.
+List sub category based on monthly trends of sales,Illustrate subcategories related to monthly sales changes.
+List sub category based on monthly trends of sales in 2020,Demonstrate subcategories corresponding to monthly sales trends of 2020.
+Which are the top sub category based on monthly trends for sales,Top-ranking subcategories based on monthly sales trends?
+Which are the top sub category based on monthly trends for sales in 2020,What were the best-performing subcategories in terms of sales for each month in 2020?
+Which are the top sub category based on trend of growth rate of sales,What are the best-performing subcategories based on sales growth trends?
+Which are the top sub category based on trend of growth rate of sales in 2020,"In 2020, which subcategories had the top growth rate trends in sales?"
+Which are the top sub category based on trend of share of sales,Which subcategories rank highest in sales share trends?
+Which are the top sub category based on trend of share of sales in 2020,Identify the top subcategories based on 2020 sales share trends.
+Which are the top sub category based on trend of contribution of sales,What are the leading subcategories based on sales contribution trends?
+Which are the top sub category based on trend of contribution of sales,"In terms of sales contribution trends, which subcategories lead the pack?"
+Which are the top sub category based on trends of contribution of for sales in 2020,Which subcategories ranked highest in sales contribution trends during 2020?
+Which are the top sub category based on trend of contribution to growth of sales,Which subcategories have the strongest sales growth trends?
+Which are the top sub category based on trend of contribution to growth of sales in 2020,Which subcategories contributed the most to sales growth trends in 2020?
+When was contribution of sales of sub category lowest,When was the lowest contribution of sub-category sales?
+When was contribution of sales of phone lowest,When did phone sales have the smallest contribution?
+What is the trend of contribution of phone sales in 2020,How did phone sales contribute in 2020 trends?
+What is the monthly trend of contribution of phone of sales,Phone sales contribution trend per month?
+What is the monthly trend of contribution of sub category sales,Monthly subcategory sales contribution trend?
+Why contribution of sales of phone changed in 2020,What caused the change in phone sales contribution in 2020?
+Why contribution of sales of phone changed in 2020,What led to the variation in the contribution of phone sales in 2020?
+Diagnose the contribution of sales of phone in 2020,Measure the influence of phone sales on 2020's total sales.
+How many sub category are contributing to sales,How many subcategories are linked to sales?
+How many sub category are contributing to sales in 2020,How many subcategories had sales contributions in 2020?
+How many sub category are contributing to sales across months,Count of subcategories contributing to sales over months?
+List of sub category basis share of sales,Distribution of sales across subcategories.
+List of sub category basis share of sales in 2020,Subcategory sales percentages in 2020?
+List of sub category with sales share more than 10k,Identify subcategories where sales share is above 10k.
+List of sub category with sales share more than 10k in 2020,Identify subcategories with sales shares exceeding 10k in 2020.
+List of sub category contributing to sales,Which subcategories contribute to sales?
+List of sub category contributing to sales,Subcategories that affect sales?
+List of sub category contributing to sales in 2020,Sales-influencing subcategories in 2020?
+List of sub category with sales contribution more than 10k,Subcategories with sales contributions of 10k or more?
+List of sub category with sales contribution more than 10k in 2020,What are the subcategories with 10k+ sales in 2020?
+What is the sales in 2020,What were the 2020 sales figures?
+What is the sales across months in 2020,What are the 2020 monthly sales figures?
+What is the sales by sub category in 2020,What are the 2020 sales figures for each subcategory?
+What is the sales by sub category across months in 2020,What are the 2020 monthly sales figures for each subcategory?
+What is the sales of phone in 2020,What were the 2020 phone sales figures?
+What is the sales of phone across months in 2020,What are the 2020 monthly phone sales?
+What is the sales by sub category in 2020 vs 2021,What are the 2020 vs 2021 sales figures for each subcategory?
+What is the sales in 2020 vs 2021,Sales comparison: 2020 vs 2021?
+What is the sales and discount percentage in 2020,What are the 2020 sales and discount percentages?
+What is the sales and discount percentage by sub category in 2020,What are the 2020 sales and discount percentages for each subcategory?
+What is the sales and discount percentage by sub category and country in 2020,What are the 2020 sales and discount percentages for each subcategory and country?
+What is the sales and discount percentage in 2020 vs 2021,What are the 2020 vs 2021 sales and discount percentages?
+What is the sales and discount percentage by sub category in 2020 vs 2021,What are the 2020 vs 2021 sales and discount percentages for each subcategory?
+What is the sales and discount percentage by sub category and country in 2020 vs 2021,What are the 2020 vs 2021 sales and discount percentages for each subcategory and country?
+What are the sub category with sales is more than 10k,Which subcategories have sales exceeding 10k?
+What is the sales of sub category except chairs,What are the sales figures for subcategories excluding chairs?
+What is the sales across months,What are the monthly sales figures?
+What is the sales by sub category across months,What are the monthly sales figures for each subcategory?
+What is the sales of phone across months,What are the monthly phone sales figures?
+What is the sales and discount percentage across months,What are the monthly sales and discount percentages?
+What is the sales and discount percentage by sub category across months,What are the monthly sales and discount percentages for each subcategory?
+What is the sales and discount percentage by sub category and country across months,What are the monthly sales and discount percentages for each subcategory and country?
+What are the sub category with sales more than 10k across months,Which subcategories have over 10k in sales monthly?
+What is the sales of sub category except chairs across months,"What are the monthly sales for subcategories, excluding chairs?"
+"What is the sales , discount percentage and discount across months","What are the monthly sales, discount percentage, and discount amounts?"
+"What is the sales , discount percentage and discount by sub category across months","What are the monthly sales, discount percentage, and discount for each subcategory?"
+"What is the sales , discount percentage and discount in 2020","What were the 2020 sales, discount %, and discount amount?"
+"What is the sales , discount percentage and discount of sub category in 2020","What are the 2020 sales, discount %, and discount for each subcategory?"
+Which sub category have sales more than 10k,Which subcategory has over 10k in sales?
+Which sub category have sales more than 10k in 2020,"In 2020, which subcategory had over 10k sales?"
+What is the sales of phone and paper in 2020,What are the 2020 sales figures for phones and paper?
+What is the sales of phone and paper across months,What are the monthly sales figures for phones and paper?
+What is the sales of phone and paper across months in 2020,What are the 2020 monthly sales figures for phones and paper?
+List of sub category,Subcategory list?
+List of sub category in 2020,What are the subcategories in 2020?
+List of sub category and country,Subcategories and countries list?
+List of sub category and country in 2020,Subcategories and countries in 2020: what's the list?
+List of sub category having sales more than 10k,Which subcategories have sales exceeding 10k?
+List of sub category having sales more than 10k in 2020,Which subcategories had over 10k sales in 2020?
+List of sub category and country having sales more than 10k,Which subcategories and countries have sales exceeding 10k?
+List of sub category and country having sales more than 10k in 2020,Which subcategories and countries had over 10k sales in 2020?
+List of sub category except chairs,Subcategories excluding chairs?
+List of sub category across months,Subcategory list for each month?
+List of sub category except chairs across months,"List sub-categories, excluding chairs, for each month."
+How many sub category are there,What is the total number of subcategories?
+How many sub category across months,What is the count of subcategories for each month?
+How many sub category where sales is more than 10k,What is the count of subcategories with sales exceeding 10k?
+How many sub category across months where sales is more than 10k,What is the count of subcategories with over 10k sales per month?
+How many sub category contributing to growth of sales across months,What is the number of subcategories contributing to sales growth monthly?
+When was sales lowest,When did sales hit the lowest point?
+When was sales lowest in 2020,"In 2020, when were sales at their lowest?"
+When was sales lowest for phone in 2020,"In 2020, when were phone sales at their lowest?"
+When was sales lowest across months,In which month were sales at their lowest?
+When was the last time that sales lowest,When did sales last hit their lowest point?
+When was the last time that sales of phone was lowest,When did phone sales last hit their lowest point?
+When was the last time that sales of sub category was lowest,When did sub-category sales last hit their lowest point?
+When was the last time that sales more than 10k,When did sales last exceed 10k?
+When was the last time that sales of phone was more than 10k,When did phone sales last exceed 10k?
+When was the last time that sales and discount percentage was more than 10k,When did sales and discount percentage last exceed 10k?
+When was the last time that sales and discount percentage of phone was more than 10k,When did phone sales and discount percentage last exceed 10k?
+When was the last time that sales was more than 10k and discount percentage was less than 5k,When did sales last exceed 10k with a discount percentage below 5k?
+When was the last time that sales lowest in 2020,"In 2020, when did sales hit their lowest point?"
+When was the last time that sales of phone was lowest in 2020,"In 2020, when were phone sales at their lowest?"
+When was the last time that sales of sub category was lowest in 2020,"In 2020, when was the sub-category's lowest sales point?"
+When was the last time that sales more than 10k in 2020,"In 2020, when did sales last exceed 10k?"
+When was the last time that sales of phone was more than 10k in 2020,"In 2020, when did phone sales last exceed 10k?"
+When was the last time that sales and discount percentage was more than 10k in 2020,"In 2020, when did sales and discount percentage last exceed 10k?"
+When was the last time that sales and discount percentage of phone was more than 10k in 2020,"In 2020, when did phone sales and discount percentage last exceed 10k?"
+When was the last time that sales was more than 10k and discount percentage was less than 5k in 2020,"In 2020, when did sales last exceed 10k with a discount percentage below 5k?"
+What is the ratio of phone and paper for sales,What's the phone to paper sales ratio?
+What is the ratio of phone and paper for sales across months,What's the phone to paper sales ratio across months?
+What is the ratio of phone and paper for sales in 2020,What's the 2020 sales ratio of phone to paper?
+What is the share of sub category for sales,What percentage of sales belongs to the subcategory?
+What is the share of sub category to overall sales across months,What percentage of total sales do subcategories represent across months?
+What is the share of sub category to overall sales in 2020,What percentage of total sales did subcategories contribute in 2020?
+What is the share of phone for sales,What percentage of sales is attributed to phone?
+What is the share of phone to overall sales across months,What percentage of total sales are phone sales across months?
+What is the share of phone to overall sales in 2020,What percentage of total sales did phones constitute in 2020?
+What is the share of phone and paper for sales,What percentage of sales is attributed to phone and paper?
+What is the share of phone and paper to overall sales across months,What percentage of total sales is made up of phone and paper across months?
+What is the share of phone and paper to overall sales in 2020,What percentage of total sales in 2020 came from phone and paper?
+"What is the share of phone, paper and art for sales","What percentage of sales is attributed to phone, paper, and art?"
+"What is the share of phone, paper, art and binders for sales","What percentage of sales is attributed to phones, paper, art, and binders?"
+"What is the share of phone, paper, art, binders and envelopes for sales","What percentage of sales is attributed to phone, paper, art, binders, and envelopes?"
+What is the correlation between sales and discount percentage,How are sales related to discount percentage?
+What is the correlation between sales and discount percentage in 2020,What's the relationship between sales and discount percentage in 2020?
+What is the correlation of sales for phone and paper,What's the relationship between phone and paper sales?
+What is the correlation of sales for phone and paper in 2020,What's the 2020 sales correlation between phone and paper?
+What is the monthly trend of sales,What's the sales trend on a monthly basis?
+What is the monthly trend of sales and discount percentage,What's the sales and discount percentage trend monthly?
+What is the monthly trend of sales for phone,What's the phone sales trend on a monthly basis?
+What is the monthly trend of sales and discount percentage of phone and paper,What's the monthly sales trend and discount percentage for phone and paper?
+What is the monthly trend of sales of phone and paper,What's the sales trend for phone and paper on a monthly basis?
+What is the monthly trend of sales and discount percentage for phone,What's the monthly sales trend and discount percentage for phones?
+What is the monthly trend of sales in 2020,What's the 2020 monthly sales trend?
+What is the monthly trend of sales and discount percentage in 2020,What's the 2020 monthly sales trend and discount percentage?
+What is the monthly trend of sales for phone in 2020,What's the 2020 monthly sales trend for phones?
+What is the monthly trend of sales and discount percentage of phone and paper in 2020,What's the 2020 monthly trend for sales and discount percentage of phone and paper?
+What is the monthly trend of sales of phone and paper in 2020,What's the 2020 monthly sales trend for phone and paper?
+What is the monthly trend of sales and discount percentage for phone in 2020,What's the 2020 monthly sales trend and discount percentage for phones?
+What is the trend of sales for all sub category except chairs,"What's the sales trend for all subcategories, excluding chairs?"
+What is the trend of sales and discount percentage for all sub category except chairs,"What's the sales trend and discount percentage for all subcategories, excluding chairs?"
+What will be sales in 2020 for phone,What are the projected phone sales for 2020?
+What will be sales in 2020,What are the projected sales for 2020?
+Forecast of sales in 2020,Sales projections for 2020?
+Forecast of sales for phone in 2020,2020 phone sales forecast?
+what will be the monthly sales,What is the expected monthly sales figure?
+what will be the monthly sales of phone,What is the expected monthly sales figure for phones?
+what will be the monthly sales in 2020,What are the projected monthly sales for 2020?
+what will be the monthly sales of phone in 2020,What are the projected phone sales per month in 2020?
+Forecast of monthly sales,Monthly sales predictions?
+Forecast of monthly sales of phone,Monthly phone sales forecast?
+Forecast of monthly sales in 2020,What is the 2020 monthly sales prediction?
+Forecast of monthly sales of phone in 2020,What is the predicted monthly sales of phones in 2020?
+Which are the top sub category for sales except chairs,"Excluding chairs, what are the highest-selling subcategories?"
+Which are the top sub category for sales except chairs and accessories,"Excluding chairs and accessories, what are the highest-selling subcategories?"
+top sub category basis sales in 2020,Top-selling subcategory in 2020?
+Which are the top grown sub category basis sales in 2020,What were the highest-selling subcategories in 2020?
+top sub category basis sales across months,Top-selling subcategory by month?
+top sub category basis sales across months growth rate,Growth rate of top subcategory sales across months?
+top sub category contributing to growth of sales across months,Which top subcategory drives sales growth across months?
+top sub category by sales across country and months,Which sub category had the highest sales across all countries and months?
+Diagnose sales change in 2020,Identify the cause of sales fluctuations in 2020.
+Diagnose sales of phone change in 2020,Analyze the change in phone sales during 2020.
+Diagnose sales of phone and paper change in 2020,Analyze the change in phone and paper sales during 2020.
+Why sales changed in 2020,What caused sales to shift in 2020?
+Why sales of phone changed in 2020,What caused phone sales to shift in 2020?
+Why sales of phone and paper changed in 2020,What caused phone and paper sales to shift in 2020?
+What are the key drivers of sales,What factors drive sales the most?
+What are the drivers of sales,What factors drive sales?
+what are the key drivers of sales for phone,What factors drive phone sales the most?
+what are the key drivers of sales for phone and paper,What drives sales for phone and paper products?
+what are the drivers of sales for phone,What factors drive phone sales?
+what are the drivers of sales for phone and paper,What factors drive sales for phone and paper products?
+What is the monthly growth rate of sales for 2020,What's the 2020 sales growth rate per month?
+What is the monthly growth rate of sales,What's the sales growth rate per month?
+What is the growth rate of sales of phone for 2020,What's the 2020 phone sales growth rate?
+What is the growth rate of sales for 2020,What's the 2020 sales growth rate?
+What is the growth contribution to overall sales for sub category in 2020,What's the 2020 growth contribution for subcategory in overall sales?
+What is the growth contribution to overall sales for sub category across months,What is the growth contribution of subcategories to total sales across months?
+What is the growth contribution to overall sales for sub category except chairs in 2020,What's the 2020 growth contribution to total sales for subcategories excluding chairs?
+What is the growth contribution to overall sales for sub category except chairs across months,"What is the growth contribution of subcategories, excluding chairs, to total sales across months?"
+Which are the top sub category contributing to sales,What are the highest-selling subcategories?
+What is the contribution of phone for sales,What role do phones play in sales?
+What is the contribution of sales for sub category,What's the sales contribution for the sub-category?
+What is the contribution of phone to overall sales in 2020,What percentage of total sales in 2020 was from phones?
+What is the contribution of sales for sub category in 2020,What was the sales contribution for subcategories in 2020?
+What is the contribution of phone to overall sales across months,What percentage of total sales do phones represent monthly?
+What is the contribution of sales for sub category across months,What are the monthly sales contributions for each subcategory?
+How many sub category contributing to growth of sales across months,What is the number of subcategories contributing to sales growth monthly?
+How many sub category contributing to growth of sales in 2020,What is the number of subcategories contributing to sales growth in 2020?
+When was share of sales of sub category lowest,When did the subcategory's sales share hit its lowest point?
+When was share of sub category to overall sales lowest in 2020,"In 2020, when was the subcategory's lowest sales share?"
+When was share of sub category to overall sales lowest across months,In which month was the subcategory's sales share the lowest?
+When was share of sales of phone lowest,When did phone sales have the lowest share?
+When was share of phone to overall sales lowest in 2020,"In 2020, when was the lowest share of phone sales?"
+When was share of phone to overall sales lowest across months,In which month was the phone's share of total sales at its lowest?
+When was share of sales of phone and paper lowest,When did phone and paper sales have their lowest share?
+When was share of phone and paper to overall sales lowest in 2020,"In 2020, when was the lowest share of phone and paper in overall sales?"
+When was share of phone and paper to overall sales lowest across months,In which month was the lowest share of phone and paper sales recorded?
+When was the ratio of phone and paper for sales was lowest in 2020,"In 2020, when was the lowest ratio of phone to paper sales?"
+When was the ratio of phone and paper for sales across months was lowest,When was the lowest phone-to-paper sales ratio across months?
+When was the ratio of phone and paper for sales lowest,When did the phone-to-paper sales ratio reach its lowest point?
+When was the growth rate of sales lowest,When did sales growth rate hit its lowest point?
+When was the growth rate of sales lowest in 2020,"In 2020, when was the sales growth rate at its lowest?"
+When was the lowest growth rate of sales recorded across months,When did the sales growth rate hit its lowest point across months?
+When was the lowest sales contribution to growth of sub category recorded,When did the subcategory experience its lowest sales contribution to growth?
+When was the lowest sales contribution to growth of sub category recorded in 2020,"In 2020, when was the subcategory's lowest sales growth contribution recorded?"
+List the top sub category having sales more than 10k,Which subcategory has over 10k in sales?
+List the top sub category having sales more than 10k in 2020,Which subcategory had over 10k sales in 2020?
+List the top sub category basis sales in 2020,What were the highest-selling subcategories in 2020?
+Which are the top sub category based on share of sales,What are the highest-ranking subcategories by sales share?
+Which are the top sub category based on share of sales across months,What are the leading subcategories by sales share over months?
+Which are the top sub category basis share of sales in 2020,What are the leading subcategories based on 2020 sales share?
+Which are the top sub category based on ratio of phone and paper for sales,What are the highest-ranking subcategories by phone-to-paper sales ratio?
+Which are the top sub category based on ratio of phone and paper for sales across months,What are the highest-ranking subcategories by phone-to-paper sales ratio across months?
+Which are the top sub category based on ratio of phone and paper for sales in 2020,What are the highest-ranking subcategories in 2020 based on phone-to-paper sales ratio?
+Which are the top sub category based on correlation between sales and discount percentage,What are the highest-ranking subcategories based on sales and discount percentage correlation?
+Which are the top sub category based on correlation between sales and discount percentage in 2020,What are the highest-ranking subcategories in 2020 based on sales and discount percentage correlation?
+Which are the top sub category based on correlation of sales between phone and paper in 2020,What are the highest correlating subcategories for phone and paper sales in 2020?
+Which are the top sub category based on growth rate of sales in 2020,What are the highest-growth subcategories in 2020 sales?
+Which are the top sub category based on monthly growth rate of sales,What are the highest subcategories in terms of monthly sales growth rate?
+Which are the top sub category based on growth contribution to overall sales in 2020,What are the highest-growth subcategories contributing to total sales in 2020?
+Which are the top sub category based on growth contribution to overall sales across months,What are the highest growth-contributing subcategories for overall sales throughout the months?
+What is the trend of share of sales of phone across months,What's the phone sales share trend across months?
+What is the trend of share of phone sales in 2020,What's the 2020 trend for phone sales share?
+What is the monthly trend of share of phone of sales,What's the phone sales share trend monthly?
+What is the trend of share of sales of sub category across months,What's the sub-category sales share trend over months?
+What is the trend of share of sub category sales in 2020,What's the 2020 trend for subcategory sales share?
+What is the monthly trend of share of sub category sales,What's the monthly trend for subcategory sales shares?
+What is the trend of share of phone and paper basis sales across months,What is the monthly trend for phone and paper-based sales shares?
+What is the trend of share of phone and paper basis sales in 2020,What's the 2020 trend for phone and paper-based sales share?
+What is the monthly trend of share of phone and paper of sales,What's the monthly trend for phone and paper sales share?
+What is the trend of growth rate of sales across months,What's the sales growth rate trend monthly?
+What is the trend of growth rate of sales of sub category for 2020,What's the 2020 growth rate trend for subcategory sales?
+What is the trend of growth rate of sales in 2020,What's the 2020 sales growth rate trend?
+What is the trend of growth rate of phone and paper sales across the months,What is the monthly growth rate trend for phone and paper sales?
+What is the trend of ratio of sales of phone to paper,What's the phone-to-paper sales ratio trend?
+What is the trend of sales ratio of phone to paper in 2020,What's the 2020 sales ratio trend for phone vs
+What is the trend of ratio of sales of phone to paper across months,What is the monthly trend for the phone to paper sales ratio?
+What is the trend of growth contribution to overall sales for sub category in 2020,What's the 2020 growth contribution trend for subcategories in overall sales?
+What is the trend of growth contribution to overall sales for sub category to country in 2020,What was the growth contribution trend for subcategories to total sales in the country in 2020?
+What is the trend of contribution to growth for sales of sub category across months,What's the growth trend in sales for subcategories month by month?
+Why share of sales of phone changed in 2020,What caused the change in phone sales share in 2020?
+Diagnose the share of sales of phone in 2020,Determine the percentage of phone sales in 2020.
+List sub category based on contribution to growth of sales in 2020,Rank subcategories by their contribution to 2020 sales growth.
+List sub category based on growth rate of sales in 2020,Show subcategories by sales growth rate in 2020.
+List sub category based on monthly trends,Show subcategories according to monthly trends.
+List sub category based on monthly trends of sales,Show subcategories according to monthly sales trends.
+List sub category based on monthly trends of sales in 2020,Show 2020 monthly sales trends by subcategory.
+Which are the top sub category based on monthly trends for sales,What are the leading subcategories in monthly sales trends?
+Which are the top sub category based on monthly trends for sales in 2020,What are the highest-selling subcategories based on monthly trends in 2020?
+Which are the top sub category based on trend of growth rate of sales,What are the leading subcategories based on sales growth rate trends?
+Which are the top sub category based on trend of growth rate of sales in 2020,What are the leading subcategories based on 2020 sales growth rate trends?
+Which are the top sub category based on trend of share of sales,What are the leading subcategories based on sales share trends?
+Which are the top sub category based on trend of share of sales in 2020,What are the leading subcategories by share of sales trend in 2020?
+Which are the top sub category based on trend of contribution of sales,What are the leading subcategories based on sales contribution trends?
+Which are the top sub category based on trends of contribution of for sales in 2020,What are the leading subcategories in 2020 sales trends based on contributions?
+Which are the top sub category based on trend of contribution to growth of sales,What are the leading subcategories based on sales growth trends?
+Which are the top sub category based on trend of contribution to growth of sales in 2020,What are the leading subcategories contributing to sales growth in 2020 based on trends?
+When was contribution of sales of sub category lowest,When did sub-category sales have the lowest contribution?
+When was contribution of sales of phone lowest,When did phone sales contribute the least?
+What is the trend of contribution of phone sales in 2020,What's the 2020 trend for phone sales contributions?
+What is the monthly trend of contribution of phone of sales,What's the monthly trend for phone sales contributions?
+What is the monthly trend of contribution of sub category sales,What is the subcategory sales contribution trend monthly?
+Why contribution of sales of phone changed in 2020,What caused the change in phone sales contribution in 2020?
+Diagnose the contribution of sales of phone in 2020,Determine the sales contribution of phones in 2020.
+How many sub category are contributing to sales,What is the number of subcategories contributing to sales?
+How many sub category are contributing to sales in 2020,What is the number of subcategories contributing to 2020 sales?
+How many sub category are contributing to sales across months,What is the number of subcategories contributing to monthly sales?
+List of sub category basis share of sales,Share of sales by subcategory list.
+List of sub category basis share of sales in 2020,What were the subcategory shares of sales in 2020?
+List of sub category with sales share more than 10k,Which subcategories have sales shares exceeding 10k?
+List of sub category with sales share more than 10k in 2020,Which subcategories had over 10k sales share in 2020?
+List of sub category contributing to sales,Which subcategories contribute to sales?
+List of sub category contributing to sales in 2020,Which subcategories contributed to 2020 sales?
+List of sub category with sales contribution more than 10k,"Which subcategories have sales contributions over $10,000?"
+List of sub category with sales contribution more than 10k in 2020,Which subcategories had over 10k in sales during 2020?
