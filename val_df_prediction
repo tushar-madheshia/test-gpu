@@ -1,51 +1,51 @@
-,predicted_questions
-0,Which are the top sub category for sales except chairs and accessories
-1,What is the sales of sub category except chairs
-2,Which are the top sub category based on trend of growth rate of sales
-3,Why sales of phone changed in 2020
-4,What is the sales by sub category in 2020 vs 2021
-5,Which are the top sub category basis sales in 2020
-6,What is the sales and discount percentage by sub category in 2020
-7,What is the trend of contribution of phone sales in 2020
-8,what will be the monthly sales in 2020
-9,When was contribution of phone to sales lowest
-10,Which are the top sub category based on growth contribution to overall sales across months
-11,What is the growth rate of sales for 2020
-12,What is the sales of phone and paper in 2020
-13,What is the monthly trend of share of phone and paper basis sales
-14,what will be the monthly sales of phone in 2020
-15,When was the last time that sales of sub category was lowest
-16,"What is the sales , discount percentage and discount across months"
-17,Diagnose the share of sales of phone in 2020
-18,What is the correlation of sales for phone and paper
-19,What is the sales and discount percentage across months
-20,List sub category based on monthly trends
-21,top sub category contributing to growth of sales across months
-22,What is the growth contribution to overall sales for sub category except chairs across months
-23,List of sub category contributing to sales in 2020
-24,What is the sales and discount percentage by sub category and country in 2020
-25,Which are the top sub category based on trends for growth contribution to overall sales in 2020
-26,Which are the top sub category based on share of sales in 2020
-27,what will be the monthly sales of phone in 2020
-28,What is the share of phone for sales
-29,"What is the sales , discount percentage and discount by sub category across months"
-30,Diagnose sales of phone and paper change in 2020
-31,What is the monthly trend of share of phone of sales
-32,Which are the top sub category based on growth rate of sales in 2020
-33,What is the sales of phone across months
-34,When was the last time that sales was more than 10k and discount percentage was less than 5k in 2020
-35,When was the last time that sales was more than 10k and discount percentage was less than 5k
-36,What is the contribution of sales for each sub category across months
-37,List sub category based on contribution to growth of sales in 2020
-38,Which are the top sub category for sales except chairs
-39,What is the share of sub category to overall sales across months
-40,"What is the share of phone, paper, art and binders for sales"
-41,How many sub category across months
-42,What is the sales across months
-43,What is the monthly trend of sales and discount percentage of phone
-44,What is the trend of ratio of sales of phone to paper across months
-45,When was the lowest sales contribution to growth of sub category recorded in 2020
-46,List of sub category with sales more than 10k in 2020
-47,Why sales of phone and paper changed in 2020
-48,What is the monthly trend of share of phone of sales
-49,What is the monthly trend of contribution of sub category sales
+predicted_questions
+Which are the top sub category for sales except chairs and accessories
+What is the sales of sub category except chairs
+Which are the top sub category based on trend of growth rate of sales
+Why sales of phone changed in 2020
+What is the sales by sub category in 2020 vs 2021
+Which are the top sub category basis sales in 2020
+What is the sales and discount percentage by sub category in 2020
+What is the trend of contribution of phone sales in 2020
+what will be the monthly sales in 2020
+When was contribution of phone to sales lowest
+Which are the top sub category based on growth contribution to overall sales across months
+What is the growth rate of sales for 2020
+What is the sales of phone and paper in 2020
+What is the monthly trend of share of phone and paper basis sales
+what will be the monthly sales of phone in 2020
+When was the last time that sales of sub category was lowest
+"What is the sales , discount percentage and discount across months"
+Diagnose the share of sales of phone in 2020
+What is the correlation of sales for phone and paper
+What is the sales and discount percentage across months
+List sub category based on monthly trends
+top sub category contributing to growth of sales across months
+What is the growth contribution to overall sales for sub category except chairs across months
+List of sub category contributing to sales in 2020
+What is the sales and discount percentage by sub category and country in 2020
+Which are the top sub category based on trends for growth contribution to overall sales in 2020
+Which are the top sub category based on share of sales in 2020
+what will be the monthly sales of phone in 2020
+What is the share of phone for sales
+"What is the sales , discount percentage and discount by sub category across months"
+Diagnose sales of phone and paper change in 2020
+What is the monthly trend of share of phone of sales
+Which are the top sub category based on growth rate of sales in 2020
+What is the sales of phone across months
+When was the last time that sales was more than 10k and discount percentage was less than 5k in 2020
+When was the last time that sales was more than 10k and discount percentage was less than 5k
+What is the contribution of sales for each sub category across months
+List sub category based on contribution to growth of sales in 2020
+Which are the top sub category for sales except chairs
+What is the share of sub category to overall sales across months
+"What is the share of phone, paper, art and binders for sales"
+How many sub category across months
+What is the sales across months
+What is the monthly trend of sales and discount percentage of phone
+What is the trend of ratio of sales of phone to paper across months
+When was the lowest sales contribution to growth of sub category recorded in 2020
+List of sub category with sales more than 10k in 2020
+Why sales of phone and paper changed in 2020
+What is the monthly trend of share of phone of sales
+What is the monthly trend of contribution of sub category sales
