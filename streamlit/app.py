@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import random
 st.title("Simple Bot with message stream added, using Streamlit!")
-print(st.secrets["OPENAI_API_KEY"])
+#print(st.secrets["OPENAI_API_KEY"])
 # Initialize chat history
 if "messages" not in st.session_state:
   st.session_state["messages"]= []
