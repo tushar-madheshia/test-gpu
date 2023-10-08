@@ -13,7 +13,10 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 user_prompt =st.chat_input("Write your message here")
-user_prompt =st.chat_input("Write your message here")
+option = st.selectbox(
+         'How would you like to be contacted?',
+        ('Email', 'Home phone', 'Mobile phone'))
+st.write('You selected:', option)
 
 if user_prompt:
   with st.chat_message("user"):
