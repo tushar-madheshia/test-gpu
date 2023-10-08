@@ -15,7 +15,7 @@ for message in st.session_state.messages:
 user_prompt =st.chat_input("Write your message here")
 option = st.selectbox(
          'Select the model you want to use',
-        ('Email', 'Home phone', 'Mobile phone'))
+        ('Llama2', 'Mistral', 'T5'))
 st.write('You selected:', option)
 
 if user_prompt:
