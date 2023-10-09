@@ -1,504 +1,1047 @@
 question,user query
-What is the sales in 2020,What were the 2020 sales figures?
-What is the sales in 2020,What was the total sales income in 2020?
-What is the sales across months in 2020,"What are the sales numbers for 2020, month by month?"
-What is the sales by sub category in 2020,What were the sales by subcategory for the year 2020?
-What is the sales by sub category across months in 2020,How did subcategory sales perform on a monthly basis in 2020?
-What is the sales of phone in 2020,What is the 2020 figure for phone sales?
-What is the sales of phone across months in 2020,Monthly breakdown of 2020 phone sales?
-What is the sales by sub category in 2020 vs 2021,Subcategory sales comparison: 2020 vs 2021?
-What is the sales in 2020 vs 2021,2020 sales versus 2021 sales?
-What is the sales and discount percentage in 2020,Sales and discount % in 2020?
-What is the sales and discount percentage by sub category in 2020,What are the 2020 sales and discount percentages for each subcategory?
-What is the sales and discount percentage by sub category in 2020,"For 2020, what were the sales and discount percentages across subcategories?"
-What is the sales and discount percentage by sub category and country in 2020,What are the sales and discount percentages for subcategories and countries in the year 2020?
-What is the sales and discount percentage in 2020 vs 2021,What's the change in sales and discount percentages from 2020 to 2021?
-What is the sales and discount percentage by sub category in 2020 vs 2021,How have the sales and discount percentages by subcategory changed from 2020 to 2021?
-What is the sales and discount percentage by sub category and country in 2020 vs 2021,What were the sales and discount percentages in 2020 and 2021 for each country and subcategory?
-What are the sub category with sales is more than 10k,"In which subcategories do sales exceed 10,000?"
-What is the sales of sub category except chairs,What are the non-chair subcategory sales?
-What is the sales across months,What's the sales breakdown by month?
-What is the sales by sub category across months,How much did each subcategory sell per month?
-What is the sales of phone across months,What are the monthly phone sales figures?
-What is the sales of phone across months,What are the phone sales for each month?
-What is the sales and discount percentage across months,What are the sales and discount percentages month by month?
-What is the sales and discount percentage by sub category across months,Monthly sales and discount percentages in each subcategory?
-What is the sales and discount percentage by sub category and country across months,"Month by month, what are the sales and discount percentages for each subcategory and country?"
-What are the sub category with sales more than 10k across months,Name the subcategories with sales surpassing 10k each month.
-What is the sales of sub category except chairs across months,"Subcategory sales by month, with chairs excluded?"
-"What is the sales , discount percentage and discount across months","Monthly breakdown of sales, discount percentages, and discount amounts?"
-"What is the sales , discount percentage and discount by sub category across months","Monthly breakdown of sales, discount percentage, and discount by subcategory?"
-"What is the sales , discount percentage and discount in 2020","In 2020, what were the sales figures, discount percentage, and discount value?"
-"What is the sales , discount percentage and discount of sub category in 2020","What are the 2020 sales, discount %, and discount for each subcategory?"
-"What is the sales , discount percentage and discount of sub category in 2020","In 2020, what were the subcategory sales figures, discount percentages, and discounts?"
-Which sub category have sales more than 10k,Which subcategory has achieved over 10k in sales?
-Which sub category have sales more than 10k in 2020,"In 2020, which subcategory had sales above 10k?"
-What is the sales of phone and paper in 2020,How many phones and paper units were sold in 2020?
-What is the sales of phone and paper across months,Provide the sales numbers for phones and paper per month.
-What is the sales of phone and paper across months in 2020,Provide the 2020 monthly sales breakdown for phones and paper.
-List of sub category,Show me the subcategory list.
-List of sub category in 2020,Identify 2020's subcategories.
-List of sub category and country,Show subcategory and country list.
-List of sub category and country in 2020,Subcategories and countries in 2020: what's the list?
-List of sub category and country in 2020,2020's subcategories and countries: what were they?
-List of sub category having sales more than 10k,Which subcategories have 10k+ sales?
-List of sub category having sales more than 10k in 2020,2020's subcategories with 10k or more sales?
-List of sub category and country having sales more than 10k,Indicate subcategories and countries with sales beyond 10k.
-List of sub category and country having sales more than 10k in 2020,"What are the subcategories and countries with 2020 sales above 10,000?"
-List of sub category except chairs,"Identify subcategories, omitting chairs."
-List of sub category across months,Show subcategories across months.
-List of sub category except chairs across months,"Sub-category list by month, without chairs."
-How many sub category are there,Count the subcategories present.
-How many sub category across months,What is the count of subcategories for each month?
-How many sub category across months,Monthly count of subcategories?
-How many sub category where sales is more than 10k,In how many subcategories are sales higher than 10k?
-How many sub category across months where sales is more than 10k,Monthly subcategories with sales greater than 10k?
-How many sub category contributing to growth of sales across months,Monthly sales growth: how many subcategories involved?
-When was sales lowest,When did the sales trough happen?
-When was sales lowest in 2020,During which month of 2020 were sales the lowest?
-When was sales lowest for phone in 2020,In which month of 2020 were phone sales the lowest?
-When was sales lowest across months,In what month did sales reach the minimum level?
-When was the last time that sales lowest,When was the most recent low-sales period?
-When was the last time that sales of phone was lowest,When did phone sales last hit their lowest point?
-When was the last time that sales of phone was lowest,When was the last nadir in phone sales?
-When was the last time that sales of sub category was lowest,When did the sub-category last see its lowest sales figures?
-When was the last time that sales more than 10k,Most recent 10k+ sales?
-When was the last time that sales of phone was more than 10k,When was the previous 10k+ phone sales occurrence?
-When was the last time that sales and discount percentage was more than 10k,Most recent date with sales and discount percentage over 10k?
-When was the last time that sales and discount percentage of phone was more than 10k,When was the previous instance of phone sales and discount percentage above 10k?
-When was the last time that sales was more than 10k and discount percentage was less than 5k,Last time sales surpassed 10k with a discount percentage under 5k?
-When was the last time that sales lowest in 2020,When in 2020 were sales at their minimum?
-When was the last time that sales of phone was lowest in 2020,When did phone sales hit the lowest point in 2020?
-When was the last time that sales of sub category was lowest in 2020,"In 2020, when was the sub-category's lowest sales point?"
-When was the last time that sales of sub category was lowest in 2020,What was the lowest sales date for the sub-category in 2020?
-When was the last time that sales more than 10k in 2020,2020's final date with over 10k sales?
-When was the last time that sales of phone was more than 10k in 2020,"In 2020, when did phone sales last cross the 10k mark?"
-When was the last time that sales and discount percentage was more than 10k in 2020,When was the last 10k+ sales and discount percentage event in 2020?
-When was the last time that sales and discount percentage of phone was more than 10k in 2020,What was the last 2020 date when phone sales and discount percentage were above 10k?
-When was the last time that sales was more than 10k and discount percentage was less than 5k in 2020,When did 2020 last witness sales above 10k and discount percentage below 5k?
-What is the ratio of phone and paper for sales,Ratio of sales: phone and paper?
-What is the ratio of phone and paper for sales across months,Monthly phone and paper sales ratio?
-What is the ratio of phone and paper for sales in 2020,"In 2020, what was the sales ratio for phone vs"
-What is the share of sub category for sales,What percentage of sales belongs to the subcategory?
-What is the share of sub category for sales,How much does the subcategory account for in sales?
-What is the share of sub category to overall sales across months,How significant are subcategories in overall sales across months?
-What is the share of sub category to overall sales in 2020,"In 2020, what was the ratio of subcategory sales to overall sales?"
-What is the share of phone for sales,Phone sales represent what percentage of total sales?
-What is the share of phone to overall sales across months,What's the phone sales percentage in overall sales per month?
-What is the share of phone to overall sales in 2020,"In 2020, what fraction of total sales came from phones?"
-What is the share of phone and paper for sales,What portion of sales is from phone and paper?
-What is the share of phone and paper to overall sales across months,How much do phone and paper sales contribute to the total sales monthly?
-What is the share of phone and paper to overall sales in 2020,"In 2020, what was the proportion of phone and paper sales to overall sales?"
-"What is the share of phone, paper and art for sales","What percentage of sales is attributed to phone, paper, and art?"
-"What is the share of phone, paper and art for sales","What is the sales composition of phone, paper, and art?"
-"What is the share of phone, paper, art and binders for sales","What part of sales is represented by phones, paper, art, and binders?"
-"What is the share of phone, paper, art, binders and envelopes for sales","What is the sales composition of phone, paper, art, binders, and envelopes?"
-What is the correlation between sales and discount percentage,What is the association between sales and discount percentage?
-What is the correlation between sales and discount percentage in 2020,"In 2020, what is the association between sales and discount percentage?"
-What is the correlation of sales for phone and paper,How are phone and paper sales correlated?
-What is the correlation of sales for phone and paper in 2020,How do phone and paper sales relate in 2020?
-What is the monthly trend of sales,Sales trend for each month?
-What is the monthly trend of sales and discount percentage,Monthly sales and discount percentage trend?
-What is the monthly trend of sales for phone,What's the phone sales trend on a monthly basis?
-What is the monthly trend of sales for phone,Phone sales: what's the monthly progression?
-What is the monthly trend of sales and discount percentage of phone and paper,Phone and paper: monthly sales trends and discount percentages?
-What is the monthly trend of sales of phone and paper,Monthly variations in phone and paper sales?
-What is the monthly trend of sales and discount percentage for phone,Sales and discount percentage trends for phones monthly?
-What is the monthly trend of sales in 2020,"2020 sales trend, month by month?"
-What is the monthly trend of sales and discount percentage in 2020,What are the monthly sales and discount percentages in 2020?
-What is the monthly trend of sales for phone in 2020,Phone sales' monthly pattern in 2020?
-What is the monthly trend of sales and discount percentage of phone and paper in 2020,Can you show the sales and discount percentage trends for phone and paper in each month of 2020?
-What is the monthly trend of sales of phone and paper in 2020,"In 2020, what is the trend of phone and paper sales per month?"
-What is the monthly trend of sales and discount percentage for phone in 2020,What's the 2020 monthly sales trend and discount percentage for phones?
-What is the monthly trend of sales and discount percentage for phone in 2020,What's the trend for phone sales and discounts per month in 2020?
-What is the trend of sales for all sub category except chairs,"Excluding chairs, how are sales progressing for all subcategories?"
-What is the trend of sales and discount percentage for all sub category except chairs,"What is the sales and discount percentage trend for all subcategories, with chairs excluded?"
-What will be sales in 2020 for phone,"In the year 2020, what will the phone sales amount to?"
-What will be sales in 2020,What's the anticipated sales revenue for 2020?
-Forecast of sales in 2020,Sales estimates for 2020?
-Forecast of sales for phone in 2020,Expected 2020 phone sales?
-what will be the monthly sales,What's the sales forecast for the month?
-what will be the monthly sales of phone,How many phones will be sold in a month?
-what will be the monthly sales in 2020,What are the projected monthly sales for 2020?
-what will be the monthly sales in 2020,What are the 2020 sales on a month-by-month basis?
-what will be the monthly sales of phone in 2020,How many phones are likely to be sold monthly during 2020?
-Forecast of monthly sales,Expected sales for each month?
-Forecast of monthly sales of phone,Monthly phone sales expectations?
-Forecast of monthly sales in 2020,Anticipated monthly sales in 2020?
-Forecast of monthly sales of phone in 2020,Phone sales projections for each month of 2020?
-Which are the top sub category for sales except chairs,"What are the leading sales subcategories, excluding chairs?"
-Which are the top sub category for sales except chairs and accessories,"Best-selling subcategories, not including chairs and accessories?"
-top sub category basis sales in 2020,Highest sales subcategory in 2020?
-Which are the top grown sub category basis sales in 2020,What were the highest-selling subcategories in 2020?
-Which are the top grown sub category basis sales in 2020,Top-selling subcategories during 2020?
-top sub category basis sales across months,Monthly highest sales by subcategory?
-top sub category basis sales across months growth rate,Top subcategory sales growth across months?
-top sub category contributing to growth of sales across months,Which subcategory leads in sales growth over various months?
-top sub category by sales across country and months,Which sub category had the greatest sales across all countries and months?
-Diagnose sales change in 2020,Assess the changes in sales for the year 2020.
-Diagnose sales of phone change in 2020,Determine the alteration in 2020 phone sales.
-Diagnose sales of phone and paper change in 2020,Examine the shift in phone and paper sales for 2020.
-Why sales changed in 2020,Reasons for sales alteration in 2020?
-Why sales of phone changed in 2020,What caused phone sales to shift in 2020?
-Why sales of phone changed in 2020,Why did 2020 see a change in phone sales?
-Why sales of phone and paper changed in 2020,Why did the sales of phone and paper experience a change in 2020?
-What are the key drivers of sales,What components play a key role in sales?
-What are the drivers of sales,What are the primary factors affecting sales?
-what are the key drivers of sales for phone,What are the major determinants of phone sales?
-what are the key drivers of sales for phone and paper,What are the primary determinants of phone and paper sales?
-what are the drivers of sales for phone,What are the key drivers for phone sales?
-what are the drivers of sales for phone and paper,What influences sales of phone and paper items?
-What is the monthly growth rate of sales for 2020,Monthly sales growth rate in 2020?
-What is the monthly growth rate of sales,What's the sales growth rate per month?
-What is the monthly growth rate of sales,Sales growth rate for each month?
-What is the growth rate of sales of phone for 2020,Phone sales' growth rate in the year 2020?
-What is the growth rate of sales for 2020,What is the sales growth percentage for 2020?
-What is the growth contribution to overall sales for sub category in 2020,How much growth did the subcategory contribute to 2020's total sales?
-What is the growth contribution to overall sales for sub category across months,"Monthly, what is the growth contribution of subcategories to total sales?"
-What is the growth contribution to overall sales for sub category except chairs in 2020,"In 2020, what's the growth contribution for subcategories, other than chairs, to total sales?"
-What is the growth contribution to overall sales for sub category except chairs across months,"What is the monthly growth rate of subcategories, except chairs, in overall sales?"
-Which are the top sub category contributing to sales,Identify the leading subcategories for sales.
-What is the contribution of phone for sales,How do phones impact sales figures?
-What is the contribution of sales for sub category,What's the sales contribution for the sub-category?
-What is the contribution of sales for sub category,What's the sales proportion for the sub-category?
-What is the contribution of phone to overall sales in 2020,"In 2020, what was the phone's impact on overall sales?"
-What is the contribution of sales for sub category in 2020,How significant was the subcategory sales contribution in 2020?
-What is the contribution of phone to overall sales across months,What part do phones play in total sales across months?
-What is the contribution of sales for sub category across months,Monthly distribution of sales contributions in subcategories?
-How many sub category contributing to growth of sales across months,Number of subcategories increasing sales growth month by month?
-How many sub category contributing to growth of sales in 2020,How many subcategories played a role in boosting sales in 2020?
-When was share of sales of sub category lowest,When was the lowest sales share for the subcategory recorded?
-When was share of sub category to overall sales lowest in 2020,When did the subcategory have its smallest sales proportion in 2020?
-When was share of sub category to overall sales lowest across months,In which month was the subcategory's sales share the lowest?
-When was share of sub category to overall sales lowest across months,When did the subcategory's share of overall sales hit its lowest level?
-When was share of sales of phone lowest,At what date was the phone sales share at its minimum?
-When was share of phone to overall sales lowest in 2020,When did the share of phone sales hit its lowest in 2020?
-When was share of phone to overall sales lowest across months,In which month did phone sales make up the smallest portion of overall sales?
-When was share of sales of phone and paper lowest,At which point in time was the share of phone and paper sales the lowest?
-When was share of phone and paper to overall sales lowest in 2020,At what point in 2020 was the share of phone and paper sales at its lowest?
-When was share of phone and paper to overall sales lowest across months,When was the lowest monthly share of phone and paper sales?
-When was the ratio of phone and paper for sales was lowest in 2020,What was the date of the lowest phone and paper sales ratio in 2020?
-When was the ratio of phone and paper for sales across months was lowest,In which month was the phone-paper sales ratio at its lowest?
-When was the ratio of phone and paper for sales lowest,When did the phone-to-paper sales ratio reach its lowest point?
-When was the ratio of phone and paper for sales lowest,At what moment was the phone and paper sales ratio at its lowest?
-When was the growth rate of sales lowest,When was the sales growth rate at its least?
-When was the growth rate of sales lowest in 2020,"In 2020, when was the minimum sales growth rate recorded?"
-When was the lowest growth rate of sales recorded across months,"Across months, when was the sales growth rate at its lowest?"
-When was the lowest sales contribution to growth of sub category recorded,When was the smallest sales contribution to the subcategory's growth observed?
-When was the lowest sales contribution to growth of sub category recorded in 2020,"In 2020, when was the least sales contribution to subcategory growth observed?"
-List the top sub category having sales more than 10k,"What is the top subcategory with sales above 10,000?"
-List the top sub category having sales more than 10k in 2020,Identify the leading subcategory with sales exceeding 10k in 2020.
-List the top sub category basis sales in 2020,Identify the best-selling subcategories of 2020.
-Which are the top sub category based on share of sales,What are the highest-ranking subcategories by sales share?
-Which are the top sub category based on share of sales,Top-performing subcategories by share of sales?
-Which are the top sub category based on share of sales across months,Which subcategories rank highest in sales share across months?
-Which are the top sub category basis share of sales in 2020,"In 2020, what were the top subcategories in terms of sales share?"
-Which are the top sub category based on ratio of phone and paper for sales,Rank subcategories by their phone-to-paper sales ratio.
-Which are the top sub category based on ratio of phone and paper for sales across months,Which subcategories excel in phone-to-paper sales ratios throughout the months?
-Which are the top sub category based on ratio of phone and paper for sales in 2020,"In 2020, what were the top subcategories based on the ratio of phone sales to paper sales?"
-Which are the top sub category based on correlation between sales and discount percentage,Top subcategories based on sales and discount percentage correlation?
-Which are the top sub category based on correlation between sales and discount percentage in 2020,Identify the top subcategories in 2020 with a strong correlation between sales and discount percentage.
-Which are the top sub category based on correlation of sales between phone and paper in 2020,"In 2020, which subcategories had the strongest sales correlation between phone and paper?"
-Which are the top sub category based on growth rate of sales in 2020,What are the highest-growth subcategories in 2020 sales?
-Which are the top sub category based on growth rate of sales in 2020,Which subcategories had the top sales growth rates in '20?
-Which are the top sub category based on monthly growth rate of sales,Which subcategories lead in monthly sales growth rate?
-Which are the top sub category based on growth contribution to overall sales in 2020,"In 2020, what were the main subcategories driving growth in overall sales?"
-Which are the top sub category based on growth contribution to overall sales across months,Which subcategories have the highest growth contribution to total sales over the months?
-What is the trend of share of sales of phone across months,How does the share of phone sales change from month to month?
-What is the trend of share of phone sales in 2020,What was the 2020 phone sales share trajectory?
-What is the monthly trend of share of phone of sales,Trend in monthly share of phone sales?
-What is the trend of share of sales of sub category across months,Monthly trend of sub-category sales share?
-What is the trend of share of sub category sales in 2020,"In 2020, what is the subcategory sales share trend?"
-What is the monthly trend of share of sub category sales,What's the monthly trend for subcategory sales shares?
-What is the monthly trend of share of sub category sales,Month-wise trend of subcategory sales shares?
-What is the trend of share of phone and paper basis sales across months,What is the monthly trajectory of phone and paper sales shares?
-What is the trend of share of phone and paper basis sales in 2020,What is the 2020 trend in sales share for phone and paper basis?
-What is the monthly trend of share of phone and paper of sales,Phone and paper sales share: what's the monthly trend?
-What is the trend of growth rate of sales across months,Month-wise sales growth rate trend?
-What is the trend of growth rate of sales of sub category for 2020,What's the trend for subcategory sales growth in 2020?
-What is the trend of growth rate of sales in 2020,2020's trend in sales growth rate?
-What is the trend of growth rate of phone and paper sales across the months,What's the pattern of phone and paper sales growth rates month by month?
-What is the trend of ratio of sales of phone to paper,Trend of phone sales to paper sales ratio?
-What is the trend of sales ratio of phone to paper in 2020,What's the 2020 sales ratio trend for phone vs
-What is the trend of sales ratio of phone to paper in 2020,What's the 2020 trend for the sales ratio of phone and paper?
-What is the trend of ratio of sales of phone to paper across months,What is the monthly fluctuation in the phone to paper sales ratio?
-What is the trend of growth contribution to overall sales for sub category in 2020,What was the growth trend of subcategories in overall sales for 2020?
-What is the trend of growth contribution to overall sales for sub category to country in 2020,How did subcategories contribute to the growth trend of overall sales in the country in 2020?
-What is the trend of contribution to growth for sales of sub category across months,Growth contribution pattern for subcategory sales across months?
-Why share of sales of phone changed in 2020,What influenced the variation in phone sales share in 2020?
-Diagnose the share of sales of phone in 2020,Calculate the 2020 phone sales ratio.
-List sub category based on contribution to growth of sales in 2020,Identify top subcategories for sales growth in 2020.
-List sub category based on growth rate of sales in 2020,Display subcategories ranked by 2020 sales growth rate.
-List sub category based on monthly trends,Show subcategories according to monthly trends.
-List sub category based on monthly trends,Categorize subcategories by monthly trend data.
-List sub category based on monthly trends of sales,Illustrate subcategories related to monthly sales changes.
-List sub category based on monthly trends of sales in 2020,Demonstrate subcategories corresponding to monthly sales trends of 2020.
-Which are the top sub category based on monthly trends for sales,Top-ranking subcategories based on monthly sales trends?
-Which are the top sub category based on monthly trends for sales in 2020,What were the best-performing subcategories in terms of sales for each month in 2020?
-Which are the top sub category based on trend of growth rate of sales,What are the best-performing subcategories based on sales growth trends?
-Which are the top sub category based on trend of growth rate of sales in 2020,"In 2020, which subcategories had the top growth rate trends in sales?"
-Which are the top sub category based on trend of share of sales,Which subcategories rank highest in sales share trends?
-Which are the top sub category based on trend of share of sales in 2020,Identify the top subcategories based on 2020 sales share trends.
-Which are the top sub category based on trend of contribution of sales,What are the leading subcategories based on sales contribution trends?
-Which are the top sub category based on trend of contribution of sales,"In terms of sales contribution trends, which subcategories lead the pack?"
-Which are the top sub category based on trends of contribution of for sales in 2020,Which subcategories ranked highest in sales contribution trends during 2020?
-Which are the top sub category based on trend of contribution to growth of sales,Which subcategories have the strongest sales growth trends?
-Which are the top sub category based on trend of contribution to growth of sales in 2020,Which subcategories contributed the most to sales growth trends in 2020?
-When was contribution of sales of sub category lowest,When was the lowest contribution of sub-category sales?
-When was contribution of sales of phone lowest,When did phone sales have the smallest contribution?
-What is the trend of contribution of phone sales in 2020,How did phone sales contribute in 2020 trends?
-What is the monthly trend of contribution of phone of sales,Phone sales contribution trend per month?
-What is the monthly trend of contribution of sub category sales,Monthly subcategory sales contribution trend?
-Why contribution of sales of phone changed in 2020,What caused the change in phone sales contribution in 2020?
-Why contribution of sales of phone changed in 2020,What led to the variation in the contribution of phone sales in 2020?
-Diagnose the contribution of sales of phone in 2020,Measure the influence of phone sales on 2020's total sales.
-How many sub category are contributing to sales,How many subcategories are linked to sales?
-How many sub category are contributing to sales in 2020,How many subcategories had sales contributions in 2020?
-How many sub category are contributing to sales across months,Count of subcategories contributing to sales over months?
-List of sub category basis share of sales,Distribution of sales across subcategories.
-List of sub category basis share of sales in 2020,Subcategory sales percentages in 2020?
-List of sub category with sales share more than 10k,Identify subcategories where sales share is above 10k.
-List of sub category with sales share more than 10k in 2020,Identify subcategories with sales shares exceeding 10k in 2020.
-List of sub category contributing to sales,Which subcategories contribute to sales?
-List of sub category contributing to sales,Subcategories that affect sales?
-List of sub category contributing to sales in 2020,Sales-influencing subcategories in 2020?
-List of sub category with sales contribution more than 10k,Subcategories with sales contributions of 10k or more?
-List of sub category with sales contribution more than 10k in 2020,What are the subcategories with 10k+ sales in 2020?
-What is the sales in 2020,What were the 2020 sales figures?
-What is the sales across months in 2020,What are the 2020 monthly sales figures?
-What is the sales by sub category in 2020,What are the 2020 sales figures for each subcategory?
-What is the sales by sub category across months in 2020,What are the 2020 monthly sales figures for each subcategory?
-What is the sales of phone in 2020,What were the 2020 phone sales figures?
-What is the sales of phone across months in 2020,What are the 2020 monthly phone sales?
-What is the sales by sub category in 2020 vs 2021,What are the 2020 vs 2021 sales figures for each subcategory?
-What is the sales in 2020 vs 2021,Sales comparison: 2020 vs 2021?
-What is the sales and discount percentage in 2020,What are the 2020 sales and discount percentages?
-What is the sales and discount percentage by sub category in 2020,What are the 2020 sales and discount percentages for each subcategory?
-What is the sales and discount percentage by sub category and country in 2020,What are the 2020 sales and discount percentages for each subcategory and country?
-What is the sales and discount percentage in 2020 vs 2021,What are the 2020 vs 2021 sales and discount percentages?
-What is the sales and discount percentage by sub category in 2020 vs 2021,What are the 2020 vs 2021 sales and discount percentages for each subcategory?
-What is the sales and discount percentage by sub category and country in 2020 vs 2021,What are the 2020 vs 2021 sales and discount percentages for each subcategory and country?
-What are the sub category with sales is more than 10k,Which subcategories have sales exceeding 10k?
-What is the sales of sub category except chairs,What are the sales figures for subcategories excluding chairs?
-What is the sales across months,What are the monthly sales figures?
-What is the sales by sub category across months,What are the monthly sales figures for each subcategory?
-What is the sales of phone across months,What are the monthly phone sales figures?
-What is the sales and discount percentage across months,What are the monthly sales and discount percentages?
-What is the sales and discount percentage by sub category across months,What are the monthly sales and discount percentages for each subcategory?
-What is the sales and discount percentage by sub category and country across months,What are the monthly sales and discount percentages for each subcategory and country?
-What are the sub category with sales more than 10k across months,Which subcategories have over 10k in sales monthly?
-What is the sales of sub category except chairs across months,"What are the monthly sales for subcategories, excluding chairs?"
-"What is the sales , discount percentage and discount across months","What are the monthly sales, discount percentage, and discount amounts?"
-"What is the sales , discount percentage and discount by sub category across months","What are the monthly sales, discount percentage, and discount for each subcategory?"
-"What is the sales , discount percentage and discount in 2020","What were the 2020 sales, discount %, and discount amount?"
-"What is the sales , discount percentage and discount of sub category in 2020","What are the 2020 sales, discount %, and discount for each subcategory?"
-Which sub category have sales more than 10k,Which subcategory has over 10k in sales?
-Which sub category have sales more than 10k in 2020,"In 2020, which subcategory had over 10k sales?"
-What is the sales of phone and paper in 2020,What are the 2020 sales figures for phones and paper?
-What is the sales of phone and paper across months,What are the monthly sales figures for phones and paper?
-What is the sales of phone and paper across months in 2020,What are the 2020 monthly sales figures for phones and paper?
-List of sub category,Subcategory list?
-List of sub category in 2020,What are the subcategories in 2020?
-List of sub category and country,Subcategories and countries list?
-List of sub category and country in 2020,Subcategories and countries in 2020: what's the list?
-List of sub category having sales more than 10k,Which subcategories have sales exceeding 10k?
-List of sub category having sales more than 10k in 2020,Which subcategories had over 10k sales in 2020?
-List of sub category and country having sales more than 10k,Which subcategories and countries have sales exceeding 10k?
-List of sub category and country having sales more than 10k in 2020,Which subcategories and countries had over 10k sales in 2020?
-List of sub category except chairs,Subcategories excluding chairs?
-List of sub category across months,Subcategory list for each month?
-List of sub category except chairs across months,"List sub-categories, excluding chairs, for each month."
-How many sub category are there,What is the total number of subcategories?
-How many sub category across months,What is the count of subcategories for each month?
-How many sub category where sales is more than 10k,What is the count of subcategories with sales exceeding 10k?
-How many sub category across months where sales is more than 10k,What is the count of subcategories with over 10k sales per month?
-How many sub category contributing to growth of sales across months,What is the number of subcategories contributing to sales growth monthly?
-When was sales lowest,When did sales hit the lowest point?
-When was sales lowest in 2020,"In 2020, when were sales at their lowest?"
-When was sales lowest for phone in 2020,"In 2020, when were phone sales at their lowest?"
-When was sales lowest across months,In which month were sales at their lowest?
-When was the last time that sales lowest,When did sales last hit their lowest point?
-When was the last time that sales of phone was lowest,When did phone sales last hit their lowest point?
-When was the last time that sales of sub category was lowest,When did sub-category sales last hit their lowest point?
-When was the last time that sales more than 10k,When did sales last exceed 10k?
-When was the last time that sales of phone was more than 10k,When did phone sales last exceed 10k?
-When was the last time that sales and discount percentage was more than 10k,When did sales and discount percentage last exceed 10k?
-When was the last time that sales and discount percentage of phone was more than 10k,When did phone sales and discount percentage last exceed 10k?
-When was the last time that sales was more than 10k and discount percentage was less than 5k,When did sales last exceed 10k with a discount percentage below 5k?
-When was the last time that sales lowest in 2020,"In 2020, when did sales hit their lowest point?"
-When was the last time that sales of phone was lowest in 2020,"In 2020, when were phone sales at their lowest?"
-When was the last time that sales of sub category was lowest in 2020,"In 2020, when was the sub-category's lowest sales point?"
-When was the last time that sales more than 10k in 2020,"In 2020, when did sales last exceed 10k?"
-When was the last time that sales of phone was more than 10k in 2020,"In 2020, when did phone sales last exceed 10k?"
-When was the last time that sales and discount percentage was more than 10k in 2020,"In 2020, when did sales and discount percentage last exceed 10k?"
-When was the last time that sales and discount percentage of phone was more than 10k in 2020,"In 2020, when did phone sales and discount percentage last exceed 10k?"
-When was the last time that sales was more than 10k and discount percentage was less than 5k in 2020,"In 2020, when did sales last exceed 10k with a discount percentage below 5k?"
-What is the ratio of phone and paper for sales,What's the phone to paper sales ratio?
-What is the ratio of phone and paper for sales across months,What's the phone to paper sales ratio across months?
-What is the ratio of phone and paper for sales in 2020,What's the 2020 sales ratio of phone to paper?
-What is the share of sub category for sales,What percentage of sales belongs to the subcategory?
-What is the share of sub category to overall sales across months,What percentage of total sales do subcategories represent across months?
-What is the share of sub category to overall sales in 2020,What percentage of total sales did subcategories contribute in 2020?
-What is the share of phone for sales,What percentage of sales is attributed to phone?
-What is the share of phone to overall sales across months,What percentage of total sales are phone sales across months?
-What is the share of phone to overall sales in 2020,What percentage of total sales did phones constitute in 2020?
-What is the share of phone and paper for sales,What percentage of sales is attributed to phone and paper?
-What is the share of phone and paper to overall sales across months,What percentage of total sales is made up of phone and paper across months?
-What is the share of phone and paper to overall sales in 2020,What percentage of total sales in 2020 came from phone and paper?
-"What is the share of phone, paper and art for sales","What percentage of sales is attributed to phone, paper, and art?"
-"What is the share of phone, paper, art and binders for sales","What percentage of sales is attributed to phones, paper, art, and binders?"
-"What is the share of phone, paper, art, binders and envelopes for sales","What percentage of sales is attributed to phone, paper, art, binders, and envelopes?"
-What is the correlation between sales and discount percentage,How are sales related to discount percentage?
-What is the correlation between sales and discount percentage in 2020,What's the relationship between sales and discount percentage in 2020?
-What is the correlation of sales for phone and paper,What's the relationship between phone and paper sales?
-What is the correlation of sales for phone and paper in 2020,What's the 2020 sales correlation between phone and paper?
-What is the monthly trend of sales,What's the sales trend on a monthly basis?
-What is the monthly trend of sales and discount percentage,What's the sales and discount percentage trend monthly?
-What is the monthly trend of sales for phone,What's the phone sales trend on a monthly basis?
-What is the monthly trend of sales and discount percentage of phone and paper,What's the monthly sales trend and discount percentage for phone and paper?
-What is the monthly trend of sales of phone and paper,What's the sales trend for phone and paper on a monthly basis?
-What is the monthly trend of sales and discount percentage for phone,What's the monthly sales trend and discount percentage for phones?
-What is the monthly trend of sales in 2020,What's the 2020 monthly sales trend?
-What is the monthly trend of sales and discount percentage in 2020,What's the 2020 monthly sales trend and discount percentage?
-What is the monthly trend of sales for phone in 2020,What's the 2020 monthly sales trend for phones?
-What is the monthly trend of sales and discount percentage of phone and paper in 2020,What's the 2020 monthly trend for sales and discount percentage of phone and paper?
-What is the monthly trend of sales of phone and paper in 2020,What's the 2020 monthly sales trend for phone and paper?
-What is the monthly trend of sales and discount percentage for phone in 2020,What's the 2020 monthly sales trend and discount percentage for phones?
-What is the trend of sales for all sub category except chairs,"What's the sales trend for all subcategories, excluding chairs?"
-What is the trend of sales and discount percentage for all sub category except chairs,"What's the sales trend and discount percentage for all subcategories, excluding chairs?"
-What will be sales in 2020 for phone,What are the projected phone sales for 2020?
-What will be sales in 2020,What are the projected sales for 2020?
-Forecast of sales in 2020,Sales projections for 2020?
-Forecast of sales for phone in 2020,2020 phone sales forecast?
-what will be the monthly sales,What is the expected monthly sales figure?
-what will be the monthly sales of phone,What is the expected monthly sales figure for phones?
-what will be the monthly sales in 2020,What are the projected monthly sales for 2020?
-what will be the monthly sales of phone in 2020,What are the projected phone sales per month in 2020?
-Forecast of monthly sales,Monthly sales predictions?
-Forecast of monthly sales of phone,Monthly phone sales forecast?
-Forecast of monthly sales in 2020,What is the 2020 monthly sales prediction?
-Forecast of monthly sales of phone in 2020,What is the predicted monthly sales of phones in 2020?
-Which are the top sub category for sales except chairs,"Excluding chairs, what are the highest-selling subcategories?"
-Which are the top sub category for sales except chairs and accessories,"Excluding chairs and accessories, what are the highest-selling subcategories?"
-top sub category basis sales in 2020,Top-selling subcategory in 2020?
-Which are the top grown sub category basis sales in 2020,What were the highest-selling subcategories in 2020?
-top sub category basis sales across months,Top-selling subcategory by month?
-top sub category basis sales across months growth rate,Growth rate of top subcategory sales across months?
-top sub category contributing to growth of sales across months,Which top subcategory drives sales growth across months?
-top sub category by sales across country and months,Which sub category had the highest sales across all countries and months?
-Diagnose sales change in 2020,Identify the cause of sales fluctuations in 2020.
-Diagnose sales of phone change in 2020,Analyze the change in phone sales during 2020.
-Diagnose sales of phone and paper change in 2020,Analyze the change in phone and paper sales during 2020.
-Why sales changed in 2020,What caused sales to shift in 2020?
-Why sales of phone changed in 2020,What caused phone sales to shift in 2020?
-Why sales of phone and paper changed in 2020,What caused phone and paper sales to shift in 2020?
-What are the key drivers of sales,What factors drive sales the most?
-What are the drivers of sales,What factors drive sales?
-what are the key drivers of sales for phone,What factors drive phone sales the most?
-what are the key drivers of sales for phone and paper,What drives sales for phone and paper products?
-what are the drivers of sales for phone,What factors drive phone sales?
-what are the drivers of sales for phone and paper,What factors drive sales for phone and paper products?
-What is the monthly growth rate of sales for 2020,What's the 2020 sales growth rate per month?
-What is the monthly growth rate of sales,What's the sales growth rate per month?
-What is the growth rate of sales of phone for 2020,What's the 2020 phone sales growth rate?
-What is the growth rate of sales for 2020,What's the 2020 sales growth rate?
-What is the growth contribution to overall sales for sub category in 2020,What's the 2020 growth contribution for subcategory in overall sales?
-What is the growth contribution to overall sales for sub category across months,What is the growth contribution of subcategories to total sales across months?
-What is the growth contribution to overall sales for sub category except chairs in 2020,What's the 2020 growth contribution to total sales for subcategories excluding chairs?
-What is the growth contribution to overall sales for sub category except chairs across months,"What is the growth contribution of subcategories, excluding chairs, to total sales across months?"
-Which are the top sub category contributing to sales,What are the highest-selling subcategories?
-What is the contribution of phone for sales,What role do phones play in sales?
-What is the contribution of sales for sub category,What's the sales contribution for the sub-category?
-What is the contribution of phone to overall sales in 2020,What percentage of total sales in 2020 was from phones?
-What is the contribution of sales for sub category in 2020,What was the sales contribution for subcategories in 2020?
-What is the contribution of phone to overall sales across months,What percentage of total sales do phones represent monthly?
-What is the contribution of sales for sub category across months,What are the monthly sales contributions for each subcategory?
-How many sub category contributing to growth of sales across months,What is the number of subcategories contributing to sales growth monthly?
-How many sub category contributing to growth of sales in 2020,What is the number of subcategories contributing to sales growth in 2020?
-When was share of sales of sub category lowest,When did the subcategory's sales share hit its lowest point?
-When was share of sub category to overall sales lowest in 2020,"In 2020, when was the subcategory's lowest sales share?"
-When was share of sub category to overall sales lowest across months,In which month was the subcategory's sales share the lowest?
-When was share of sales of phone lowest,When did phone sales have the lowest share?
-When was share of phone to overall sales lowest in 2020,"In 2020, when was the lowest share of phone sales?"
-When was share of phone to overall sales lowest across months,In which month was the phone's share of total sales at its lowest?
-When was share of sales of phone and paper lowest,When did phone and paper sales have their lowest share?
-When was share of phone and paper to overall sales lowest in 2020,"In 2020, when was the lowest share of phone and paper in overall sales?"
-When was share of phone and paper to overall sales lowest across months,In which month was the lowest share of phone and paper sales recorded?
-When was the ratio of phone and paper for sales was lowest in 2020,"In 2020, when was the lowest ratio of phone to paper sales?"
-When was the ratio of phone and paper for sales across months was lowest,When was the lowest phone-to-paper sales ratio across months?
-When was the ratio of phone and paper for sales lowest,When did the phone-to-paper sales ratio reach its lowest point?
-When was the growth rate of sales lowest,When did sales growth rate hit its lowest point?
-When was the growth rate of sales lowest in 2020,"In 2020, when was the sales growth rate at its lowest?"
-When was the lowest growth rate of sales recorded across months,When did the sales growth rate hit its lowest point across months?
-When was the lowest sales contribution to growth of sub category recorded,When did the subcategory experience its lowest sales contribution to growth?
-When was the lowest sales contribution to growth of sub category recorded in 2020,"In 2020, when was the subcategory's lowest sales growth contribution recorded?"
-List the top sub category having sales more than 10k,Which subcategory has over 10k in sales?
-List the top sub category having sales more than 10k in 2020,Which subcategory had over 10k sales in 2020?
-List the top sub category basis sales in 2020,What were the highest-selling subcategories in 2020?
-Which are the top sub category based on share of sales,What are the highest-ranking subcategories by sales share?
-Which are the top sub category based on share of sales across months,What are the leading subcategories by sales share over months?
-Which are the top sub category basis share of sales in 2020,What are the leading subcategories based on 2020 sales share?
-Which are the top sub category based on ratio of phone and paper for sales,What are the highest-ranking subcategories by phone-to-paper sales ratio?
-Which are the top sub category based on ratio of phone and paper for sales across months,What are the highest-ranking subcategories by phone-to-paper sales ratio across months?
-Which are the top sub category based on ratio of phone and paper for sales in 2020,What are the highest-ranking subcategories in 2020 based on phone-to-paper sales ratio?
-Which are the top sub category based on correlation between sales and discount percentage,What are the highest-ranking subcategories based on sales and discount percentage correlation?
-Which are the top sub category based on correlation between sales and discount percentage in 2020,What are the highest-ranking subcategories in 2020 based on sales and discount percentage correlation?
-Which are the top sub category based on correlation of sales between phone and paper in 2020,What are the highest correlating subcategories for phone and paper sales in 2020?
-Which are the top sub category based on growth rate of sales in 2020,What are the highest-growth subcategories in 2020 sales?
-Which are the top sub category based on monthly growth rate of sales,What are the highest subcategories in terms of monthly sales growth rate?
-Which are the top sub category based on growth contribution to overall sales in 2020,What are the highest-growth subcategories contributing to total sales in 2020?
-Which are the top sub category based on growth contribution to overall sales across months,What are the highest growth-contributing subcategories for overall sales throughout the months?
-What is the trend of share of sales of phone across months,What's the phone sales share trend across months?
-What is the trend of share of phone sales in 2020,What's the 2020 trend for phone sales share?
-What is the monthly trend of share of phone of sales,What's the phone sales share trend monthly?
-What is the trend of share of sales of sub category across months,What's the sub-category sales share trend over months?
-What is the trend of share of sub category sales in 2020,What's the 2020 trend for subcategory sales share?
-What is the monthly trend of share of sub category sales,What's the monthly trend for subcategory sales shares?
-What is the trend of share of phone and paper basis sales across months,What is the monthly trend for phone and paper-based sales shares?
-What is the trend of share of phone and paper basis sales in 2020,What's the 2020 trend for phone and paper-based sales share?
-What is the monthly trend of share of phone and paper of sales,What's the monthly trend for phone and paper sales share?
-What is the trend of growth rate of sales across months,What's the sales growth rate trend monthly?
-What is the trend of growth rate of sales of sub category for 2020,What's the 2020 growth rate trend for subcategory sales?
-What is the trend of growth rate of sales in 2020,What's the 2020 sales growth rate trend?
-What is the trend of growth rate of phone and paper sales across the months,What is the monthly growth rate trend for phone and paper sales?
-What is the trend of ratio of sales of phone to paper,What's the phone-to-paper sales ratio trend?
-What is the trend of sales ratio of phone to paper in 2020,What's the 2020 sales ratio trend for phone vs
-What is the trend of ratio of sales of phone to paper across months,What is the monthly trend for the phone to paper sales ratio?
-What is the trend of growth contribution to overall sales for sub category in 2020,What's the 2020 growth contribution trend for subcategories in overall sales?
-What is the trend of growth contribution to overall sales for sub category to country in 2020,What was the growth contribution trend for subcategories to total sales in the country in 2020?
-What is the trend of contribution to growth for sales of sub category across months,What's the growth trend in sales for subcategories month by month?
-Why share of sales of phone changed in 2020,What caused the change in phone sales share in 2020?
-Diagnose the share of sales of phone in 2020,Determine the percentage of phone sales in 2020.
-List sub category based on contribution to growth of sales in 2020,Rank subcategories by their contribution to 2020 sales growth.
-List sub category based on growth rate of sales in 2020,Show subcategories by sales growth rate in 2020.
-List sub category based on monthly trends,Show subcategories according to monthly trends.
-List sub category based on monthly trends of sales,Show subcategories according to monthly sales trends.
-List sub category based on monthly trends of sales in 2020,Show 2020 monthly sales trends by subcategory.
-Which are the top sub category based on monthly trends for sales,What are the leading subcategories in monthly sales trends?
-Which are the top sub category based on monthly trends for sales in 2020,What are the highest-selling subcategories based on monthly trends in 2020?
-Which are the top sub category based on trend of growth rate of sales,What are the leading subcategories based on sales growth rate trends?
-Which are the top sub category based on trend of growth rate of sales in 2020,What are the leading subcategories based on 2020 sales growth rate trends?
-Which are the top sub category based on trend of share of sales,What are the leading subcategories based on sales share trends?
-Which are the top sub category based on trend of share of sales in 2020,What are the leading subcategories by share of sales trend in 2020?
-Which are the top sub category based on trend of contribution of sales,What are the leading subcategories based on sales contribution trends?
-Which are the top sub category based on trends of contribution of for sales in 2020,What are the leading subcategories in 2020 sales trends based on contributions?
-Which are the top sub category based on trend of contribution to growth of sales,What are the leading subcategories based on sales growth trends?
-Which are the top sub category based on trend of contribution to growth of sales in 2020,What are the leading subcategories contributing to sales growth in 2020 based on trends?
-When was contribution of sales of sub category lowest,When did sub-category sales have the lowest contribution?
-When was contribution of sales of phone lowest,When did phone sales contribute the least?
-What is the trend of contribution of phone sales in 2020,What's the 2020 trend for phone sales contributions?
-What is the monthly trend of contribution of phone of sales,What's the monthly trend for phone sales contributions?
-What is the monthly trend of contribution of sub category sales,What is the subcategory sales contribution trend monthly?
-Why contribution of sales of phone changed in 2020,What caused the change in phone sales contribution in 2020?
-Diagnose the contribution of sales of phone in 2020,Determine the sales contribution of phones in 2020.
-How many sub category are contributing to sales,What is the number of subcategories contributing to sales?
-How many sub category are contributing to sales in 2020,What is the number of subcategories contributing to 2020 sales?
-How many sub category are contributing to sales across months,What is the number of subcategories contributing to monthly sales?
-List of sub category basis share of sales,Share of sales by subcategory list.
-List of sub category basis share of sales in 2020,What were the subcategory shares of sales in 2020?
-List of sub category with sales share more than 10k,Which subcategories have sales shares exceeding 10k?
-List of sub category with sales share more than 10k in 2020,Which subcategories had over 10k sales share in 2020?
-List of sub category contributing to sales,Which subcategories contribute to sales?
-List of sub category contributing to sales in 2020,Which subcategories contributed to 2020 sales?
-List of sub category with sales contribution more than 10k,"Which subcategories have sales contributions over $10,000?"
-List of sub category with sales contribution more than 10k in 2020,Which subcategories had over 10k in sales during 2020?
+What is the Quantity in Quarter1 2018,Quantity for 1st quarter 2018?
+What is the Quantity by Order Priority in Quarter1 2018,Quantity for Order Priority in 01-03/2018?
+What is the Quantity of phone in Quarter1 2018,"Phones count, Jan-Mar '18?"
+What is the Quantity in Quarter1 2018 vs May 2023,Q1 2018 quantity vs May '23 quantity?
+What is the Quantity and Long by Order Priority in Quarter1 2018,Order Priority: Quantity & Long in 1st Quarter 2018?
+What is the Quantity and Long in Quarter1 2018 vs May 2023,"Compare Quantity, Long: Q1 '18 vs 05.2023"
+What is the Quantity and Long by Order Priority and Category in Quarter1 2018 vs May 2023,"Order Priority & Category: Quantity, Long in 1Q 2018 vs 05/23?"
+What is the Quantity across months,Monthly quantity breakdown?
+What is the Quantity of phone across months,Monthly phone count?
+What is the Quantity and Long by Order Priority across months,"For each month, what's the Quantity & Long per Order Priority?"
+What is the Quantity of Order Priority except art across months,"Order Priority quantity, excluding art, across months?"
+"What is the Quantity , Long and Discount by Order Priority across months","Monthly order priority: quantity, length & discount?"
+"What is the Quantity , Long and Discount of Order Priority in Quarter1 2018","Q1 '18 Order Priority: quantity, long & discount?"
+What is the Quantity of phone and paper across months,Phone & paper count across months?
+List of Order Priority,Need the list for order priorities.
+List of Order Priority and Category in Quarter1 2018,Q1 2018: Order Priority & Category?
+List of Order Priority having Quantity more than 10k in Quarter1 2018,Which order priorities had 10k+ quantity in 1st quarter 2018?
+List of Order Priority and Category having Quantity more than 10k in Quarter1 2018,10k+ Quantity Order Priority & Category in 01-03/2018?
+List of Order Priority except art across months,Order priority list (excluding art) for each month?
+How many Order Priority across months,Monthly Order Priority totals?
+How many Order Priority across months where Quantity is more than 10k,Order Priority count in months with Quantity over 10k?
+When was Quantity lowest for phone in Quarter1 2018,"In 01-03/2018, when was phone qty at its lowest?"
+When was the last time that Quantity of phone was lowest,Lowest phone quantity - when was it?
+When was the last time that Quantity more than 10k,Quantity > 10k last happened when?
+When was the last time that Quantity and Long was more than 10k,Last instance of Quantity & Long crossing 10k?
+When was the last time that Quantity lowest in Quarter1 2018,When did Quantity hit its lowest in Q1 2018?
+When was the last time that Quantity of Order Priority was lowest in Quarter1 2018,Lowest Order Priority qty in Q1 2018 - when?
+When was the last time that Quantity of phone was more than 10k in Quarter1 2018,Last time phone quantity was >10k in Q1 2018?
+When was the last time that Quantity and Long of phone was more than 10k in Quarter1 2018,Q1 2018: When was Quantity & Long of phone last 10k+?
+What is the ratio of phone and paper for Quantity across months,"Quantity ratio: phone vs paper, monthly?"
+What is the share of Order Priority for Quantity,Quantity's Order Priority portion?
+What is the share of Order Priority to overall Quantity in Quarter1 2018,"For 01-03/2018, what % of Quantity is due to Order Priority?"
+What is the share of phone to overall Quantity in Quarter1 2018,What's the phone's percentage of total Quantity in Q1 2018?
+What is the share of phone and paper to overall Quantity across months,"Across months, what % of total Quantity is phone and paper?"
+"What is the share of phone, paper and High priority for Quantity","Phone, paper, high priority - what's their Quantity share?"
+"What is the share of phone, paper, High priority, FMCG and xx1234xx for Quantity","Quantity distribution: phone, paper, high priority, FMCG, xx1234xx?"
+What is the correlation of Quantity for phone and paper,How are phone and paper quantities related?
+What is the monthly trend of Quantity,Trend of Quantity per month?
+What is the monthly trend of Quantity for phone,"Quantity trend for phone, month by month?"
+What is the monthly trend of Quantity and Long for phone,Monthly trend for phone Quantity & Long?
+What is the monthly trend of Quantity and Long in Quarter1 2018,Monthly trend of Quantity & Long in Q1 '18?
+What is the monthly trend of Quantity and Long of phone and paper in Quarter1 2018,Monthly trend of Quantity & Long for phone and paper in 1st quarter 2018?
+What is the monthly trend of Quantity and Long for phone in Quarter1 2018,"Quantity & Long phone trends in 1st quarter 2018, monthly?"
+What will be Quantity in Quarter1 2018 for phone,Quantity of phones in 01/2018 Q1?
+Forecast of Quantity in Quarter1 2018,Estimation of qty in 01/2018-03/2018?
+what will be the monthly Quantity of phone,Monthly phone quantity?
+what will be the monthly Quantity of phone in Quarter1 2018,How many phones per month in 1st quarter 2018?
+Forecast of monthly Quantity of phone,Estimation of phones per month?
+Forecast of monthly Quantity of phone in Quarter1 2018,Q1 2018: monthly phone count predictions?
+bottom Order Priority basis Quantity in Quarter1 2018,"In Q1 '18, rank order priorities by quantity (lowest first)."
+bottom Order Priority basis Quantity across months,Monthly bottom-up priority based on quantity?
+bottom Order Priority contributing to growth of Quantity across months,Month-wise Quantity growth: role of bottom Order Priority?
+Diagnose Quantity of phone change in Quarter1 2018,Determine phone count change in Q1 2018.
+Why Quantity changed in Quarter1 2018,Quantity change reason in 1st quarter 2018?
+Why Quantity of phone and paper changed in Quarter1 2018,Reasons for change in phone & paper quantities during 1st quarter 2018?
+what are the key drivers of Quantity for phone,Key factors for phone Quantity?
+what are the drivers of Quantity for phone,Quantity drivers for phones?
+What is the monthly growth rate of Quantity for Quarter1 2018,Q1 2018: Quantity monthly growth rate?
+What is the growth rate of Quantity for Quarter1 2018,Q1 2018 Quantity growth rate?
+What is the growth contribution to overall Quantity for Order Priority across months,How much does Order Priority contribute to Quantity growth monthly?
+What is the growth contribution to overall Quantity for Order Priority except art across months,Growth contribution to total quantity (no art) in Order Priority - monthly breakdown?
+What is the contribution of Quantity for Order Priority,Quantity's impact on Order Priority?
+What is the contribution of Quantity for Order Priority in Quarter1 2018,"In 01-03/18, what's the impact of Quantity on Order Priority?"
+How many Order Priority contributing to growth of Quantity across months,Order Priorities contributing to monthly Quantity growth?
+How many Order Priority contributing to growth of Quantity in Quarter1 2018,"In 1st Quarter 2018, how many Order Priorities increased Quantity?"
+When was share of Quantity of Order Priority lowest,Lowest Quantity share in Order Priority - when?
+When was share of Order Priority to overall Quantity lowest across months,Lowest Order Priority share month in overall Quantity?
+When was share of phone to overall Quantity lowest in Quarter1 2018,Q1 '18: when was the phone's share in total Quantity minimum?
+When was share of phone and paper to overall Quantity lowest in Quarter1 2018,"In Q1 2018, when was the lowest share of phone and paper in overall Quantity?"
+When was the ratio of phone and paper for Quantity was lowest in Quarter1 2018,When did phone & paper Quantity ratio hit its lowest in 1st quarter '18?
+When was the ratio of phone and paper for Quantity lowest,When did phone/paper Quantity ratio hit its lowest?
+When was the growth rate of Quantity lowest in Quarter1 2018,Q1 2018: when was Quantity growth rate lowest?
+When was the lowest Quantity contribution to growth of Order Priority recorded in Quarter1 2018,When did the lowest growth in Order Priority happen in Quarter1 '18?
+List the bottom Order Priority having Quantity more than 10k,Bottom Order Priority with Quantity > 10k?
+Which are the bottom Order Priority based on share of Quantity across months,Identify bottom Order Priority based on Quantity share over months.
+Which are the bottom Order Priority based on ratio of phone and paper for Quantity,Which Order Priorities have the lowest phone to paper Quantity ratio?
+Which are the bottom Order Priority based on ratio of phone and paper for Quantity in Quarter1 2018,Identify the bottom Order Priorities in terms of phone vs
+Which are the bottom Order Priority based on correlation of Quantity between phone and paper in Quarter1 2018,What's the lowest Order Priority based on Quantity correlation between phone and paper in Q1 '18?
+Which are the bottom Order Priority based on monthly growth rate of Quantity,Which Order Priorities have the lowest monthly Quantity growth rate?
+Which are the bottom Order Priority based on growth contribution to overall Quantity across months,Which Order Priority ranks lowest in growth contribution to total Quantity throughout months?
+What is the trend of share of phone Quantity in Quarter1 2018,"In Q1 2018, what was the trend for phone quantity share?"
+What is the trend of share of Order Priority Quantity in Quarter1 2018,Order Priority Quantity share trend in Q1 '18?
+What is the trend of share of phone and paper basis Quantity across months,Monthly trend for phone & paper quantity share?
+What is the monthly trend of share of phone and paper of Quantity,Quantity share trend of phone & paper per month?
+What is the trend of growth rate of Quantity in Quarter1 2018,Growth rate trend of Quantity in Q1 2018?
+What is the trend of ratio of Quantity of phone to paper,Trend of phone vs paper quantity ratio?
+What is the trend of ratio of Quantity of phone to paper across months,Monthly trend of phone vs
+What is the trend of growth contribution to overall Quantity for Order Priority to Category in Quarter1 2018,"In 1Q 2018, what was the trend in growth contribution for Order Priority to Category, regarding overall Quantity?"
+Diagnose the share of Quantity of phone in Quarter1 2018,What's the phone share percentage in 1st quarter 2018?
+List Order Priority based on growth rate of Quantity in Quarter1 2018,Sort by growth rate of quantity in Q1 '18.
+List Order Priority based on monthly trends of Quantity,Sort by priority - monthly trends in quantity.
+Which are the bottom Order Priority based on monthly trends for Quantity in Quarter1 2018,What are the lowest Order Priority based on monthly trends for Quantity in Q1 2018?
+Which are the bottom Order Priority based on trend of growth rate of Quantity in Quarter1 2018,"In Q1 '18, which Order Priority had the lowest growth rate trend for Quantity?"
+Which are the bottom Order Priority based on trend of share of Quantity in Quarter1 2018,Identify the bottom Order Priority trends by Quantity share in 1st quarter 2018.
+Which are the bottom Order Priority based on trends of contribution of for Quantity in Quarter1 2018,Which Order Priority contributed the least to Quantity in 01/2018-03/2018?
+When was contribution of Quantity of Order Priority lowest,Lowest contribution of Order Priority Quantity: when?
+What is the monthly trend of contribution of phone of Quantity,Monthly trend for phone quantity contribution?
+What is the monthly trend of contribution of phone of Quantity,Phone Quantity contribution - monthly trend?
+Diagnose the contribution of Quantity of phone in Quarter1 2018,What's the role of phone quantity in 1st quarter 2018?
+How many Order Priority are contributing to Quantity in Quarter1 2018,"In Q1 '18, how many Order Priorities affect Quantity?"
+How many Order Priority are contributing to Quantity in Quarter1 2018,Order Priorities count for Quantity in 01/2018-03/2018?
+List of Order Priority with Quantity share more than 10k,Order priorities with over 10k quantity - list?
+List of Order Priority contributing to Quantity,Quantity's priority order list?
+List of Order Priority with Quantity contribution more than 10k,10k+ quantity contribution in order priorities?
+What is the Discount in 2018,Discount for 2018?
+What is the Discount by Postal Code across years in 2018,Postal Code discounts in '18 - what's the amount?
+What is the Discount of 411010 across years in 2018,What's the 411010 discount in '18?
+What is the Discount in 2018 vs 2023,Discount difference: 2018 & 2023?
+What is the Discount and Lat by Postal Code and Ship Mode in 2018,"Discount & Lat for Postal Code, Ship Mode in '18?"
+What is the Discount and Lat by Postal Code in 2018 vs 2023,2018 vs 2023: Postal Code Discount & Lat?
+What are the Postal Code with Discount is less than 800,Postal codes where discount is less than 800?
+What is the Discount across years,"Across years, what's the discount?"
+What is the Discount and Lat across years,What's the yearly Discount & Lat?
+What is the Discount and Lat by Postal Code and Ship Mode across years,"Postal Code, Ship Mode: Discount & Lat (yearly)?"
+What is the Discount of Postal Code except phone across years,"Years-wise Postal Code discount, not phone?"
+"What is the Discount , Lat and Discount percentage in 2018","Discount, Lat, and % off in 2018?"
+Which Postal Code have Discount less than 800 in 2018,"In 2018, which postcodes had discounts under 800?"
+What is the Discount of 411010 and Air in 2018,Discount for 411010 & Air in '18?
+What is the Discount of 411010 and Air across years in 2018,2018 discount on 411010 & Air?
+List of Postal Code in 2018,What were the postal codes in '18?
+List of Postal Code and Ship Mode in 2018,"In '18, which postal codes and ship methods were used?"
+List of Postal Code and Ship Mode having Discount less than 800,Which postal codes & ship modes have a discount under 800?
+List of Postal Code except phone,"List postal codes, exclude phone."
+List of Postal Code except phone across years,List postal codes (no phone) through years?
+How many Postal Code across years where Discount is less than 800,Postal Codes count with Discounts under 800 across years?
+When was Discount highest in 2018,Highest discount in 2018?
+When was Discount highest across years,When did the highest discount occur over the years?
+When was the first time that Discount of 411010 was highest,411010 Discount's first highest was when?
+When was the first time that Discount less than 800,1st time Discount was less than 800?
+When was the first time that Discount and Lat of 411010 was less than 800,First time Discount & Lat of 411010 was under 800?
+When was the first time that Discount highest in 2018,"In 2018, when was the max discount?"
+When was the first time that Discount of Postal Code was highest in 2018,1st time highest Postal Code Discount in 2018?
+When was the first time that Discount and Lat was less than 800 in 2018,"In 2018, when did Discount and Lat first drop below 800?"
+When was the first time that Discount was less than 800 and Lat was more than 6000 in 2018,When in '18 did Discount go under 800 & Lat over 6k for the first time?
+What is the ratio of 411010 and Air for Discount across years,"Discount ratio for 411010 & Air, yearly?"
+What is the share of Postal Code for Discount,% of Discount from Postal Code?
+What is the share of 411010 for Discount,411010's Discount share?
+What is the share of 411010 to overall Discount in 2018,411010's percentage in 2018 Discount?
+What is the share of 411010 and Air to overall Discount across years,Total Discount: what portion is 411010 and Air across all years?
+"What is the share of 411010, Air, Delhi and Chennai for Discount","Share of 411010, Air, Delhi & Chennai for discount?"
+What is the correlation between Discount and Lat,Is there a link between Discount & Lat?
+What is the correlation of Discount for 411010 and Air,How's Discount related to Air in 411010?
+What is the yearly trend of Discount,What's the trend for yearly discounts?
+What is the yearly trend of Discount and Lat of 411010 and Air,411010 and Air: what's the annual trend for Discount & Lat?
+What is the yearly trend of Discount and Lat for 411010,"What's the yearly trend for Discount & Lat, 411010?"
+What is the yearly trend of Discount and Lat in 2018,Trend of Discount & Lat in 2018?
+What is the yearly trend of Discount of 411010 and Air in 2018,Yearly trend of 411010 Discount & Air in '18?
+What is the trend of Discount for all Postal Code except phone,Discount trends in all postal codes (no phone)?
+What will be Discount in 2018 for 411010,What's the 411010 discount in '18?
+Forecast of Discount in 2018,Expected discounts in '18?
+Forecast of Discount for 411010 in 2018,2018 discount prediction for 411010?
+what will be the yearly Discount of 411010,411010's discount per year?
+what will be the yearly Discount of 411010 in 2018,2018 discount for 411010 yearly?
+Forecast of yearly Discount in 2018,2018 yearly discount predictions?
+Which are the top Postal Code for Discount except phone,Best discount postal codes (no phones)?
+top Postal Code basis Discount in 2018,Best postal code discounts in '18?
+top Postal Code basis Discount across years,Which postal codes had the biggest discounts throughout the years?
+top Postal Code by Discount across Ship Mode and years,Which postal code has highest discount across ship mode & years?
+Diagnose Discount of 411010 change in 2018,"In 2018, what was the change in Discount 411010?"
+Why Discount changed in 2018,2018 discount change - why?
+What are the key drivers of Discount,What drives discounts?
+what are the key drivers of Discount for 411010,What drives discount in 411010 area?
+what are the drivers of Discount for 411010,411010 discount: what influences it?
+What is the yearly growth rate of Discount for 2018,"Annual Discount growth rate, 2018?"
+What is the growth rate of Discount for 2018,Discount growth rate for '18?
+What is the growth contribution to overall Discount for Postal Code across years,How has growth contributed to postal code discounts over time?
+What is the growth contribution to overall Discount for Postal Code except phone across years,"Excluding phone, what's the growth in overall discount for Postal Code over time?"
+What is the contribution of Discount for Postal Code,Discount contribution in Postal Code - what is it?
+What is the contribution of Discount for Postal Code in 2018,Postal Code discount contribution in 2018?
+What is the contribution of Discount for Postal Code across years,Yearly discount influence on Postal Code?
+How many Postal Code contributing to growth of Discount in 2018,How many zip codes contributed to 2018's discount growth?
+When was share of Discount of Postal Code highest,When was the top discount share in Postal Code?
+When was share of Discount of 411010 highest,Highest discount share for 411010 - when?
+When was share of 411010 to overall Discount highest across years,411010's max share in overall Discount was in which year?
+When was share of 411010 and Air to overall Discount highest in 2018,2018 - when was 411010 & Air's peak overall Discount share?
+When was the ratio of 411010 and Air for Discount across years was highest,When was the highest 411010 to Air for Discount ratio across years?
+When was the growth rate of Discount highest,Highest growth rate for Discount: when was it?
+When was the highest growth rate of Discount recorded across years,In which year was Discount's peak growth rate?
+When was the highest Discount contribution to growth of Postal Code recorded in 2018,2018: when was Postal Code's top discount-driven growth?
+Which are the top Postal Code based on share of Discount,Highest discount share postal codes?
+Which are the top Postal Code based on ratio of 411010 and Air for Discount,Top Postal Codes for 411010 ratio & Air Discount?
+Which are the top Postal Code based on ratio of 411010 and Air for Discount in 2018,"Best Postal Codes by 411010 ratio & Air Discount, 2018?"
+Which are the top Postal Code based on correlation between Discount and Lat in 2018,Best postal codes by Discount-Lat link in 2018?
+Which are the top Postal Code based on growth rate of Discount in 2018,Which Postal Codes saw max Discount growth in '18?
+Which are the top Postal Code based on growth contribution to overall Discount across years,Which Postal Codes have the highest growth in Discount over the years?
+What is the trend of share of 411010 Discount in 2018,Trend of 411010 Discount share in '18?
+What is the trend of share of Discount of Postal Code across years,Discount share trend in postal codes over time?
+What is the trend of share of 411010 and Air basis Discount across years,What's the trend for 411010 share and Air basis Discount over the years?
+What is the yearly trend of share of 411010 and Air of Discount,Annual pattern of 411010 share & Air of Discount?
+What is the trend of growth rate of Discount of Postal Code for 2018,Trend of Discount growth for Postal Code in '18?
+What is the trend of growth rate of 411010 and Air Discount across the years,411010 and Air Discount's growth rate trend through the years?
+What is the trend of ratio of Discount of 411010 to Air across years,411010 Discount to Air ratio trend across years?
+What is the trend of growth contribution to overall Discount for Postal Code to Ship Mode in 2018,Postal code & ship mode's impact on total discount growth trend in 2018?
+Why share of Discount of 411010 changed in 2018,What's the reason for 411010 discount share alteration in 2018?
+List Postal Code based on growth rate of Discount in 2018,Show Postal Codes ranked by Discount growth in '18.
+List Postal Code based on yearly trends of Discount,Yearly Discount trends: Postal Code list?
+Which are the top Postal Code based on yearly trends for Discount,Which Postal Codes lead in annual Discount trends?
+Which are the top Postal Code based on trend of growth rate of Discount,Postal Codes with the fastest growing Discount rates?
+Which are the top Postal Code based on trend of share of Discount in 2018,Which Postal Codes had highest discount share trend in 2018?
+Which are the top Postal Code based on trends of contribution of for Discount in 2018,Top postal codes based on discount contribution trends in '18?
+Which are the top Postal Code based on trend of contribution to growth of Discount in 2018,Top postal codes for 2018's discount growth trend?
+When was contribution of Discount of 411010 highest,Highest contribution time for Discount 411010?
+What is the yearly trend of contribution of Postal Code Discount,What's the yearly pattern for Postal Code Discount contributions?
+Why contribution of Discount of 411010 changed in 2018,Why did 411010 Discount's contribution alter in '18?
+How many Postal Code are contributing to Discount across years,Discounts by postal code: how many across years?
+List of Postal Code basis share of Discount,Discounts per postal code - list?
+List of Postal Code with Discount share less than 800 in 2018,Postal codes with <800 discount shares in 2018?
+List of Postal Code contributing to Discount in 2018,Which zip codes had discounts in '18?
+List of Postal Code with Discount contribution less than 800 in 2018,2018 postal codes with discount contributions below 800?
+What is the Shipping Cost across months in October 2018,Monthly shipping costs in 10/18?
+What is the Shipping Cost of APEC in October 2018,"Cost of shipping for APEC, 10/2018?"
+What is the Shipping Cost by Postal Code in October 2018 vs quarter3 2019,Cost of shipping by zip code: 10/18 vs Q3 2019?
+What is the Shipping Cost and Long in October 2018,10/18 - How much & how long for shipping?
+What is the Shipping Cost and Long in October 2018 vs quarter3 2019,Shipping cost & duration: Oct 2018 vs Q3 2019?
+What is the Shipping Cost and Long by Postal Code and Region in October 2018 vs quarter3 2019,Cost & long of shipping in 10/2018 vs Q3 '19 by zip code & area?
+What is the Shipping Cost of Postal Code except Europe,Cost to ship to non-European postal code?
+What is the Shipping Cost by Postal Code across months,Postal code-wise shipping costs per month?
+What is the Shipping Cost and Long by Postal Code across months,Monthly postal code shipping rates & time?
+What are the Postal Code with Shipping Cost more than 50k across months,Postal codes with monthly shipping costs exceeding 50k?
+"What is the Shipping Cost , Long and Lat across months","Find shipping cost, lat/long for each month?"
+"What is the Shipping Cost , Long and Lat of Postal Code in October 2018",Shipping cost and coordinates for postal code in Oct '18?
+Which Postal Code have Shipping Cost more than 50k in October 2018,"In 10/18, which Postal Codes had shipping costs >50k?"
+Which Postal Code have Shipping Cost more than 50k,"Zip codes with shipping costs above 50,000?"
+What is the Shipping Cost of APEC and New York across months,Monthly shipping rates for APEC-NY?
+List of Postal Code,Need list for postal codes.
+List of Postal Code and Region in October 2018,Oct '18 postal code & region list?
+List of Postal Code having Shipping Cost more than 50k in October 2018,"10/18 postal codes with shipping costs exceeding 50,000?"
+List of Postal Code and Region having Shipping Cost more than 50k in October 2018,"Oct 2018: postal codes with shipping >$50,000?"
+List of Postal Code except Europe across months,Postal codes outside Europe by month?
+How many Postal Code where Shipping Cost is more than 50k,"Postal codes count: shipping cost over 50,000?"
+How many Postal Code contributing to growth of Shipping Cost across months,How many zip codes affect monthly shipping cost growth?
+When was Shipping Cost highest in October 2018,"Shipping costs highest when, 10.18?"
+When was the first time that Shipping Cost highest,When did shipping cost peak for the first time?
+When was the first time that Shipping Cost of Postal Code was highest,First instance of highest Shipping Cost in Postal Code?
+When was the first time that Shipping Cost of APEC was more than 50k,APEC shipping cost > 50k for the first time when?
+When was the first time that Shipping Cost and Long of APEC was more than 50k,1st time APEC Shipping Cost & Long crossed 50k mark?
+When was the first time that Shipping Cost of APEC was highest in October 2018,"In 10/2018, when was APEC's highest shipping cost?"
+When was the first time that Shipping Cost more than 50k in October 2018,1st time Shipping went above 50k in 10/18?
+When was the first time that Shipping Cost and Long was more than 50k in October 2018,1st time Shipping Cost & Long > 50k in Oct '18?
+What is the ratio of APEC and New York for Shipping Cost,What's the APEC to NY shipping cost ratio?
+What is the ratio of APEC and New York for Shipping Cost in October 2018,Oct 2018: APEC/NY shipping cost ratio?
+What is the share of Postal Code to overall Shipping Cost across months,How much does Postal Code contribute to Shipping Cost each month?
+What is the share of APEC for Shipping Cost,% of APEC in shipping cost?
+What is the share of APEC and New York for Shipping Cost,"Share of shipping cost for APEC, NY?"
+What is the share of APEC and New York to overall Shipping Cost in October 2018,Oct 2018: APEC & NY's % of total shipping cost?
+"What is the share of APEC, New York, Asia and Nevada for Shipping Cost","Shipping cost distribution: APEC, NY, Asia, NV?"
+What is the correlation between Shipping Cost and Long in October 2018,What's the link between Shipping Cost & Long in Oct 2018?
+What is the correlation of Shipping Cost for APEC and New York in October 2018,"APEC-NY shipping cost correlation, 10/2018?"
+What is the monthly trend of Shipping Cost and Long,What's the month-by-month trend for Shipping Cost & Long?
+What is the monthly trend of Shipping Cost and Long of APEC and New York,APEC & New York: what's the trend in shipping cost & long monthly?
+What is the monthly trend of Shipping Cost in October 2018,What's the shipping cost trend for 10/2018?
+What is the monthly trend of Shipping Cost for APEC in October 2018,"What's the shipping cost trend for APEC, October 2018?"
+What is the monthly trend of Shipping Cost of APEC and New York in October 2018,"APEC and New York shipping cost trend, Oct 2018?"
+What is the trend of Shipping Cost and Long for all Postal Code except Europe,"Trend of shipping cost & long for all postal codes, excluding Europe?"
+What will be Shipping Cost in October 2018,What's the Oct '18 shipping price?
+what will be the monthly Shipping Cost of APEC,Cost of shipping for APEC monthly?
+what will be the monthly Shipping Cost of APEC in October 2018,APEC shipping cost for October '18 - how much?
+Forecast of monthly Shipping Cost in October 2018,Shipping cost predictions for 10/2018?
+Which are the bottom Postal Code for Shipping Cost except Europe,Non-European postal codes with the lowest shipping costs?
+bottom Postal Code basis Shipping Cost in October 2018,10/18 shipping cost by postal code?
+bottom Postal Code basis Shipping Cost across months growth rate,"Growth rate of shipping cost by postal code, monthly?"
+bottom Postal Code by Shipping Cost across Region and months,Shipping cost by region & month: which postal code is lowest?
+Diagnose Shipping Cost of APEC change in October 2018,"Identify APEC shipping cost changes, 10/2018."
+Why Shipping Cost changed in October 2018,Reason for shipping cost change in October '18?
+What are the key drivers of Shipping Cost,Main drivers of shipping cost?
+what are the key drivers of Shipping Cost for APEC,APEC shipping cost: main factors?
+what are the drivers of Shipping Cost for APEC,Shipping costs in APEC - what drives them?
+What is the monthly growth rate of Shipping Cost,Monthly growth rate for Shipping Cost?
+What is the growth rate of Shipping Cost for October 2018,Growth rate of Shipping Cost in 10/2018?
+What is the growth contribution to overall Shipping Cost for Postal Code across months,Postal Code's Shipping Cost growth contribution per month?
+What is the growth contribution to overall Shipping Cost for Postal Code except Europe across months,Non-European Postal Codes: What's the monthly growth in Shipping Cost?
+What is the contribution of Shipping Cost for Postal Code,Shipping cost contribution for postal code?
+What is the contribution of Shipping Cost for Postal Code in October 2018,What's the Oct 2018 Postal Code shipping cost share?
+What is the contribution of Shipping Cost for Postal Code across months,Postal code's shipping costs across months?
+How many Postal Code contributing to growth of Shipping Cost across months,Postal codes increasing shipping costs each month: how many?
+How many Postal Code contributing to growth of Shipping Cost across months,Count of postal codes raising shipping expenses monthly?
+When was share of Postal Code to overall Shipping Cost highest in October 2018,"In Oct 2018, when was the Postal Code's share of Shipping Cost at its peak?"
+When was share of Shipping Cost of APEC highest,Highest shipping cost share for APEC: when?
+When was share of APEC to overall Shipping Cost highest across months,APEC's max share in shipping costs - which month?
+When was share of APEC and New York to overall Shipping Cost highest in October 2018,APEC & NY's max shipping cost share in October '18 - when?
+When was the ratio of APEC and New York for Shipping Cost across months was highest,Highest APEC/NY shipping cost ratio - which month?
+When was the growth rate of Shipping Cost highest,When was the peak growth rate for Shipping Cost?
+When was the highest growth rate of Shipping Cost recorded across months,Month with max shipping cost growth rate?
+List the bottom Postal Code having Shipping Cost more than 50k in October 2018,"Show Postal Codes with Shipping Costs >50k, Oct 2018."
+Which are the bottom Postal Code based on share of Shipping Cost,Which Postal Codes have the lowest Shipping Cost share?
+Which are the bottom Postal Code basis share of Shipping Cost in October 2018,"Which Postal Codes had least Shipping Cost share, 10/18?"
+Which are the bottom Postal Code based on ratio of APEC and New York for Shipping Cost across months,"Monthly, which Postal Codes show the smallest APEC to New York Shipping Cost ratios?"
+Which are the bottom Postal Code based on correlation between Shipping Cost and Long in October 2018,Lowest correlation postal codes for shipping cost & longitude in 10/2018?
+Which are the bottom Postal Code based on growth rate of Shipping Cost in October 2018,Oct 2018: Postal Codes with least Shipping Cost growth rate?
+Which are the bottom Postal Code based on growth contribution to overall Shipping Cost in October 2018,"Least contributing Postal Codes to Shipping Cost growth, 10/2018?"
+What is the trend of share of APEC Shipping Cost in October 2018,What's the APEC Shipping Cost trend in Oct 2018?
+What is the trend of share of Shipping Cost of Postal Code across months,Monthly trend for shipping cost share by postal code?
+What is the monthly trend of share of Postal Code Shipping Cost,Share of Shipping Cost in Postal Code - monthly trend?
+What is the trend of share of APEC and New York basis Shipping Cost in October 2018,"APEC & NY basis shipping cost trend, 10/18?"
+What is the trend of growth rate of Shipping Cost of Postal Code for October 2018,"Shipping Cost growth rate trend in Postal Code, Oct '18?"
+What is the trend of growth rate of APEC and New York Shipping Cost across the months,APEC & NY Shipping Cost growth rate trend - month-wise?
+What is the trend of Shipping Cost ratio of APEC to New York in October 2018,"Shipping cost ratio trend for APEC to NY, Oct '18?"
+What is the trend of growth contribution to overall Shipping Cost for Postal Code to Region in October 2018,"Growth contribution trend for Shipping Cost, Postal Code to Region, Oct 2018?"
+Why share of Shipping Cost of APEC changed in October 2018,"In 10/2018, what led to a change in the shipping cost share for APEC?"
+List Postal Code based on contribution to growth of Shipping Cost in October 2018,"Postal codes with highest shipping cost growth, 10/2018?"
+List Postal Code based on monthly trends,Need Postal Code list for monthly trends.
+Which are the bottom Postal Code based on monthly trends for Shipping Cost,Which Postal Codes have the lowest shipping costs monthly?
+Which are the bottom Postal Code based on trend of growth rate of Shipping Cost,Lowest growth rate Postal Codes in Shipping Cost?
+Which are the bottom Postal Code based on trend of share of Shipping Cost,Postal Codes with least Shipping Cost share trend?
+Which are the bottom Postal Code based on trends of contribution of for Shipping Cost in October 2018,Bottom Postal Codes for Shipping Cost contribution in Oct '18?
+Which are the bottom Postal Code based on trend of contribution to growth of Shipping Cost in October 2018,Which Postal Codes had the lowest contribution to Shipping Cost growth in 10/2018?
+When was contribution of Shipping Cost of Postal Code highest,Postal Code's top Shipping Cost contribution: when was it?
+What is the trend of contribution of APEC Shipping Cost in October 2018,APEC Shipping Cost contribution in October '18 - what's the trend?
+What is the trend of contribution of APEC Shipping Cost in October 2018,Trend of APEC Shipping Cost's contribution in 10/18?
+Why contribution of Shipping Cost of APEC changed in October 2018,"In 10/2018, what led to the change in APEC shipping cost contribution?"
+How many Postal Code are contributing to Shipping Cost across months,Monthly count of postal codes impacting shipping fees?
+List of Postal Code basis share of Shipping Cost in October 2018,Oct '18 postal code-wise shipping cost share?
+List of Postal Code with Shipping Cost share more than 50k in October 2018,"In 10.2018, which postal codes shared >$50,000 in shipping costs?"
+List of Postal Code with Shipping Cost contribution more than 50k,Postal codes with over 50k in shipping costs?
+What is the Quantity in quarter4 2005,Quantity in Q4 '05?
+What is the Quantity by State in quarter4 2005,"State-wise quantity, 4th quarter 2005?"
+What is the Quantity of Washington in quarter4 2005,"Quantity of Washington, 2005 Q4?"
+What is the Quantity in quarter4 2005 vs June 2023,Quantity: Q4 '05 vs 06/2023?
+What is the Quantity and Profit by State in quarter4 2005,"State, quantity, profit in 4th quarter 2005?"
+What is the Quantity and Profit in quarter4 2005 vs June 2023,Q4 '05 vs 06.2023: What's the qty & profit?
+What are the State with Quantity is less than 2000,States with <2000 quantity?
+What is the Quantity across years,How many quantities over the years?
+What is the Quantity of Washington across years,How many Washingtons across years?
+What is the Quantity and Profit by State across years,"Quantity, profit per state through the years?"
+What is the Quantity of State except Ohio across years,"Excluding Ohio, state count across years?"
+"What is the Quantity , Profit and Discount by State across years","Across years, state-wise qty, profit & discount?"
+"What is the Quantity , Profit and Discount of State in quarter4 2005","State's Q4 '05 stats: Quantity, Profit, Discount?"
+What is the Quantity of Washington and John in quarter4 2005,How many Washington and John in Q4 '05?
+What is the Quantity of Washington and John across years in quarter4 2005,Quantity of Washington & John in 4th quarter 2005?
+List of State in quarter4 2005,"List states, 4th quarter 2005."
+List of State and Customer Name in quarter4 2005,"Names and states, Q4/2005?"
+List of State and Customer Name having Quantity less than 2000,Which states & customers have under 2k quantity?
+List of State except Ohio,"Which states, not Ohio?"
+List of State except Ohio across years,Non-Ohio states over various years?
+How many State where Quantity is less than 2000,In how many states is the quantity less than 2k?
+How many State contributing to growth of Quantity across years,Quantity growth across years: how many states involved?
+When was Quantity lowest for Washington in quarter4 2005,Washington's min Quantity in 2005 Q4?
+When was the first time that Quantity of Washington was lowest,When did Quantity of Washington hit its lowest point?
+When was the first time that Quantity less than 2000,First instance of Quantity under 2000?
+When was the first time that Quantity and Profit was less than 2000,When was the 1st time Q&P < 2000?
+When was the first time that Quantity was less than 2000 and Profit was more than 20000,"1st instance of Quantity below 2k, Profit above 20k?"
+When was the first time that Quantity of State was lowest in quarter4 2005,"In Q4 '05, when was the lowest Quantity of State?"
+When was the first time that Quantity of Washington was less than 2000 in quarter4 2005,"Q4 '05, when was Quantity of Washington less than 2k for the first time?"
+When was the first time that Quantity and Profit of Washington was less than 2000 in quarter4 2005,1st time Washington's Q&P was <2k in Q4 2005?
+What is the ratio of Washington and John for Quantity across years,Ratio of Washington to John in Quantity over the years?
+What is the share of State for Quantity,Share of Quantity for State?
+What is the share of State to overall Quantity in quarter4 2005,"In 4Q 2005, what portion of overall Quantity belongs to State?"
+What is the share of Washington to overall Quantity across years,"Quantity-wise, what portion belongs to Washington across years?"
+What is the share of Washington and John to overall Quantity across years,"Across years, how much is Washington & John's portion of overall quantity?"
+"What is the share of Washington, John and Paris for Quantity","Quantity share for Washington, John, Paris?"
+"What is the share of Washington, John, Paris, Joe and xy34xx for Quantity","Quantity share for Washington, John, Paris, Joe & xy34xx?"
+What is the correlation of Quantity for Washington and John,What's the relationship between Washington and John's quantities?
+What is the yearly trend of Quantity,Quantity's annual trend?
+What is the yearly trend of Quantity for Washington,Quantity trend per year for Washington?
+What is the yearly trend of Quantity of Washington and John,Washington & John's quantity - yearly pattern?
+What is the yearly trend of Quantity and Profit in quarter4 2005,"Yearly trend of Quantity, Profit in 4th quarter 2005?"
+What is the yearly trend of Quantity and Profit of Washington and John in quarter4 2005,Washington & John's Quantity & Profit trend in 2005's 4th quarter?
+What is the yearly trend of Quantity and Profit for Washington in quarter4 2005,Annual Quantity & Profit trend in Washington during 4th quarter 2005?
+What will be Quantity in quarter4 2005 for Washington,Q4 2005 Washington quantity?
+Forecast of Quantity in quarter4 2005,Expected qty in 4th qtr 2005?
+Forecast of Quantity for Washington in quarter4 2005,Washington quantity estimate in 2005's last quarter?
+what will be the yearly Quantity in quarter4 2005,What's the yearly quantity for Q4 '05?
+Forecast of yearly Quantity,What's the yearly quantity forecast?
+Forecast of yearly Quantity in quarter4 2005,What's the yearly qty estimate in Q4 '05?
+Which are the top State for Quantity except Ohio,Top quantity states (no Ohio)?
+Which are the top grown State basis Quantity in quarter4 2005,Which states had highest growth in Q4 2005?
+top State basis Quantity across years growth rate,What's the growth rate for top state quantities over time?
+top State by Quantity across Customer Name and years,State with most quantity across all customer names & years?
+Diagnose Quantity of Washington and John change in quarter4 2005,Determine the change in quantity for Washington and John in Q4 '05.
+Why Quantity of Washington changed in quarter4 2005,"In Q4 2005, what led to the change in Washington's quantity?"
+What are the key drivers of Quantity,Quantity's main drivers?
+what are the key drivers of Quantity for Washington,What influences Quantity in Washington?
+what are the drivers of Quantity for Washington and John,Quantity drivers for Washington & John?
+What is the yearly growth rate of Quantity,Quantity's growth rate per year?
+What is the growth rate of Quantity for quarter4 2005,"Quantity's growth rate, Q4 '05?"
+What is the growth contribution to overall Quantity for State except Ohio in quarter4 2005,What's the growth contribution to total Quantity in Q4 2005 for all states except Ohio?
+What is the contribution of Washington for Quantity,What's Washington's contribution to Quantity?
+What is the contribution of Washington to overall Quantity in quarter4 2005,"Contribution of Washington in total Quantity, Q4 2005?"
+What is the contribution of Washington to overall Quantity across years,Total Quantity contribution by Washington across years?
+When was share of Quantity of State lowest,State's Quantity share was lowest when?
+When was share of State to overall Quantity lowest across years,When did the State have the smallest share of overall Quantity throughout the years?
+When was share of Washington to overall Quantity lowest across years,In which year was Washington's portion of overall quantity the smallest?
+When was share of Washington and John to overall Quantity lowest in quarter4 2005,Q4 2005: When was the lowest share for Washington & John?
+When was the ratio of Washington and John for Quantity was lowest in quarter4 2005,Lowest Washington:John quantity ratio in 4Q 2005 - when?
+When was the growth rate of Quantity lowest,Lowest growth rate of Quantity - when was it?
+When was the lowest growth rate of Quantity recorded across years,In which year was the lowest Quantity growth rate recorded?
+When was the lowest Quantity contribution to growth of State recorded in quarter4 2005,"In 4th qtr 2005, when was the least Quantity contribution to State's growth?"
+List the top State having Quantity less than 2000 in quarter4 2005,"In Q4 2005, which state had the most quantity under 2000?"
+Which are the top State based on share of Quantity across years,Rank states by their share of quantity through the years.
+Which are the top State based on ratio of Washington and John for Quantity across years,Which states have the highest Washington:John quantity ratio over the years?
+Which are the top State based on correlation between Quantity and Profit,In which states is the quantity-profit correlation highest?
+Which are the top State based on correlation of Quantity between Washington and John in quarter4 2005,Q4 2005: Top states with highest quantity correlation for Washington & John?
+Which are the top State based on growth contribution to overall Quantity in quarter4 2005,Top states for growth contribution in Q4 '05?
+What is the trend of share of Quantity of Washington across years,How has the quantity share of Washington changed yearly?
+What is the yearly trend of share of Washington of Quantity,Washington's Quantity share trend per year?
+What is the trend of share of State Quantity in quarter4 2005,"In 2005's quarter 4, what's the trend for State Quantity share?"
+What is the trend of share of Washington and John basis Quantity in quarter4 2005,"In Q4 2005, how did Washington and John's share trend look in terms of quantity?"
+What is the trend of growth rate of Quantity across years,Quantity growth rate trend through the years?
+What is the trend of growth rate of Quantity in quarter4 2005,"In quarter 4 of 2005, what's the trend for Quantity growth rate?"
+What is the trend of Quantity ratio of Washington to John in quarter4 2005,What's the Q4 2005 quantity ratio for Washington vs
+What is the trend of growth contribution to overall Quantity for State in quarter4 2005,"In Q4 '05, how did growth contribution trend for overall Quantity in State?"
+What is the trend of contribution to growth for Quantity of State across years,Quantity of State growth contribution trend over time?
+Diagnose the share of Quantity of Washington in quarter4 2005,Washington Quantity share in 4th qtr '05?
+List State based on yearly trends,Yearly trends: which states?
+List State based on yearly trends of Quantity in quarter4 2005,Yearly quantity trends in 4th quarter 2005 - list states.
+Which are the top State based on yearly trends for Quantity in quarter4 2005,"In 2005, Q4, which states led in Quantity based on yearly trends?"
+Which are the top State based on trend of share of Quantity,Top states by share of quantity trend?
+Which are the top State based on trend of contribution of Quantity,Which states lead in quantity contribution trends?
+Which are the top State based on trend of contribution to growth of Quantity,Trending states in contributing to quantity growth?
+When was contribution of Quantity of Washington lowest,Lowest Quantity of Washington contribution - when?
+Why contribution of Quantity of Washington changed in quarter4 2005,"In 2005's quarter 4, why did Quantity of Washington's contribution change?"
+How many State are contributing to Quantity,States contributing to quantity count?
+How many State are contributing to Quantity in quarter4 2005,Quantity-contributing states count in 2005 Q4?
+List of State with Quantity share less than 2000,Which states have under 2k quantity shares?
+List of State contributing to Quantity,Quantity-contributing states?
+List of State with Quantity contribution less than 2000,<2k contribution states?
+What is the Lat across months in Order Date,What's the Lat for each month in Order Date?
+What is the Lat by Sub-Category across months in Order Date,Find the Lat in Sub-Category by month in Order Date.
+What is the Lat of binders across months in Order Date,Order Date: Monthly Lat of binders?
+What is the Lat in Order Date vs Ship Date,Find Lat: Order Date vs Ship Date?
+What is the Lat and Long by Sub-Category and Order ID in Order Date,Order Date: Sub-Category & Order ID's Lat-Long?
+What is the Lat and Long by Sub-Category in Order Date vs Ship Date,"Find Lat, Long in Sub-Category: Order & Ship Dates?"
+What are the Sub-Category with Lat is more than 34k,Sub-categories with 34k+ Lat?
+What is the Lat by Sub-Category across months,Lat by Sub-Category monthly?
+What is the Lat and Long across months,Monthly Lat and Long values?
+What is the Lat and Long by Sub-Category and Order ID across months,"Sub-Category, Order ID: Lat/Long per month?"
+What is the Lat of Sub-Category except chairs across months,"Monthly Lat of Sub-Category, chairs not included?"
+"What is the Lat , Long and Discount percentage in Order Date","Order Date: Lat, Long, Discount %?"
+Which Sub-Category have Lat more than 34k in Order Date,"Order date: sub-category with Lat above 34,000?"
+Which Sub-Category have Lat more than 34k in Order Date,"Which sub-category has 34,000+ Lat on the order date?"
+What is the Lat of binders and envelope across months in Order Date,"Find Lat of binders, envelopes in Order Date by month?"
+List of Sub-Category in Order Date,Sub-category breakdown for order date?
+List of Sub-Category and Order ID in Order Date,"For each Order Date, display Sub-Category & Order ID."
+List of Sub-Category and Order ID having Lat more than 34k,Show sub-categories & order IDs with Lat over 34k.
+List of Sub-Category except chairs,What are the sub-categories besides chairs?
+List of Sub-Category except chairs across months,"Sub-categories by month, but not chairs."
+How many Sub-Category across months,Sub-Categories in each month?
+How many Sub-Category contributing to growth of Lat across months,Sub-categories contributing to Lat's monthly growth?
+When was Lat highest for binders in Order Date,When did binders have the highest Lat in Order Date?
+When was the first time that Lat highest,Lat's initial highest point - when?
+When was the first time that Lat of Sub-Category was highest,When was Lat of Sub-Category's highest point first?
+When was the first time that Lat of binders was more than 34k,1st instance of Lat of binders crossing 34k?
+When was the first time that Lat was more than 34k and Long was less than 9k,When was Lat >34k and Long <9k for the first time?
+When was the first time that Lat of binders was highest in Order Date,On which Order Date was the Lat of binders at its highest for the first time?
+When was the first time that Lat more than 34k in Order Date,When's the 1st time Lat went over 34k in Order Date?
+When was the first time that Lat and Long of binders was more than 34k in Order Date,When did Lat & Long of binders first exceed 34k in Order Date?
+What is the ratio of binders and envelope for Lat,Ratio of binders & envelopes for Lat?
+What is the ratio of binders and envelope for Lat in Order Date,Lat's binder-envelope ratio on Order Date?
+What is the share of Sub-Category to overall Lat across months,"Across months, how much Lat is from Sub-Category?"
+What is the share of binders to overall Lat across months,"Binder share in Lat for each month, what is it?"
+What is the share of binders and envelope for Lat,Lat's binder & envelope share?
+What is the share of binders and envelope to overall Lat in Order Date,How much binders & envelopes contribute to Lat in Order Date?
+"What is the share of binders, envelope, by air, Ship and electronic goods for Lat","What's the percentage of binders, envelope, air, ship, and electronic goods for Lat?"
+What is the correlation between Lat and Long in Order Date,Lat-Long correlation in Order Date?
+What is the correlation of Lat for binders and envelope in Order Date,Correlation of Lat with binders & envelopes on Order Date?
+What is the monthly trend of Lat and Long,Month-wise trend for Lat & Long?
+What is the monthly trend of Lat of binders and envelope,Lat binders & envelope trends each month?
+What is the monthly trend of Lat in Order Date,Lat's Order Date: monthly trend?
+What is the monthly trend of Lat for binders in Order Date,Order Date's month-wise Lat binder trend?
+What is the monthly trend of Lat and Long for binders in Order Date,What's the monthly Lat/Long trend for binders in Order Date?
+What is the trend of Lat and Long for all Sub-Category except chairs,"Lat & Long trends for Sub-Categories, no chairs included?"
+What will be Lat in Order Date,Lat on Order Date?
+what will be the monthly Lat of binders,Binders: monthly Lat?
+Forecast of monthly Lat,Monthly Lat prediction?
+Forecast of monthly Lat in Order Date,Order Date: Lat projections per month?
+Which are the top Sub-Category for Lat except chairs,"Top Lat sub-categories, no chairs included?"
+Which are the top grown Sub-Category basis Lat in Order Date,"Top Sub-Categories by Lat, based on Order Date?"
+top Sub-Category basis Lat across months growth rate,Top sub-category Lat growth rate month-wise?
+top Sub-Category by Lat across Order ID and months,"Order ID & month-wise, top sub-category in lat?"
+Diagnose Lat of binders change in Order Date,Binder Order Date: spot Lat change.
+Why Lat of binders changed in Order Date,What caused Lat of binders to change in Order Date?
+What are the key drivers of Lat,Lat's main drivers?
+what are the key drivers of Lat for binders,Lat factors in binders?
+what are the drivers of Lat for binders and envelope,What drives Lat in binders & envelopes?
+What is the monthly growth rate of Lat,Monthly growth rate of Lat?
+What is the growth rate of Lat for Order Date,Growth rate of Lat on Order Date?
+What is the growth contribution to overall Lat for Sub-Category across months,How's Lat growth in Sub-Category distributed monthly?
+Which are the top Sub-Category contributing to Lat,Which Sub-Category leads in Lat contribution?
+What is the contribution of Lat for Sub-Category,What's Lat's role in Sub-Category?
+What is the contribution of Lat for Sub-Category in Order Date,"On Order Date, what's Lat's role in Sub-Category?"
+How many Sub-Category contributing to growth of Lat across months,How many sub-categories impact Lat's growth each month?
+When was share of Sub-Category to overall Lat highest in Order Date,Highest Lat share in Order Date for Sub-Category was when?
+When was share of Lat of binders highest,Lat binders' peak share was when?
+When was share of binders to overall Lat highest across months,Peak month for binder share in Lat?
+When was share of binders and envelope to overall Lat highest across months,In which month was the Lat's binders and envelopes share at its peak?
+When was the ratio of binders and envelope for Lat across months was highest,When was the peak binder-envelope ratio for Lat across months?
+When was the growth rate of Lat highest,When was Lat's growth at its max?
+When was the highest Lat contribution to growth of Sub-Category recorded,When did the highest Lat contribution to Sub-Category growth occur?
+List the top Sub-Category having Lat more than 34k in Order Date,Order Date: Sub-Category with Lat above 34k?
+List the top Sub-Category having Lat more than 34k in Order Date,Sub-Category on Order Date with Lat above 34k?
+Which are the top Sub-Category based on share of Lat across months,Which sub-categories have the highest Lat share monthly?
+Which are the top Sub-Category based on ratio of binders and envelope for Lat,Lat's top sub-categories: binder-envelope ratio?
+Which are the top Sub-Category based on ratio of binders and envelope for Lat in Order Date,Rank sub-categories by binder to envelope ratio for Lat in Order Date.
+Which are the top Sub-Category based on correlation of Lat between binders and envelope in Order Date,Top sub-categories with highest Lat correlation between binders & envelopes in Order Date?
+Which are the top Sub-Category based on monthly growth rate of Lat,Which Sub-Category has highest Lat growth/month?
+Which are the top Sub-Category based on growth contribution to overall Lat across months,Top Lat growth-contributing sub-categories monthly?
+What is the trend of share of binders Lat in Order Date,Order Date's binder share Lat trend?
+What is the trend of share of Sub-Category Lat in Order Date,Sub-Category Lat share trend in Order Date?
+What is the trend of share of binders and envelope basis Lat across months,"Monthly trend for share of binders, envelope basis Lat?"
+What is the monthly trend of share of binders and envelope of Lat,Month-wise trend of Lat binders & envelopes share?
+What is the trend of growth rate of Lat in Order Date,What's the growth rate trend for Lat in Order Date?
+What is the trend of ratio of Lat of binders to envelope,Trend of Lat binder/envelope ratio?
+What is the trend of ratio of Lat of binders to envelope across months,Monthly trend of Lat binder to envelope ratio?
+What is the trend of growth contribution to overall Lat for Sub-Category to Order ID in Order Date,"Trend of Sub-Category's growth contribution to Order ID in overall Lat - what is it, given Order Date?"
+Diagnose the share of Lat of binders in Order Date,What's the Lat binder share in Order Date?
+List Sub-Category based on growth rate of Lat in Order Date,Display sub-categories with Lat growth rate in order date.
+List Sub-Category based on monthly trends of Lat,Sub-categories for Lat trends on a monthly basis?
+Which are the top Sub-Category based on monthly trends for Lat in Order Date,Top Sub-Categories by monthly trends for Lat in Order Date?
+Which are the top Sub-Category based on trend of growth rate of Lat in Order Date,Which Sub-Categories have the highest Lat growth rate trends in Order Date?
+Which are the top Sub-Category based on trend of share of Lat in Order Date,Order Date: Top trending Sub-Categories based on Lat share?
+Which are the top Sub-Category based on trends of contribution of for Lat in Order Date,Lat contribution trends: Top Sub-Categories in Order Date?
+When was contribution of Lat of Sub-Category highest,Sub-Category's top Lat contribution - when was it?
+When was contribution of Lat of Sub-Category highest,Sub-Category: when was Lat's top contribution?
+What is the trend of contribution of binders Lat in Order Date,Binder contribution trend in Order Date Lat - can you show?
+Why contribution of Lat of binders changed in Order Date,Lat binders contribution change - why on Order Date?
+How many Sub-Category are contributing to Lat across months,Monthly Lat contribution: how many sub-categories?
+List of Sub-Category basis share of Lat,Share of Lat in sub-categories list - 4 ways?
+List of Sub-Category with Lat share more than 34k,Which sub-categories have 34k+ Lat shares?
+List of Sub-Category contributing to Lat,Which sub-categories play a role in Lat?
+List of Sub-Category with Lat contribution more than 34k,Sub-categories with Lat contribution exceeding 34k?
+What is the Purchase across months in May 2016,Purchases in 05/2016 across months?
+What is the Purchase by Urbanrural across months in May 2016,Urbanrural's monthly buys in 05/2016?
+What is the Purchase of urban across months in May 2016,05.16 city purchases?
+What is the Purchase and WD Out-Stock% in May 2016,May 2016 Purchase & WD Out-Stock%?
+What is the Purchase and WD Out-Stock% by Urbanrural and _posted_date in May 2016,"In May 2016, what is the Urbanrural Purchase and WD Out-Stock% by _posted_date?"
+What is the Purchase and WD Out-Stock% by Urbanrural in May 2016 vs April 2018,Urbanrural Purchase & WD Out-Stock%: 05/2016 vs 04/2018?
+What are the Urbanrural with Purchase is less than 10k,Urban-rural locations with <10k in purchases?
+What is the Purchase by Urbanrural across months,Monthly purchase data for Urbanrural?
+What is the Purchase and WD Out-Stock% across months,Purchase & WD Out-Stock% by month?
+What is the Purchase and WD Out-Stock% by Urbanrural and _posted_date across months,"_posted_date: Urbanrural Purchase, WD Out-Stock% by month?"
+"What is the Purchase , WD Out-Stock% and Value Offtake across months","What's the Purchase, WD Out-Stock% & Value Offtake for each month?"
+"What is the Purchase , WD Out-Stock% and Value Offtake in May 2016","May 2016: Purchase, WD Out-Stock%, Value Offtake?"
+Which Urbanrural have Purchase less than 10k,Urbanrural: Purchases below 10k?
+What is the Purchase of urban and High across months,Monthly stats for Urban & High purchases?
+List of Urbanrural,Show me the list of urban & rural areas.
+List of Urbanrural and _posted_date,_posted_date's Urbanrural list?
+List of Urbanrural having Purchase less than 10k in May 2016,Urbanrural list with <10k purchases in 05/2016?
+List of Urbanrural and _posted_date having Purchase less than 10k in May 2016,"Show urban-rural list, _posted_date in 05/2016, purchases <10k."
+List of Urbanrural across months,Urban/rural stats for each month?
+How many Urbanrural are there,Total Urbanrural?
+How many Urbanrural across months where Purchase is less than 10k,"Number of Urbanrural, monthly, with purchases under 10,000?"
+When was Purchase highest,Purchases were highest when?
+When was Purchase highest for urban in May 2016,"Urban purchase highest when, 05.2016?"
+When was the first time that Purchase of urban was highest,When did urban purchases peak for the first time?
+When was the first time that Purchase less than 10k,First time purchase was under 10k when?
+When was the first time that Purchase and WD Out-Stock% was less than 10k,When was Purchase & WD Out-Stock% < 10k for the 1st time?
+When was the first time that Purchase was less than 10k and WD Out-Stock% was more than 50k,1st time Purchase dropped below 10k & WD Out-Stock% rose above 50k?
+When was the first time that Purchase of Urbanrural was highest in May 2016,"In 05/2016, when was Urbanrural's top purchase?"
+When was the first time that Purchase of urban was less than 10k in May 2016,1st time urban buys were <10k in May 2016?
+When was the first time that Purchase and WD Out-Stock% of urban was less than 10k in May 2016,May 2016: when was urban Purchase & WD Out-Stock% first less than 10k?
+What is the ratio of urban and High for Purchase across months,Urban to High Purchase ratio across months?
+What is the share of Urbanrural for Purchase,Share of Urbanrural in purchases?
+What is the share of Urbanrural to overall Purchase in May 2016,"Share of Urbanrural purchases in overall, May 2016?"
+What is the share of urban to overall Purchase across months,"Share of city-based purchases in total, per month?"
+What is the share of urban and High to overall Purchase across months,Monthly % of urban/high purchases?
+"What is the share of urban, High and rural for Purchase","Purchase distribution: urban, high, rural?"
+"What is the share of urban, High, rural, bikes and Low for Purchase","How's the purchase distribution for urban, high, rural, bikes, low?"
+What is the correlation of Purchase for urban and High,What's the correlation between urban purchases and high?
+What is the monthly trend of Purchase,Trend of purchases each month?
+What is the monthly trend of Purchase for urban,Urban purchases - what's the monthly trend?
+What is the monthly trend of Purchase of urban and High,"Monthly pattern of urban, high-end purchases?"
+What is the monthly trend of Purchase and WD Out-Stock% in May 2016,May '16 monthly trend of Purchase & WD Out-Stock%?
+What is the monthly trend of Purchase and WD Out-Stock% of urban and High in May 2016,May '16 urban & High areas: monthly Purchase & WD Out-Stock% trend?
+What is the monthly trend of Purchase and WD Out-Stock% for urban in May 2016,Urban trend in 05/16: Purchase & WD Out-Stock%?
+What will be Purchase in May 2016 for urban,Urban purchases in May '16?
+Forecast of Purchase in May 2016,Purchase predictions for 05/2016?
+Forecast of Purchase in May 2016,Buying projections for May '16?
+what will be the monthly Purchase of urban,What's the city's monthly shopping?
+what will be the monthly Purchase of urban in May 2016,05.16 urban monthly shopping?
+Forecast of monthly Purchase in May 2016,May 2016 monthly purchase forecast?
+Which are the bottom Urbanrural for Purchase except rural,"Bottom Urbanrural to purchase, but not rural?"
+bottom Urbanrural basis Purchase in May 2016,"Bottom purchase, urban/rural, 05.2016?"
+bottom Urbanrural basis Purchase across months,Month-wise urban/rural purchase data?
+bottom Urbanrural by Purchase across _posted_date and months,"Bottom purchases in urban/rural areas, sorted by _posted_date & months?"
+Diagnose Purchase of urban change in May 2016,Can you find the purchase of urban change in May 2016?
+Why Purchase changed in May 2016,Purchase alterations in May 2016 - why?
+What are the key drivers of Purchase,What drives people to buy things?
+what are the key drivers of Purchase for urban,Key factors influencing urban buying decisions?
+what are the drivers of Purchase for urban,What factors impact city dwellers' buying choices?
+What is the monthly growth rate of Purchase for May 2016,What's the purchase growth in May '16?
+What is the growth rate of Purchase for May 2016,Growth rate of May '16 purchases?
+What is the growth contribution to overall Purchase for Urbanrural across months,Growth contribution of Urbanrural purchases month-wise?
+What is the growth contribution to overall Purchase for Urbanrural except rural across months,Urbanrural (no rural) growth contribution in Purchase - monthly breakdown?
+Which are the bottom Urbanrural contributing to Purchase,Bottom Urbanrural areas for Purchase contribution?
+What is the contribution of urban to overall Purchase in May 2016,Urban contribution to total purchases in 05/2016?
+What is the contribution of urban to overall Purchase across months,Monthly urban share in overall purchases?
+How many Urbanrural contributing to growth of Purchase in May 2016,"In May '16, what's the Urbanrural contribution to purchase growth?"
+When was share of Purchase of Urbanrural highest,When did Urbanrural's purchase share peak?
+When was share of Urbanrural to overall Purchase highest across months,In which month was the highest Urbanrural purchase share?
+When was share of urban to overall Purchase highest in May 2016,When did urban purchases make up the largest percentage in May 2016?
+When was share of Purchase of urban and High highest,Peak time for urban and High purchase shares?
+When was the ratio of urban and High for Purchase was highest in May 2016,When did the urban to high purchase ratio reach its highest point in 05/2016?
+When was the ratio of urban and High for Purchase highest,When did urban & high purchase ratio reach its max?
+When was the growth rate of Purchase highest in May 2016,When in 05.16 was Purchase's growth rate at its max?
+When was the highest Purchase contribution to growth of Urbanrural recorded in May 2016,When did Urbanrural's highest purchase contribution to growth occur in May '16?
+List the bottom Urbanrural having Purchase less than 10k in May 2016,"Urbanrural with <10k buys, May 2016?"
+Which are the bottom Urbanrural based on share of Purchase across months,Bottom Urbanrural by purchase share across months?
+Which are the bottom Urbanrural based on ratio of urban and High for Purchase,Lowest urban/high purchase ratio in Urbanrural?
+Which are the bottom Urbanrural based on ratio of urban and High for Purchase in May 2016,"In May 2016, which Urbanrural had the least urban/high purchase ratio?"
+Which are the bottom Urbanrural based on correlation between Purchase and WD Out-Stock% in May 2016,Which Urbanrural had the lowest Purchase and WD Out-Stock% correlation in May 2016?
+Which are the bottom Urbanrural based on monthly growth rate of Purchase,Bottom Urbanrural by Purchase monthly growth rate?
+Which are the bottom Urbanrural based on growth contribution to overall Purchase across months,Identify the least contributing Urbanrural areas for overall Purchase growth across months.
+What is the trend of share of urban Purchase in May 2016,Urban purchase share in 05.16 - what's the trend?
+What is the trend of share of Urbanrural Purchase in May 2016,Urban-rural purchase trend in 05/2016?
+What is the trend of share of urban and High basis Purchase across months,Monthly trend for urban and High basis Purchases?
+What is the monthly trend of share of urban and High of Purchase,What's the month-by-month trend for urban share & High of Purchase?
+What is the trend of growth rate of Purchase of Urbanrural for May 2016,"Trend of Urbanrural purchase growth rate, 05.16?"
+What is the trend of ratio of Purchase of urban to High,Trend of urban/high purchase ratio?
+What is the trend of ratio of Purchase of urban to High across months,Monthly trend of urban/high purchase ratio?
+What is the trend of growth contribution to overall Purchase for Urbanrural to _posted_date in May 2016,"Up to 05.16, what's Urbanrural Purchase growth contribution trend?"
+Diagnose the share of Purchase of urban in May 2016,What's the urban purchase share in 05/2016?
+List Urbanrural based on growth rate of Purchase in May 2016,May '16 Urban/Rural classification by purchase growth rate.
+List Urbanrural based on monthly trends of Purchase,Urban/Rural comparison for monthly buying trends?
+Which are the bottom Urbanrural based on monthly trends for Purchase,Identify the lowest-performing Urbanrural areas in terms of monthly purchases.
+Which are the bottom Urbanrural based on trend of growth rate of Purchase in May 2016,"In 05/2016, which Urbanrural showed the least growth in Purchase rate?"
+Which are the bottom Urbanrural based on trend of share of Purchase in May 2016,"Based on trends, which Urbanrural had the smallest purchase share in 05/16?"
+Which are the bottom Urbanrural based on trends of contribution of for Purchase in May 2016,"Identify bottom Urbanrural based on Purchase trends, 05.2016."
+When was contribution of Purchase of urban highest,Highest urban Purchase contribution - when?
+What is the monthly trend of contribution of Urbanrural Purchase,Urbanrural Purchase contributions: what's the trend each month?
+What is the monthly trend of contribution of Urbanrural Purchase,Monthly trend of Urbanrural Purchase contributions?
+Diagnose the contribution of Purchase of urban in May 2016,"Contribution of city purchases, 05/16 - can you diagnose?"
+How many Urbanrural are contributing to Purchase in May 2016,Urbanrural count for purchases in 05/2016?
+List of Urbanrural basis share of Purchase in May 2016,Urban/rural purchase shares in May '16?
+List of Urbanrural with Purchase share less than 10k in May 2016,"Show urban-rural with purchase shares under 10k, May '16."
+List of Urbanrural contributing to Purchase in May 2016,What affected purchases in 05/2016 (urban/rural)?
+List of Urbanrural with Purchase contribution less than 10k in May 2016,5.2016 urban/rural spots with purchase contrib
+What is the WD ACV Handling by Manufacturer in 2019,Manufacturer's WD ACV Handling in 2019?
+What is the WD ACV Handling of Samsung in 2019,WD ACV Handling of Samsung in 2019?
+What is the WD ACV Handling by Manufacturer in 2019 vs 1999,How's WD ACV Handling by Mfr in 2019 vs 1999?
+What is the WD ACV Handling and Sales Volume by Manufacturer in 2019,WD ACV Handling & Sales Volume by Manufacturer in '19?
+What is the WD ACV Handling and Sales Volume in 2019 vs 1999,Compare WD ACV Handling & Sales in '19 and '99.
+What is the WD ACV Handling and Sales Volume by Manufacturer and activity_name in 2019 vs 1999,2019 vs 1999: WD ACV Handling & Sales Volume by Manufacturer and activity_name?
+What is the WD ACV Handling of Manufacturer except Nokia,"Excluding Nokia, what's the WD ACV Handling for other manufacturers?"
+What is the WD ACV Handling of Samsung across days,Samsung's daily WD ACV Handling?
+What is the WD ACV Handling and Sales Volume by Manufacturer across days,Daily breakdown of WD ACV Handling & Sales Volume by Manufacturer?
+What are the Manufacturer with WD ACV Handling more than 1000 across days,Who are the manufacturers handling WD ACV more than 1000 across days?
+"What is the WD ACV Handling , Sales Volume and WD Out-Stock% by Manufacturer across days","WD ACV Handling, Sales Volume, and Out-Stock% by Manufacturer - daily breakdown?"
+"What is the WD ACV Handling , Sales Volume and WD Out-Stock% of Manufacturer in 2019","In 2019, what's the Manufacturer's WD ACV Handling, Sales Vol, & Out-Stock%?"
+Which Manufacturer have WD ACV Handling more than 1000,Manufacturer with WD ACV above 1k?
+What is the WD ACV Handling of Samsung and rolling across days,Samsung's WD ACV Handling & day-to-day roll - what's the info?
+List of Manufacturer in 2019,Name some manufacturers from 2019.
+List of Manufacturer having WD ACV Handling more than 1000,Manufacturers with WD ACV Handling >1000?
+List of Manufacturer and activity_name having WD ACV Handling more than 1000,Show manufacturers & activity names with WD ACV Handling >1000.
+List of Manufacturer except Nokia,Non-Nokia manufacturers?
+List of Manufacturer except Nokia across days,"Daily manufacturers list, excluding Nokia?"
+How many Manufacturer across days where WD ACV Handling is more than 1000,How many manufacturers on days with WD ACV Handling >1000?
+When was WD ACV Handling lowest in 2019,"In 2019, when was the lowest point for WD ACV Handling?"
+When was WD ACV Handling lowest across days,WD ACV Handling's lowest day?
+When was the last time that WD ACV Handling of Samsung was lowest,WD ACV Handling for Samsung - when was it lowest last?
+When was the last time that WD ACV Handling of Samsung was more than 1000,When did WD ACV Handling for Samsung last exceed 1000?
+When was the last time that WD ACV Handling and Sales Volume of Samsung was more than 1000,Last time WD ACV Handling with Samsung Sales was over 1k?
+When was the last time that WD ACV Handling lowest in 2019,Lowest WD ACV Handling in '19 - when was it?
+When was the last time that WD ACV Handling of Manufacturer was lowest in 2019,When was Manufacturer's WD ACV Handling at its minimum in '19?
+When was the last time that WD ACV Handling and Sales Volume was more than 1000 in 2019,When's the last time WD ACV Handling & Sales went over 1000 in '19?
+When was the last time that WD ACV Handling was more than 1000 and Sales Volume was less than 100 in 2019,Last time in '19 WD ACV Handling >1000 & Sales Volume <100?
+What is the ratio of Samsung and rolling for WD ACV Handling across days,Daily ratio for Samsung and rolling WD ACV Handling?
+What is the share of Manufacturer to overall WD ACV Handling across days,What's the manufacturer's share of WD ACV Handling across days?
+What is the share of Samsung for WD ACV Handling,Share of Samsung in WD ACV Handling?
+What is the share of Samsung to overall WD ACV Handling in 2019,Samsung's 2019 WD ACV Handling portion?
+What is the share of Samsung and rolling to overall WD ACV Handling across days,Daily share of Samsung+rolling in WD ACV Handling?
+"What is the share of Samsung, rolling, Screen and electric for WD ACV Handling","Share of Samsung, rolling, Screen, electric in WD ACV Handling?"
+What is the correlation between WD ACV Handling and Sales Volume,Is there a link between WD ACV Handling & Sales Volume?
+What is the correlation of WD ACV Handling for Samsung and rolling,Can you find a correlation between Samsung's WD ACV Handling & rolling?
+What is the daily trend of WD ACV Handling and Sales Volume,Daily trend of WD ACV handling & sales volume?
+What is the daily trend of WD ACV Handling and Sales Volume of Samsung and rolling,WD ACV Handling & Samsung sales volume daily trend - tell me?
+What is the daily trend of WD ACV Handling and Sales Volume for Samsung,Samsung's daily WD ACV Handling & Sales Volume trend?
+What is the daily trend of WD ACV Handling and Sales Volume in 2019,"Daily 2019 trends: WD ACV Handling, Sales Volume?"
+What is the daily trend of WD ACV Handling of Samsung and rolling in 2019,Daily trend of Samsung WD ACV Handling in '19?
+What is the trend of WD ACV Handling for all Manufacturer except Nokia,"Trend of WD ACV Handling for all mfgs, but not Nokia?"
+What will be WD ACV Handling in 2019 for Samsung,Samsung: WD ACV Handling in '19?
+Forecast of WD ACV Handling in 2019,Expected WD ACV Handling in 2019?
+what will be the daily WD ACV Handling in 2019,Daily WD ACV Handling for 2019?
+Forecast of daily WD ACV Handling,Can you predict daily WD ACV Handling?
+Forecast of daily WD ACV Handling in 2019,Expected daily WD ACV handling in 2019?
+Which are the top Manufacturer for WD ACV Handling except Nokia and cleaning,Top WD ACV Handling manufacturers besides Nokia for cleaning?
+Which are the top grown Manufacturer basis WD ACV Handling in 2019,Which manufacturers had highest WD ACV Handling in 2019?
+top Manufacturer basis WD ACV Handling across days growth rate,What's the growth rate for top manufacturer in WD ACV handling over days?
+top Manufacturer by WD ACV Handling across activity_name and days,Leading WD ACV Handling manufacturer in activity_name & days?
+Diagnose WD ACV Handling of Samsung and rolling change in 2019,WD ACV's diagnosis of Samsung's 2019 rolling change?
+Why WD ACV Handling of Samsung changed in 2019,Why did Samsung's WD ACV handling alter in 2019?
+What are the key drivers of WD ACV Handling,What influences WD ACV Handling?
+what are the key drivers of WD ACV Handling for Samsung and rolling,What drives WD ACV Handling for Samsung & rolling key factors?
+what are the drivers of WD ACV Handling for Samsung and rolling,WD ACV Handling factors for Samsung & rolling?
+What is the daily growth rate of WD ACV Handling,WD ACV Handling's daily growth rate?
+What is the growth rate of WD ACV Handling for 2019,How much did WD ACV Handling grow in 2019?
+What is the growth contribution to overall WD ACV Handling for Manufacturer except Nokia in 2019,"In 2019, how much did manufacturers (except Nokia) contribute to WD ACV Handling growth?"
+What is the contribution of Samsung for WD ACV Handling,Samsung's part in handling WD ACV?
+What is the contribution of Samsung to overall WD ACV Handling in 2019,Samsung's role in WD ACV Handling (2019)?
+What is the contribution of WD ACV Handling for Manufacturer across days,WD ACV Handling's contribution for Manufacturer across days - what is it?
+How many Manufacturer contributing to growth of WD ACV Handling in 2019,Number of manufacturers in 2019 for WD ACV Handling growth?
+How many Manufacturer contributing to growth of WD ACV Handling in 2019,WD ACV Handling growth in 2019: how many manufacturers involved?
+When was share of Manufacturer to overall WD ACV Handling lowest in 2019,Lowest share of WD ACV Handling for the manufacturer in 2019: when?
+When was share of Samsung to overall WD ACV Handling lowest in 2019,When did Samsung have the lowest WD ACV Handling share in '19?
+When was share of WD ACV Handling of Samsung and rolling lowest,When was the lowest point for Samsung's WD ACV Handling share?
+When was share of Samsung and rolling to overall WD ACV Handling lowest across days,When was the bottom day for Samsung's share & WD ACV Handling?
+When was the ratio of Samsung and rolling for WD ACV Handling lowest,When did Samsung and rolling for WD ACV Handling have the lowest ratio?
+When was the growth rate of WD ACV Handling lowest in 2019,"In 2019, when was the lowest growth rate for WD ACV Handling?"
+When was the lowest WD ACV Handling contribution to growth of Manufacturer recorded,When was the Manufacturer's growth least impacted by WD ACV Handling?
+List the top Manufacturer basis WD ACV Handling in 2019,Who were the leading manufacturers in 2019 by WD ACV Handling?
+Which are the top Manufacturer based on share of WD ACV Handling,Top manufacturers by WD ACV Handling share?
+Which are the top Manufacturer basis share of WD ACV Handling in 2019,Who were the leading WD ACV Handling makers in '19 based on share?
+Which are the top Manufacturer based on ratio of Samsung and rolling for WD ACV Handling across days,Best manufacturers by Samsung vs WD ACV Handling ratio over days?
+Which are the top Manufacturer based on correlation between WD ACV Handling and Sales Volume,Top mfgs with high correlation in WD ACV Handling & Sales Vol?
+Which are the top Manufacturer based on growth rate of WD ACV Handling in 2019,"In 2019, which manufacturers had the highest growth rate for WD ACV Handling?"
+Which are the top Manufacturer based on growth contribution to overall WD ACV Handling in 2019,"In 2019, which manufacturers contributed most to WD ACV Handling growth?"
+What is the trend of share of WD ACV Handling of Samsung across days,"Across days, how's the trend for Samsung WD ACV Handling share?"
+What is the trend of share of WD ACV Handling of Manufacturer across days,What's the WD ACV Handling trend for Manufacturer across days?
+What is the daily trend of share of Manufacturer WD ACV Handling,What's the daily pattern of Manufacturer WD ACV Handling share?
+What is the trend of share of Samsung and rolling basis WD ACV Handling in 2019,Trend of Samsung's share & rolling WD ACV Handling in '19?
+What is the trend of growth rate of WD ACV Handling across days,Daily trend in WD ACV Handling growth rate?
+What is the trend of growth rate of Samsung and rolling WD ACV Handling across the days,Daily growth rate trend: Samsung & rolling WD ACV Handling?
+What is the trend of WD ACV Handling ratio of Samsung to rolling in 2019,Trend of Samsung's WD ACV Handling ratio in 2019?
+What is the trend of growth contribution to overall WD ACV Handling for Manufacturer in 2019,WD ACV Handling's growth contribution to Manufacturer in 2019 - what's the trend?
+Why share of WD ACV Handling of Samsung changed in 2019,What caused the change in Samsung's WD ACV Handling share in '19?
+List Manufacturer based on contribution to growth of WD ACV Handling in 2019,Rank manufacturers by their impact on 2019 WD ACV Handling growth.
+List Manufacturer based on daily trends,"Manufacturers with daily trends, please."
+List Manufacturer based on daily trends of WD ACV Handling in 2019,Manufacturers with daily WD ACV Handling trends in '19?
+Which are the top Manufacturer based on trend of growth rate of WD ACV Handling,Which manufacturers lead in WD ACV Handling growth trends?
+Which are the top Manufacturer based on trend of share of WD ACV Handling,WD ACV Handling share trend: top manufacturers?
+Which are the top Manufacturer based on trend of contribution of WD ACV Handling,Leading manufacturers in WD ACV Handling trend contributions?
+Which are the top Manufacturer based on trend of contribution to growth of WD ACV Handling in 2019,Top manufacturers for WD ACV Handling growth in '19?
+When was contribution of WD ACV Handling of Manufacturer lowest,When was the minimum contribution by WD ACV Handling of Manufacturer?
+What is the daily trend of contribution of Samsung of WD ACV Handling,Trend of Samsung's daily contribution in WD ACV Handling?
+Diagnose the contribution of WD ACV Handling of Samsung in 2019,Determine WD ACV Handling's role in Samsung's 2019 performance.
+How many Manufacturer are contributing to WD ACV Handling in 2019,Number of manufacturers involved in WD ACV Handling during 2019?
+How many Manufacturer are contributing to WD ACV Handling,Count of manufacturers for WD ACV Handling?
+List of Manufacturer basis share of WD ACV Handling,WD ACV Handling: Manufacturer share list?
+List of Manufacturer with WD ACV Handling share more than 1000,Which manufacturers have WD ACV Handling >1000?
+List of Manufacturer contributing to WD ACV Handling,Manufacturers involved in WD ACV Handling?
+List of Manufacturer with WD ACV Handling contribution more than 1000,Name manufacturers with 1000+ WD ACV Handling.
+What is the Number of Stores across years in quarter3 2019,How many stores in 3rd quarter '19?
+What is the Number of Stores by Level_Geo across years in quarter3 2019,"Stores count by Level_Geo, Q3 '19?"
+What is the Number of Stores of Europe across years in quarter3 2019,"Stores in Europe - 2019, 3rd quarter?"
+What is the Number of Stores and Total Stock in quarter3 2019,Number of stores & total stock in Q3 2019?
+What is the Number of Stores and Total Stock by Level_Geo and Promotype in quarter3 2019,"In Q3 2019, what's the store count & stock total by Level_Geo & Promotype?"
+What is the Number of Stores and Total Stock by Level_Geo in quarter3 2019 vs quarter1 2022,Compare store numbers & stock by Level_Geo: 3Q 2019 vs 1Q 2022.
+What are the Level_Geo with Number of Stores is less than 3500,Level_Geo with stores under 3500?
+What is the Number of Stores by Level_Geo across years,How many stores per Level_Geo across years?
+What is the Number of Stores and Total Stock across years,How many stores & stock throughout the years?
+What is the Number of Stores and Total Stock by Level_Geo and Promotype across years,Yearly store & stock breakdown by Level_Geo and Promotype?
+"What is the Number of Stores , Total Stock and Purchase across years","Number of stores, total stock, and purchases over the years?"
+"What is the Number of Stores , Total Stock and Purchase in quarter3 2019","Q3 2019: store count, total inventory, and purchases?"
+Which Level_Geo have Number of Stores less than 3500 in quarter3 2019,Which Level_Geo had fewer than 3500 stores in 2019 Q3?
+Which Level_Geo have Number of Stores less than 3500,"In which Level_Geo are there fewer than 3,500 stores?"
+What is the Number of Stores of Europe and South Asia across years,Europe and South Asia store count across years?
+List of Level_Geo,Can you show the Level_Geo List?
+List of Level_Geo and Promotype,"Need list: Level_Geo, Promotype."
+List of Level_Geo having Number of Stores less than 3500 in quarter3 2019,Level_Geo list with <3500 stores in Q3 2019?
+List of Level_Geo and Promotype having Number of Stores less than 3500 in quarter3 2019,Which Level_Geo & Promotype had under 3.5k stores in 3rd quarter '19?
+List of Level_Geo across years,Years-wise Level_Geo list?
+How many Level_Geo are there,Level_Geo count?
+How many Level_Geo across years where Number of Stores is less than 3500,"Across years, Level_Geo instances with stores < 3.5k?"
+When was Number of Stores lowest in quarter3 2019,When was the store count at its minimum in Q3 '19?
+When was Number of Stores lowest across years,When was the least number of stores across years?
+When was the last time that Number of Stores of Level_Geo was lowest,Last time Level_Geo had the least stores?
+When was the last time that Number of Stores of Europe was less than 3500,Europe's store count was below 3.5k when?
+When was the last time that Number of Stores and Total Stock of Europe was less than 3500,When was Europe's store count & stock below 3500 last?
+When was the last time that Number of Stores of Europe was lowest in quarter3 2019,When did Europe's store count hit its lowest in Q3 2019?
+When was the last time that Number of Stores less than 3500 in quarter3 2019,Q3 2019: When was the last time there were under 3500 stores?
+When was the last time that Number of Stores and Total Stock was less than 3500 in quarter3 2019,Last time Stores & Stock < 3500 in Q3 '19?
+When was the last time that Number of Stores was less than 3500 and Total Stock was more than 20000 in quarter3 2019,"Q3 2019: Last time with <3.5k stores, >20k stock?"
+What is the ratio of Europe and South Asia for Number of Stores in quarter3 2019,"In Q3 '19, what was the store count ratio between Europe & S"
+What is the share of Level_Geo to overall Number of Stores across years,"Across years, how much of total Stores is Level_Geo?"
+What is the share of Europe for Number of Stores,Europe's portion of stores?
+What is the share of Europe and South Asia for Number of Stores,What's the store count in Europe and South Asia?
+What is the share of Europe and South Asia to overall Number of Stores in quarter3 2019,Q3 2019 store count: % for Europe & S
+"What is the share of Europe, South Asia, art and tea for Number of Stores","Store numbers for Europe, South Asia, art, and tea?"
+What is the correlation between Number of Stores and Total Stock,Relation between Stores and Stock?
+What is the correlation of Number of Stores for Europe and South Asia in quarter3 2019,"In Q3 '19, how are the number of stores in Europe and South Asia related?"
+What is the yearly trend of Number of Stores and Total Stock,What's the trend for stores and stock each year?
+What is the yearly trend of Number of Stores and Total Stock of Europe and South Asia,Yearly store & stock trends in Europe and S
+What is the yearly trend of Number of Stores in quarter3 2019,Yearly trend for Store Count in Q3 2019?
+What is the yearly trend of Number of Stores for Europe in quarter3 2019,Europe's store count trend in 2019's 3rd quarter?
+What is the yearly trend of Number of Stores of Europe and South Asia in quarter3 2019,Europe & S
+What is the trend of Number of Stores for all Level_Geo except East Asia,"In all Level_Geo areas except East Asia, what's the trend for the number of stores?"
+What will be Number of Stores in quarter3 2019,Number of stores in 3rd quarter '19?
+Forecast of Number of Stores in quarter3 2019,Predicted store count for 3rd quarter 2019?
+what will be the yearly Number of Stores,Stores in a year?
+what will be the yearly Number of Stores of Europe in quarter3 2019,Europe's yearly store count in 3rd quarter '19?
+Forecast of yearly Number of Stores of Europe,Europe's yearly store number projections?
+Forecast of yearly Number of Stores of Europe in quarter3 2019,"Predicted number of stores in Europe, 3rd quarter 2019?"
+top Level_Geo basis Number of Stores in quarter3 2019,How many stores were there in Q3 2019 at the top level_geo basis?
+top Level_Geo basis Number of Stores across years,Top level_geo: store count over the years?
+top Level_Geo contributing to growth of Number of Stores across years,In which top-level geo did store count increase the most over time?
+Diagnose Number of Stores change in quarter3 2019,How many stores changed in 2019's 3rd quarter?
+Why Number of Stores changed in quarter3 2019,"In Q3 '19, what led to the change in the number of stores?"
+Why Number of Stores of Europe and South Asia changed in quarter3 2019,Why did the store count in Europe & South Asia vary during 2019's Q3?
+What are the drivers of Number of Stores,Factors affecting the store count?
+what are the drivers of Number of Stores for Europe,What factors influence the number of stores in Europe?
+What is the yearly growth rate of Number of Stores for quarter3 2019,Yearly growth rate of store count for 3rd quarter 2019?
+What is the growth rate of Number of Stores of Europe for quarter3 2019,"Growth rate of European stores, 2019 Q3?"
+What is the growth contribution to overall Number of Stores for Level_Geo in quarter3 2019,"For Level_Geo, what was store growth contribution in 2019's 3rd quarter?"
+What is the growth contribution to overall Number of Stores for Level_Geo except East Asia across years,"Excluding East Asia, how has growth contributed to the total number of stores in Level_Geo across different years?"
+What is the contribution of Europe for Number of Stores,How many stores does Europe contribute?
+What is the contribution of Europe to overall Number of Stores in quarter3 2019,Europe's share of stores in 2019's 3rd quarter?
+What is the contribution of Number of Stores for Level_Geo across years,"Across years, what's the Number of Stores' impact on Level_Geo?"
+How many Level_Geo contributing to growth of Number of Stores across years,Level_Geo's impact on store growth over the years?
+When was share of Number of Stores of Level_Geo lowest,When was Level_Geo's store share at its lowest?
+When was share of Level_Geo to overall Number of Stores lowest across years,"Across years, when was Level_Geo's portion of total Stores at its minimum?"
+When was share of Europe to overall Number of Stores lowest in quarter3 2019,Q3 2019: when was Europe's lowest store count %?
+When was share of Europe and South Asia to overall Number of Stores lowest in quarter3 2019,When did Europe and South Asia have the smallest store share in Q3 2019?
+When was the ratio of Europe and South Asia for Number of Stores was lowest in quarter3 2019,"In 2019's 3rd quarter, when was the Europe-South Asia store ratio at its lowest?"
+When was the ratio of Europe and South Asia for Number of Stores lowest,Europe & South Asia store ratio - when was it minimum?
+When was the lowest growth rate of Number of Stores recorded across years,When was the lowest store growth rate recorded over the years?
+When was the lowest Number of Stores contribution to growth of Level_Geo recorded in quarter3 2019,When did the lowest store contribution to Level_Geo growth occur in 3rd quarter 2019?
+List the top Level_Geo basis Number of Stores in quarter3 2019,Rank Level_Geo stores by count in 3rd quarter '19.
+List the top Level_Geo basis Number of Stores in quarter3 2019,Top Level_Geo stores in Q3 '19 by number?
+Which are the top Level_Geo based on share of Number of Stores across years,Which Level_Geo has highest store share over years?
+Which are the top Level_Geo based on ratio of Europe and South Asia for Number of Stores,Level_Geo with the best Europe/South Asia store ratio?
+Which are the top Level_Geo based on ratio of Europe and South Asia for Number of Stores in quarter3 2019,Which Level_Geo leads in Europe/South Asia store count ratio during 2019 Q3?
+Which are the top Level_Geo based on correlation of Number of Stores between Europe and South Asia in quarter3 2019,"In Q3 '19, which Level_Geo had the strongest store count correlation between Europe & South Asia?"
+Which are the top Level_Geo based on yearly growth rate of Number of Stores,Level_Geo with most store growth per year?
+Which are the top Level_Geo based on growth contribution to overall Number of Stores across years,Which Level_Geo contributed most to store growth over time?
+What is the yearly trend of share of Europe of Number of Stores,What's the annual trend for Europe's share of store count?
+What is the trend of share of Level_Geo Number of Stores in quarter3 2019,Level_Geo store share trend in 3rd quarter 2019?
+What is the trend of share of Europe and South Asia basis Number of Stores across years,How's the store count trend for Europe & S
+What is the yearly trend of share of Europe and South Asia of Number of Stores,Store count share trend in Europe & S
+What is the trend of growth rate of Number of Stores in quarter3 2019,Q3 2019 store growth rate trend?
+What is the trend of ratio of Number of Stores of Europe to South Asia,Trend of store count ratio: Europe/South Asia?
+What is the trend of ratio of Number of Stores of Europe to South Asia across years,How has the store ratio between Europe and South Asia changed over the years?
+What is the trend of contribution to growth for Number of Stores of Level_Geo across years,What's the growth contribution trend for Level_Geo's Store Count over the years?
+Diagnose the share of Number of Stores of Europe in quarter3 2019,Europe's store share in 3rd quarter '19?
+List Level_Geo based on growth rate of Number of Stores in quarter3 2019,"In Q3 '19, list Level_Geo by store growth rate."
+List Level_Geo based on yearly trends of Number of Stores,Display Level_Geo with annual store trends.
+Which are the top Level_Geo based on yearly trends for Number of Stores in quarter3 2019,Yearly trends: best Level_Geo for store count in 3rd quarter 2019?
+Which are the top Level_Geo based on trend of growth rate of Number of Stores in quarter3 2019,Level_Geo with fastest store growth in 2019's Q3?
+Which are the top Level_Geo based on trend of share of Number of Stores in quarter3 2019,Q3 2019: Which Level_Geo had the most store share growth?
+Which are the top Level_Geo based on trend of contribution to growth of Number of Stores,Top Level_Geo by store growth trend?
+When was contribution of Number of Stores of Europe lowest,Europe's store count was at its lowest when?
+What is the yearly trend of contribution of Level_Geo Number of Stores,Yearly trend of Level_Geo store contributions?
+What is the yearly trend of contribution of Europe of Number of Stores,Europe's store contribution - what's the trend each year?
+Diagnose the contribution of Number of Stores of Europe in quarter3 2019,What's the impact of Europe's store count in 3rd quarter '19?
+How many Level_Geo are contributing to Number of Stores across years,Number of Level_Geo impacting Store Numbers yearly?
+List of Level_Geo basis share of Number of Stores,Number of stores in Level_Geo basis breakdown?
+List of Level_Geo with Number of Stores share less than 3500,Level_Geo with store shares less than 3.5k?
+List of Level_Geo contributing to Number of Stores in quarter3 2019,Level_Geo list contributing to store count in Q3 2019?
+List of Level_Geo with Number of Stores contribution less than 3500 in quarter3 2019,Show Level_Geo with store count <3.5k in 3rd quarter '19.
+What is the Nd Out-Stock By Cat% across months in May 2015,Nd Out-Stock By Cat% in 05/2015 - monthly breakdown?
+What is the Nd Out-Stock By Cat% by Subbrand across months in May 2015,Subbrand-wise Nd Out-Stock By Cat% in 05/15 across months?
+What is the Nd Out-Stock By Cat% by Subbrand in May 2015 vs jan 2018,May 2015 vs Jan 2018: Nd Out-Stock By Cat% by Subbrand?
+What is the Nd Out-Stock By Cat% and Total Stock in May 2015,What's the Nd Out-Stock By Cat% & Total Stock for 05.2015?
+What is the Nd Out-Stock By Cat% and Total Stock by Subbrand and Category in May 2015,Nd Out-Stock By Cat% & Total Stock (Subbrand/Category) for May 2015?
+What is the Nd Out-Stock By Cat% and Total Stock by Subbrand and Category in May 2015 vs jan 2018,Nd Out-Stock By Cat% & Total Stock by Subbrand/Category: May '15 vs Jan '18?
+What is the Nd Out-Stock By Cat% of Subbrand except laptops,What's the Subbrand's Nd Out-Stock By Cat% without laptops?
+What is the Nd Out-Stock By Cat% by Subbrand across months,"Subbrand-wise, monthly Nd Out-Stock By Cat%?"
+What is the Nd Out-Stock By Cat% and Total Stock across months,Nd Out-Stock By Cat% & Total Stock across months?
+What are the Subbrand with Nd Out-Stock By Cat% more than 9k across months,"List subbrands with more than 9,000 Nd Out-Stock By Cat% across months."
+"What is the Nd Out-Stock By Cat% , Total Stock and Value Offtake across months","Monthly breakdown: Nd Out-Stock By Cat%, Total Stock, Value Offtake?"
+"What is the Nd Out-Stock By Cat% , Total Stock and Value Offtake in May 2015","May 2015: Nd Out-Stock By Cat%, total stock & value offtake?"
+Which Subbrand have Nd Out-Stock By Cat% more than 9k in May 2015,Which sub-brand had over 9k Nd Out-Stock By Cat% in May '15?
+Which Subbrand have Nd Out-Stock By Cat% more than 9k in May 2015,"In May '15, which subbrand exceeded 9k Nd Out-Stock By Cat%?"
+Which Subbrand have Nd Out-Stock By Cat% more than 9k in May 2015,May 2015: which subbrand's Nd Out-Stock By Cat% was above 9k?
+What is the Nd Out-Stock By Cat% of tablets and computers across months,Nd Out-Stock By Cat% of tablets/computers per month?
+List of Subbrand in May 2015,May 2015 subbrand list?
+List of Subbrand and Category in May 2015,What were the subbrands & categories in 05/15?
+List of Subbrand having Nd Out-Stock By Cat% more than 9k in May 2015,"In 05.2015, which subbrands had Nd Out-Stock by Cat% > 9k?"
+List of Subbrand except laptops,"What are the subbrands, excluding laptops?"
+List of Subbrand except laptops across months,"Monthly subbrand list, no laptops."
+How many Subbrand across months,Number of subbrands each month?
+How many Subbrand across months where Nd Out-Stock By Cat% is more than 9k,Monthly subbrands count with Nd Out-Stock By Cat% exceeding 9k?
+When was Nd Out-Stock By Cat% highest in May 2015,Highest Nd Out-Stock By Cat% in 05/2015?
+When was Nd Out-Stock By Cat% highest across months,Highest Nd Out-Stock By Cat% was in which month?
+When was the last time that Nd Out-Stock By Cat% of tablets was highest,When was tablets' Nd Out-Stock By Cat% at its max last?
+When was the last time that Nd Out-Stock By Cat% of tablets was more than 9k,When did Nd Out-Stock By Cat% for tablets last exceed 9k?
+When was the last time that Nd Out-Stock By Cat% and Total Stock of tablets was more than 9k,Last time Nd Out-Stock By Cat% with Total Stock of tablets was over 9k?
+When was the last time that Nd Out-Stock By Cat% highest in May 2015,May 2015: when was the last highest Nd Out-Stock By Cat%?
+When was the last time that Nd Out-Stock By Cat% of Subbrand was highest in May 2015,Highest Nd Out-Stock By Cat% of Subbrand in 05/2015 - when?
+When was the last time that Nd Out-Stock By Cat% and Total Stock was more than 9k in May 2015,When did Nd Out-Stock By Cat% and Total Stock last surpass 9k in 05/2015?
+When was the last time that Nd Out-Stock By Cat% was more than 9k and Total Stock was less than 4k in May 2015,Last time Nd Out-Stock By Cat% > 9k & Total Stock < 4k in May 2015?
+What is the ratio of tablets and computers for Nd Out-Stock By Cat% across months,Nd Out-Stock By Cat%: tablet/computer ratio per month?
+What is the share of Subbrand to overall Nd Out-Stock By Cat% across months,What's the Subbrand's share of Nd Out-Stock By Cat% monthly?
+What is the share of tablets for Nd Out-Stock By Cat%,Nd Out-Stock By Cat%: tablet share?
+What is the share of tablets to overall Nd Out-Stock By Cat% in May 2015,Tablets' percentage in Nd Out-Stock By Cat for 05/15?
+What is the share of tablets and computers to overall Nd Out-Stock By Cat% across months,"Across months, what % of Nd Out-Stock By Cat% is from tablets and computers?"
+"What is the share of tablets, computers, mobiles and Car for Nd Out-Stock By Cat%","Nd Out-Stock By Cat%: How much for tablets, computers, mobiles, and cars?"
+What is the correlation between Nd Out-Stock By Cat% and Total Stock,Can we find a link between Nd Out-Stock By Cat% & Total Stock?
+What is the correlation of Nd Out-Stock By Cat% for tablets and computers,How's Nd Out-Stock By Cat% related for tablets vs computers?
+What is the monthly trend of Nd Out-Stock By Cat% and Total Stock,Monthly trend for Nd Out-Stock By Cat% & Total Stock?
+What is the monthly trend of Nd Out-Stock By Cat% and Total Stock of tablets and computers,What's the month-by-month trend for Nd Out-Stock By Cat% & Total Stock (tablets & computers)?
+What is the monthly trend of Nd Out-Stock By Cat% and Total Stock for tablets,What's the month-by-month trend for Nd Out-Stock By Cat% & Total Stock (tablets)?
+What is the monthly trend of Nd Out-Stock By Cat% and Total Stock in May 2015,Nd Out-Stock By Cat% & Total Stock trend in May '15?
+What is the monthly trend of Nd Out-Stock By Cat% of tablets and computers in May 2015,Nd Out-Stock By Cat% trend for tablets/computers in 05/2015?
+What is the trend of Nd Out-Stock By Cat% for all Subbrand except laptops,"How's Nd Out-Stock By Cat% trending for all Subbrand, but not laptops?"
+What will be Nd Out-Stock By Cat% in May 2015 for tablets,May 2015: Nd Out-Stock By Cat% for tablets?
+Forecast of Nd Out-Stock By Cat% for tablets in May 2015,"Nd Out-Stock By Cat% forecast for tablets, May '15?"
+Forecast of Nd Out-Stock By Cat% for tablets in May 2015,"Predict Nd Out-Stock By Cat% for tablets, May '15?"
+what will be the monthly Nd Out-Stock By Cat% in May 2015,May '15 monthly Nd Out-Stock By Cat%?
+Forecast of monthly Nd Out-Stock By Cat%,Cat% Nd Out-Stock: monthly projections?
+Forecast of monthly Nd Out-Stock By Cat% in May 2015,05/15 Nd Out-Stock by Cat% monthly projection?
+Which are the bottom Subbrand for Nd Out-Stock By Cat% except laptops and accessories,Bottom subbrands for Nd Out-Stock By Cat% (excluding laptops & accessories)?
+Which are the bottom grown Subbrand basis Nd Out-Stock By Cat% in May 2015,"In May '15, which subbrands were at the bottom in terms of growth (Nd Out-Stock By Cat%)?"
+bottom Subbrand basis Nd Out-Stock By Cat% across months growth rate,Bottom subbrands' Cat% Out-Stock growth across months?
+bottom Subbrand by Nd Out-Stock By Cat% across Category and months,Find the lowest subbrand & out-of-stock by cat% across categories & months.
+Diagnose Nd Out-Stock By Cat% of tablets and computers change in May 2015,Determine the out-of-stock percentage change for tablets and computers by category in 05/2015.
+Why Nd Out-Stock By Cat% of tablets changed in May 2015,What's the reason for the change in tablets' Nd Out-Stock By Cat% in 05/15?
+What are the key drivers of Nd Out-Stock By Cat%,What causes changes in Nd Out-Stock By Cat%?
+what are the key drivers of Nd Out-Stock By Cat% for tablets and computers,Key factors driving Nd Out-Stock By Cat% for tablets & computers?
+what are the drivers of Nd Out-Stock By Cat% for tablets and computers,"Nd Out-Stock By Cat% factors for tablets, computers?"
+What is the monthly growth rate of Nd Out-Stock By Cat%,How much does Nd Out-Stock By Cat% grow monthly?
+What is the growth rate of Nd Out-Stock By Cat% for May 2015,Growth rate of Nd Out-Stock By Cat% in 05/15?
+What is the growth contribution to overall Nd Out-Stock By Cat% for Subbrand except laptops in May 2015,"In 05/2015, what was the Nd Out-Stock By Cat% growth contribution for Subbrand, not counting laptops?"
+Which are the bottom Subbrand contributing to Nd Out-Stock By Cat%,What are the lowest subbrands for Nd Out-Stock By Cat%?
+What is the contribution of Nd Out-Stock By Cat% for Subbrand,What's the Nd Out-Stock By Cat% contribution for Subbrand?
+What is the contribution of Nd Out-Stock By Cat% for Subbrand in May 2015,Nd Out-Stock By Cat% of Subbrand in May '15?
+What is the contribution of Nd Out-Stock By Cat% for Subbrand across months,"Across months, what's Subbrand's Nd Out-Stock By Cat%?"
+How many Subbrand contributing to growth of Nd Out-Stock By Cat% in May 2015,"In May '15, what's the count of sub-brands that grew Nd Out-Stock By Cat%?"
+When was share of Subbrand to overall Nd Out-Stock By Cat% highest in May 2015,May 2015: when was Subbrand's Nd Out-Stock By Cat% share at its max?
+When was share of tablets to overall Nd Out-Stock By Cat% highest in May 2015,When did tablets have the highest Nd Out-Stock By Cat% in 05/2015?
+When was share of Nd Out-Stock By Cat% of tablets and computers highest,"When was the max Nd Out-Stock By Cat% for tablets, computers?"
+When was share of tablets and computers to overall Nd Out-Stock By Cat% highest across months,Tablets and computers' top Nd Out-Stock By Cat% month?
+When was the ratio of tablets and computers for Nd Out-Stock By Cat% highest,When did Nd Out-Stock By Cat% have the highest tablet to computer ratio?
+When was the growth rate of Nd Out-Stock By Cat% highest in May 2015,"In May 2015, when was the peak growth rate for Nd Out-Stock By Cat%?"
+When was the highest Nd Out-Stock By Cat% contribution to growth of Subbrand recorded,When was Subbrand's peak Nd Out-Stock By Cat% growth contribution?
+List the bottom Subbrand having Nd Out-Stock By Cat% more than 9k in May 2015,Identify the subbrand with the lowest Nd Out-Stock By Cat% more than 9000 in 05/15.
+Which are the bottom Subbrand based on share of Nd Out-Stock By Cat%,Least share in Nd Out-Stock By Cat%: which subbrands?
+Which are the bottom Subbrand based on ratio of tablets and computers for Nd Out-Stock By Cat%,Nd Out-Stock By Cat%: Which subbrands have the lowest ratio of tablets to computers?
+Which are the bottom Subbrand based on ratio of tablets and computers for Nd Out-Stock By Cat% in May 2015,"For Nd Out-Stock By Cat% in 05.2015, which subbrands have the lowest ratio of tablets to computers?"
+Which are the bottom Subbrand based on correlation between Nd Out-Stock By Cat% and Total Stock in May 2015,May 2015: Which sub-brands have the lowest correlation between Nd Out-Stock By Cat% and Total Stock?
+Which are the bottom Subbrand based on monthly growth rate of Nd Out-Stock By Cat%,Bottom subbrands by monthly Nd Out-Stock By Cat% growth rate?
+Which are the bottom Subbrand based on growth contribution to overall Nd Out-Stock By Cat% across months,Identify the bottom subbrands based on their growth contribution to overall Nd Out-Stock By Cat% over months.
+What is the trend of share of tablets Nd Out-Stock By Cat% in May 2015,May 2015 trend of tablet share & Out-Stock By Cat%?
+What is the trend of share of Nd Out-Stock By Cat% of Subbrand across months,Subbrand's Nd Out-Stock By Cat%: how's it trending across months?
+What is the trend of share of tablets and computers basis Nd Out-Stock By Cat% across months,How does the share of tablets & computers change monthly according to Nd Out-Stock By Cat%?
+What is the monthly trend of share of tablets and computers of Nd Out-Stock By Cat%,Tablets and computers' share trend in Nd Out-Stock By Cat% - monthly?
+What is the trend of growth rate of Nd Out-Stock By Cat% of Subbrand for May 2015,Nd Out-Stock By Cat% of Subbrand growth trend in 05/15?
+What is the trend of ratio of Nd Out-Stock By Cat% of tablets to computers,What's the trend for Nd Out-Stock By Cat% ratio of tablets vs computers?
+What is the trend of ratio of Nd Out-Stock By Cat% of tablets to computers across months,Monthly trend of Nd Out-Stock By Cat% ratio: tablets to computers?
+What is the trend of growth contribution to overall Nd Out-Stock By Cat% for Subbrand to Category in May 2015,May 2015: Nd Out-Stock By Cat% growth contribution trend in Subbrand to Category?
+Why share of Nd Out-Stock By Cat% of tablets changed in May 2015,Why did tablets' Nd Out-Stock By Cat% alter in May 2015?
+List Subbrand based on growth rate of Nd Out-Stock By Cat% in May 2015,Show subbrands based on Nd Out-Stock By Cat% growth in May '15.
+List Subbrand based on monthly trends of Nd Out-Stock By Cat%,Subbrands list - based on Nd Out-Stock By Cat% monthly trends.
+Which are the bottom Subbrand based on monthly trends for Nd Out-Stock By Cat%,Nd Out-Stock By Cat% - bottom subbrands in monthly trends?
+Which are the bottom Subbrand based on trend of growth rate of Nd Out-Stock By Cat% in May 2015,Which subbrands had the lowest growth rate in Nd Out-Stock By Cat% in May '15?
+Which are the bottom Subbrand based on trend of share of Nd Out-Stock By Cat% in May 2015,"In May '15, which subbrands had the least share of Nd Out-Stock By Cat% trend?"
+Which are the bottom Subbrand based on trends of contribution of for Nd Out-Stock By Cat% in May 2015,Identify the bottom subbrands for Nd Out-Stock By Cat% contribution trends in May 2015.
+Which are the bottom Subbrand based on trend of contribution to growth of Nd Out-Stock By Cat% in May 2015,"Lowest contributing subbrands to Nd Out-Stock By Cat% growth trend, May '15?"
+What is the monthly trend of contribution of tablets of Nd Out-Stock By Cat%,How does the contribution of tablets in Nd Out-Stock By Cat% change monthly?
+What is the monthly trend of contribution of tablets of Nd Out-Stock By Cat%,Nd Out-Stock By Cat%: tablet contribution trend per month?
+Why contribution of Nd Out-Stock By Cat% of tablets changed in May 2015,What's the reason for the change in tablets' Nd Out-Stock By Cat% in May 2015?
+How many Subbrand are contributing to Nd Out-Stock By Cat%,Count of sub-brands for Nd Out-Stock By Cat%?
+List of Subbrand basis share of Nd Out-Stock By Cat%,Show subbrand list based on Nd Out-Stock share by Cat%.
+List of Subbrand with Nd Out-Stock By Cat% share more than 9k,"Nd Out-Stock subbrands, Cat% share over 9k - which ones?"
+List of Subbrand contributing to Nd Out-Stock By Cat%,Nd Out-Stock by Cat%: contributing subbrands?
+List of Subbrand with Nd Out-Stock By Cat% contribution more than 9k,"Need subbrands list: Nd Out-Stock, Cat% > 9k."
+What is the Value Offtake across years in 2020,2020's Value Offtake through the years?
+What is the Value Offtake by Manufacturer across years in 2020,"In 2020, what was the Value Offtake for manufacturers?"
+What is the Value Offtake of Tata Industries across years in 2020,"Tata Industries - 2020 Value Offtake, year-wise?"
+What is the Value Offtake and WD Out-Stock% in 2020,Value Offtake & WD Out-Stock% for 2020?
+What is the Value Offtake and WD Out-Stock% by Manufacturer and Country in 2020,"2020: Manufacturer & Country-wise Value Offtake, WD Out-Stock%?"
+What is the Value Offtake and WD Out-Stock% by Manufacturer in 2020 vs 2021,Manufacturer's Value Offtake & WD Out-Stock% in '20 vs '21?
+What are the Manufacturer with Value Offtake is less than 9k,Value offtake less than 9k - which manufacturers?
+What is the Value Offtake by Manufacturer across years,Manufacturer's Value Offtake across years?
+What is the Value Offtake and WD Out-Stock% across years,Can I get the Value Offtake & WD Out-Stock% for all years?
+What is the Value Offtake and WD Out-Stock% by Manufacturer and Country across years,"For each Manufacturer & Country, what's the Value Offtake & WD Out-Stock% over time?"
+"What is the Value Offtake , WD Out-Stock% and Number of Stores across years","Value Offtake, WD Out-Stock% & No"
+"What is the Value Offtake , WD Out-Stock% and Number of Stores in 2020","In 2020, what's the Value Offtake, WD Out-Stock%, and # of Stores?"
+Which Manufacturer have Value Offtake less than 9k in 2020,Value Offtake less than 9k: which manufacturer in 2020?
+What is the Value Offtake of Tata Industries and India in 2020,Tata Industries & India's Value Offtake in 2020?
+What is the Value Offtake of Tata Industries and India across years in 2020,Tata Industries & India's Value Offtake in 2020 - yearly breakdown?
+List of Manufacturer and Country,List of countries and their manufacturers?
+List of Manufacturer having Value Offtake less than 9k,Value offtake below 9k - which manufacturers?
+List of Manufacturer and Country having Value Offtake less than 9k in 2020,Which manufacturers and countries had a value offtake below 9k in 2020?
+List of Manufacturer across years,Year-wise manufacturer list?
+How many Manufacturer across years,Total manufacturers in different years?
+When was Value Offtake highest,Highest Value Offtake date?
+When was Value Offtake highest for Tata Industries in 2020,"In 2020, when was Tata Industries' Value Offtake at its peak?"
+When was the last time that Value Offtake highest,When was Value Offtake at its max last?
+When was the last time that Value Offtake less than 9k,When did Value Offtake last drop below 9k?
+When was the last time that Value Offtake and WD Out-Stock% was less than 9k,"Last time Value Offtake, WD Out-Stock% were under 9k?"
+When was the last time that Value Offtake was less than 9k and WD Out-Stock% was more than 20k,When was Value Offtake under 9k & WD Out-Stock% over 20k last?
+When was the last time that Value Offtake of Tata Industries was highest in 2020,Tata Industries' top Value Offtake in 2020 - which date?
+When was the last time that Value Offtake of Tata Industries was less than 9k in 2020,"In 2020, when was Tata Industries' Value Offtake under 9k for the last time?"
+When was the last time that Value Offtake and WD Out-Stock% of Tata Industries was less than 9k in 2020,When in 2020 did Tata Industries' Value Offtake & WD Out-Stock% last drop below 9k?
+What is the ratio of Tata Industries and India for Value Offtake,Can you tell the value offtake ratio of Tata Industries to India?
+What is the share of Manufacturer for Value Offtake,What's the manufacturer's share for Value Offtake?
+What is the share of Manufacturer to overall Value Offtake in 2020,Manufacturer's percentage in overall value offtake for 2020?
+What is the share of Tata Industries to overall Value Offtake across years,Tata Industries' percentage in Value Offtake throughout the years?
+What is the share of Tata Industries and India for Value Offtake,"Value Offtake % for Tata Industries, India?"
+"What is the share of Tata Industries, India and Tata motors for Value Offtake",Share of value offtake for Tata Industries (India) & Tata Motors?
+"What is the share of Tata Industries, India, Tata motors, Car and Apple for Value Offtake","Value offtake % for Tata Industries, Tata Motors, Car, Apple in India?"
+What is the correlation between Value Offtake and WD Out-Stock% in 2020,Value Offtake & WD Out-Stock% correlation in 2020?
+What is the yearly trend of Value Offtake,Yearly trend of Value Offtake: what is it?
+What is the yearly trend of Value Offtake for Tata Industries,Annual Value Offtake trend for Tata Industries?
+What is the yearly trend of Value Offtake of Tata Industries and India,Tata Industries & India - yearly Value Offtake trend?
+What is the yearly trend of Value Offtake in 2020,2020's annual Value Offtake trend?
+What is the yearly trend of Value Offtake and WD Out-Stock% of Tata Industries and India in 2020,"Tata Industries & India's Value Offtake, WD Out-Stock% trend in '20?"
+What is the yearly trend of Value Offtake and WD Out-Stock% for Tata Industries in 2020,Yearly trend of Value Offtake & WD Out-Stock% for Tata Industries in '20?
+What is the trend of Value Offtake and WD Out-Stock% for all Manufacturer except China,"Value Offtake & WD Out-Stock% trends for all manufacturers, except China - what are they?"
+what will be the yearly Value Offtake,What's the annual Value Offtake?
+what will be the yearly Value Offtake in 2020,Annual Value Offtake for 2020?
+Forecast of yearly Value Offtake,Predicted yearly value offtake?
+Forecast of yearly Value Offtake in 2020,2020's yearly value offtake estimate?
+Which are the bottom Manufacturer for Value Offtake except China and Russia,"Apart from China & Russia, which manufacturers have the least value offtake?"
+Which are the bottom grown Manufacturer basis Value Offtake in 2020,Lowest value offtake manufacturers in 2020?
+bottom Manufacturer basis Value Offtake across years growth rate,"Over the years, what's the growth rate of value offtake for bottom manufacturers?"
+Diagnose Value Offtake change in 2020,What caused the change in Value Offtake in 2020?
+Diagnose Value Offtake of Tata Industries and India change in 2020,"In 2020, how did Tata Industries & India's value offtake change?"
+Why Value Offtake of Tata Industries changed in 2020,Value Offtake change for Tata Industries in '20 - why?
+What are the key drivers of Value Offtake,Value Offtake's main influencers?
+what are the key drivers of Value Offtake for Tata Industries and India,Key factors for Value Offtake in Tata Industries & India?
+what are the drivers of Value Offtake for Tata Industries and India,What influences Value Offtake in Tata Industries & India?
+What is the yearly growth rate of Value Offtake,How much does Value Offtake grow yearly?
+What is the growth contribution to overall Value Offtake for Manufacturer in 2020,What's the growth contribution to total Value Offtake for Manufacturer in '20?
+What is the growth contribution to overall Value Offtake for Manufacturer except China in 2020,"Excluding China, what was the growth contribution to Value Offtake for manufacturers in '20?"
+Which are the bottom Manufacturer contributing to Value Offtake,Identify the manufacturers with the lowest value offtake contribution.
+What is the contribution of Value Offtake for Manufacturer,How does Value Offtake impact manufacturers?
+What is the contribution of Value Offtake for Manufacturer in 2020,How did Value Offtake help manufacturers in 2020?
+What is the contribution of Value Offtake for Manufacturer across years,How has Value Offtake contributed to Manufacturer over time?
+When was share of Manufacturer to overall Value Offtake highest in 2020,What was the month in 2020 when the manufacturer's share in total value off-take was the highest?
+When was share of Value Offtake of Tata Industries highest,When was Tata Industries' Value Offtake share at its max?
+When was share of Value Offtake of Tata Industries and India highest,When did Tata Industries and India have their highest Value Offtake share?
+When was share of Tata Industries and India to overall Value Offtake highest across years,In which year was the overall Value Offtake share for Tata Industries and India at its peak?
+When was the ratio of Tata Industries and India for Value Offtake across years was highest,When was the highest Value Offtake ratio for Tata Industries vs
+When was the growth rate of Value Offtake highest,When was the peak growth rate for Value Offtake?
+When was the highest Value Offtake contribution to growth of Manufacturer recorded,Highest Value Offtake growth for Manufacturer - when was it?
+List the bottom Manufacturer having Value Offtake less than 9k,Lowest manufacturer with value offtake below 9k?
+List the bottom Manufacturer having Value Offtake less than 9k,Bottom manufacturer with <9000 value offtake?
+Which are the bottom Manufacturer based on share of Value Offtake,Lowest value offtake share: which manufacturers?
+Which are the bottom Manufacturer basis share of Value Offtake in 2020,2020's manufacturers with smallest value offtake shares?
+Which are the bottom Manufacturer based on ratio of Tata Industries and India for Value Offtake in 2020,Bottom manufacturers based on Tata Industries & India's value offtake ratio in 2020?
+Which are the bottom Manufacturer based on correlation between Value Offtake and WD Out-Stock% in 2020,Which manufacturers rank lowest in 2020 for Value Offtake vs WD Out-Stock% correlation?
+Which are the bottom Manufacturer based on growth rate of Value Offtake in 2020,"In 2020, who were the worst-performing manufacturers based on value offtake growth?"
+Which are the bottom Manufacturer based on growth contribution to overall Value Offtake in 2020,Least growth-contributing manufacturers in overall value offtake for 2020?
+What is the trend of share of Tata Industries Value Offtake in 2020,2020's trend for Tata Industries Value Offtake share?
+What is the trend of share of Value Offtake of Manufacturer across years,Value Offtake share trend for manufacturers over time?
+What is the yearly trend of share of Manufacturer Value Offtake,Annual trend of Manufacturer Value Offtake share?
+What is the yearly trend of share of Tata Industries and India of Value Offtake,Yearly trend for Tata Industries & India's value offtake share?
+What is the trend of growth rate of Value Offtake of Manufacturer for 2020,Value Offtake Manufacturer's 2020 growth rate trend?
+What is the trend of growth rate of Tata Industries and India Value Offtake across the years,"Trend in growth rate for Tata Industries, India Value Offtake over years?"
+What is the trend of Value Offtake ratio of Tata Industries to India in 2020,Tata Industries to India: Value Offtake ratio trend in '20?
+What is the trend of growth contribution to overall Value Offtake for Manufacturer to Country in 2020,"In 2020, how did growth contribution trend for Value Offtake from Manufacturer to Country?"
+Why share of Value Offtake of Tata Industries changed in 2020,Why did Tata Industries' Value Offtake share shift in 2020?
+List Manufacturer based on contribution to growth of Value Offtake in 2020,Manufacturers boosting Value Offtake growth in '20?
+List Manufacturer based on yearly trends of Value Offtake,Show manufacturers based on value offtake yearly trends.
+Which are the bottom Manufacturer based on yearly trends for Value Offtake,Yearly trends: which manufacturers have the lowest value offtake?
+Which are the bottom Manufacturer based on trend of growth rate of Value Offtake,Who are the worst performers by value offtake growth rate trend?
+Which are the bottom Manufacturer based on trend of share of Value Offtake,Identify manufacturers with least value offtake trend share.
+Which are the bottom Manufacturer based on trends of contribution of for Value Offtake in 2020,Which manufacturers had the lowest value offtake contributions in '20?
+Which are the bottom Manufacturer based on trend of contribution to growth of Value Offtake in 2020,"In 2020, which manufacturers contributed least to value offtake growth?"
+What is the yearly trend of contribution of Tata Industries of Value Offtake,Tata Industries' annual value offtake contribution trend?
+What is the yearly trend of contribution of Tata Industries of Value Offtake,Tata Industries' value offtake contribution trend per year?
+How many Manufacturer are contributing to Value Offtake in 2020,Number of manufacturers in Value Offtake for '20?
+How many Manufacturer are contributing to Value Offtake across years,Value offtake: how many manufacturers across years?
+List of Manufacturer basis share of Value Offtake in 2020,Manufacturers' value off-take % in 2020?
+List of Manufacturer with Value Offtake share less than 9k in 2020,Name manufacturers with value offtake <9k in 2020.
+List of Manufacturer with Value Offtake contribution less than 9k,"Which manufacturers have a value offtake under 9,000?"
