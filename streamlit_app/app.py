@@ -60,8 +60,12 @@ with tab3:
 #     st.write("#")
 #     st.image(image3)
 #     st.write("#")
-      with st.chat_message("user"):
-          st.write("Hello 👋")
+#       with st.chat_message("user"):
+#           st.write("Hello 👋")
+
+      prompt = st.chat_input("Say something")
+          if prompt:
+     st.write(f"User has sent the following prompt: {prompt}")
     
 
 with tab1:
