@@ -5,7 +5,7 @@ import requests
 import json
 
 st.set_page_config(page_title="Refract",layout="wide", page_icon="")
-st.header("TV Linear Ads")
+st.header("TV Linear Ads 1")
 st.write("To find the optimum cost, event and time slot to maximize reach")
 output1 = ""
 check_prediction  = 0
