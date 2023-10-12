@@ -60,6 +60,8 @@ with tab3:
 #     st.write("#")
 #     st.image(image3)
 #     st.write("#")
+      with st.chat_message("user"):
+          st.write("Hello 👋")
     
 
 with tab1:
