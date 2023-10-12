@@ -52,14 +52,14 @@ with tab2:
 
 with tab3:
   
-    image2 = Image.open('confusion_matrix_xgboost.png')
-    image3 = Image.open('xgb_ROC_AUC.png')
+#     image2 = Image.open('confusion_matrix_xgboost.png')
+#     image3 = Image.open('xgb_ROC_AUC.png')
 
     
-    st.image(image2)
-    st.write("#")
-    st.image(image3)
-    st.write("#")
+#     st.image(image2)
+#     st.write("#")
+#     st.image(image3)
+#     st.write("#")
     
 
 with tab1:
