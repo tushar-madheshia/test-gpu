@@ -18,6 +18,11 @@ for message in st.session_state.messages:
 
 # React to user input
 if prompt := st.chat_input("Type Something?"):
+        
+    # Display user message in chat message container
+    st.chat_message("user").markdown(prompt)
+    # Add user message to chat history
+    st.session_state.messages.append({"role": "user", "content": prompt})
 
     #prompt_template = "<|system|>\n<|end|>\n<|user|>\n{query}<|end|>\n<|assistant|>"
     #prompt = prompt_template.format(query=prompt)
@@ -25,10 +30,7 @@ if prompt := st.chat_input("Type Something?"):
     #outputs = pipe(prompt, max_new_tokens=256, do_sample=True, temperature=0.2, top_k=50, top_p=0.95, eos_token_id=49155)
     #preds = str(outputs[0]["generated_text"].split("<|assistant|>")[1])
 
-    # Display user message in chat message container
-    st.chat_message("user").markdown(prompt)
-    # Add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    
 
     response = f"Echo: {prompt}"
     # Display assistant response in chat message container
