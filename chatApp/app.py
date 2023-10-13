@@ -17,7 +17,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # React to user input
-if prompt := st.chat_input("What is up yo?"):
+if prompt := st.chat_input("Type Something?"):
 
     #prompt_template = "<|system|>\n<|end|>\n<|user|>\n{query}<|end|>\n<|assistant|>"
     #prompt = prompt_template.format(query=prompt)
