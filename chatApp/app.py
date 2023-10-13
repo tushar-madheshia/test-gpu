@@ -17,12 +17,14 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # React to user input
-if prompt := st.chat_input("Type Something?"):
+if prompt := st.chat_input("What code do you want?"):
         
     # Display user message in chat message container
     st.chat_message("user").markdown(prompt)
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
+    
+    time.sleep(5)
 
     #prompt_template = "<|system|>\n<|end|>\n<|user|>\n{query}<|end|>\n<|assistant|>"
     #prompt = prompt_template.format(query=prompt)
