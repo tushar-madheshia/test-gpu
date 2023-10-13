@@ -2,7 +2,7 @@ import streamlit as st
 import torch
 from transformers import pipeline
 
-pipe = pipeline("text-generation", model="/data/huggingface/cache/models--HuggingFaceH4--starchat-beta/snapshots/b1bcda690655777373f57ea6614eb095ec2c886f", torch_dtype=torch.bfloat16, device_map="auto")
+#pipe = pipeline("text-generation", model="/data/huggingface/cache/models--HuggingFaceH4--starchat-beta/snapshots/b1bcda690655777373f57ea6614eb095ec2c886f", torch_dtype=torch.bfloat16, device_map="auto")
 
 
 st.title("StarCoder")
