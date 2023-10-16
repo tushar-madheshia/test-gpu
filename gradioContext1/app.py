@@ -44,7 +44,7 @@ print("base url is ",path)
 app = FastAPI()
 
 g_app = gr.ChatInterface(fn=echo, examples=examples, title="StarChat Bot")
-
+g_app.queue(concurrency_count=3)
 #g_app = gr.ChatInterface(fn=echo, examples=examples, title="Echo Bot")
 app = gr.mount_gradio_app(app, g_app, path=path)
 uvicorn.run(app,host="0.0.0.0",port=7860)
