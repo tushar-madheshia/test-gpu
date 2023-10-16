@@ -1,7 +1,7 @@
 # import gradio as gr
 
-def echo(message, history):
-    return message
+# def echo(message, history):
+#     return message
 
 
 import torch
@@ -33,12 +33,9 @@ examples = [
 ]
 
 def echo(message, history):
-    
     prompt_template = "<|system|>\n<|end|>\n<|user|>\n{query}<|end|>\n<|assistant|>"
     prompt = prompt_template.format(query=message)
-    # We use a special <|end|> token with ID 49155 to denote ends of a turn
     outputs = pipe(prompt, max_new_tokens=356, do_sample=True, temperature=0.2, top_k=50, top_p=0.95, eos_token_id=49155)
-
     return str(outputs[0]["generated_text"].split("<|assistant|>")[1])
 
 
@@ -46,8 +43,9 @@ print("base url is ",path)
 
 app = FastAPI()
 
+g_app = gr.ChatInterface(fn=echo, examples=examples, title="StarChat Bot")
 
-g_app = gr.ChatInterface(fn=echo, examples=examples, title="Echo Bot")
+#g_app = gr.ChatInterface(fn=echo, examples=examples, title="Echo Bot")
 app = gr.mount_gradio_app(app, g_app, path=path)
 uvicorn.run(app,host="0.0.0.0",port=7860)
 
