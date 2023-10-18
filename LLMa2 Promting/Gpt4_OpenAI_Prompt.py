@@ -168,5 +168,7 @@ Step 1: Identify the n-grams match between question and context
         }
     }
     
+    Think step by step. 
+    
     Provide reasoning
     """
