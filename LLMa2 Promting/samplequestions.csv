@@ -1,0 +1,39 @@
+﻿Question,Output Llama
+show me the 2 top segments basis sales,"{
+    ""DIMENSION"": {
+        ""segments"": [
+            {
+                ""ENTITY"": ""Segment"",
+                ""RANK"": [
+                    {
+                        ""RANK ADJECTIVE"": ""top"",
+                        ""RANK VALUE"": ""2""
+                    }
+                ]
+            }
+        ]
+    },
+    ""MEASURE"": {
+        ""sales"": [
+            {
+                ""ENTITY"": ""Sales""
+            }
+        ]
+    }
+}"
+top 2 and bottom 3 segments by sales,
+top 2 segments and bottom 3 sub-category basis quantity,
+quantity across segments except consumer and corporate in dubai,
+in corporate share of phone and binder basis discount,
+list of under performing segments,
+when was the first time sales of segments was 0,
+sales of segments from beginning,
+sales in 20/01/2020,
+,
+sales in last one and half years,
+trend of sales in dubai now,
+sales in q123 vs pp,
+sales in the week of 01 March 2022,
+top most selling segments in 2020 vs 2021,
+sales from 100 to 200,
+sales from 2021 to 2023,
