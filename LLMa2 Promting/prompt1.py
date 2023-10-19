@@ -89,9 +89,9 @@ After matching "ENTITY", apply the following conditions from the user's question
 
 Your final task is to create a response in a JSON format. Use the following structured format to organize the information you have identified in previous steps. If JSON capabilities are limited, provide the response as text but ensure that the key information is included for user understanding.
 
-Keys in the response JSON format enclosed in "<>" are the place holders or treat like an instruction to you where you should be replace those with given instruction.
+Keys and values in the response JSON format enclosed in "<>" are the place holders or treat like an instruction to you where you should be replace those values with your finding from the above steps.
 
-Here is the JSON format:
+Here is the response JSON format:
 
 {
 "MEASURE": {
