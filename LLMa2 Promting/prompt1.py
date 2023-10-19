@@ -87,7 +87,7 @@ After matching "ENTITY", apply the following conditions from the user's question
 
 ### Step 4: Creating the Response JSON
 
-Your final task is to create a response in a JSON format. Use the following structured format to organize the information you have identified in previous steps. If JSON capabilities are limited, provide the response as text but ensure that the key information is included for user understanding.
+Your final task is to create a response in a JSON format. Use the following structured format to organize the information you have identified in previous steps. If JSON capabilities are limited, provide the response as atleast as text.
 
 Keys and values in the response JSON format enclosed in "<>" are the place holders or treat like an instruction to you where you should be replace those values with your finding from the above steps.
 
@@ -95,9 +95,9 @@ Here is the response JSON format:
 
 {
 "MEASURE": {
-"<replace with n-gram matched to MEASURE>": [
+"<replace with matched n-gram in Step 1 that is matched from user's question to MEASURE, if no match found do not return this key value pair>": [
 {
-"ENTITY": "<replace with the Matched MEASURE from the CONTEXT data>",
+"ENTITY": "<replace with the Matched MEASURE from the CONTEXT data, if no match found do not return this key value pair >",
 "MEASURE CONSTRAINT": [
 {
 "COMPARISON VALUE": "",
@@ -110,9 +110,9 @@ Here is the response JSON format:
 ]
 },
 "DIMENSION": {
-"<replace with n-gram matched DIMENSION>": [
+"<replace with matched n-gram in Step 1 that is matched from user's question to  DIMENSION , if no match found do not return this key value pair>": [
 {
-"ENTITY": "<replace with the Matched DIMENSION from the CONTEXT data> ",
+"ENTITY": "<replace with the Matched MEASURE from the CONTEXT data, if no match found do not return this key value pair>",
 "RANK": [{"RANK ADJECTIVE":"", "RANK VALUE": ""}],
 "ADJECTIVE": [],
 "TONE": ""
@@ -120,20 +120,20 @@ Here is the response JSON format:
 ]
 },
 "FILTER": {
-"<replace with n-gram matched to FILTER>": [
+"<replace with matched n-gram in Step 1 that is matched from user's question to FILTER, if no match found do not return this key value pair>": [
 {
-"ENTITY": "<replace with the Matched FILTER from the CONTEXT data>",
-"PARENT": "<replace with the Matched parent of the Matched FILTER from the CONTEXT data>",
+"ENTITY": "<replace with the Matched FILTER from the CONTEXT data,if no match found do not return this key value pair>",
+"PARENT": "<replace with the Matched parent of the Matched FILTER from the CONTEXT data,if no match found do not return this key value pair>",
 "EXCLUDE": ""
 }
 ]
 },
 "DERIVED MEASURE": {
-"<replace with n-gram matched  DERIVED MEASURE>": [
+"<replace with matched n-gram in Step 1 that is matched from user's question to DERIVED MEASURE, if no match found do not return this key value pair>": [
 {
-"ENTITY": "Matched DERIVED MEASURE",
+"ENTITY": "<replace with the Matched DERIVED MEASURE from the CONTEXT data,if no match found do not return this key value pair>",
 "RATIO FILTER": [{}],
-"APPLIED MEASURE": [{"<replace withn-gram matched to MEASURE>": "<replace with the Matched MEASURE from the CONTEXT data>"}],
+"APPLIED MEASURE": [{"<replace with matched n-gram in Step 1 that is matched from user's question to MEASURE, if no match found do not return this key value pair>": "<replace with the Matched MEASURE from the CONTEXT data, if no match found do not return this key value pair>"}],
 "DERIVED MEASURE CONSTRAINT": [
 {
 "COMPARISON VALUE": "",
@@ -146,7 +146,7 @@ Here is the response JSON format:
 ]
 },
 "DATE VARIABLE": {
-"asked time element": [{"ENTITY": "<replace with the Matched DATE VARIABLE>",
+"asked time element": [{"ENTITY": "<replace with matched n-gram in Step 1 that is matched from user's question to DATE VARIABLE,if no match found do not return this key value pair>",
 "DATE RANGE": "date range",
 "CONVERTED TIME ELEMENT": "converted time element"
 }]
