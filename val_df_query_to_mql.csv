@@ -1,7 +1,9 @@
 ,query,measure_new,measure_mql
+0,trend of profit,"{'measure': ['PROFIT', 'AFS_RATE', 'PROFIT'], 'measure_label': ['OPENED_HOURS', 'Number Requests For Shift', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
 1,profit in next 3 months,"{'measure': ['FFP_LATITUDE', 'AFS_GROSS_PAYMENT_AMOUNT', 'PROFIT'], 'measure_label': ['Opening Hour', 'Scheduled Hours', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
 2,why profit change in july 2022,"{'measure': ['AFS_GROSS_PAYMENT_AMOUNT', 'FILLED_HOURS', 'PROFIT'], 'measure_label': ['Rate', 'ScheduledHours', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
 3,why profit change in aug 2022,"{'measure': ['FILL_RATE_ASSIGNED', 'FSP_SHIFT_HOURS', 'PROFIT'], 'measure_label': ['Latitude', 'OPENED_HOURS', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
+4,why did scheduled hours increase in 2022,"{'measure': ['FILLED_COUNT', 'FSP_SHIFT_HOURS', 'Opening Hour'], 'measure_label': ['Active Facility', 'OPENED_HOURS', 'Opening Hour']}","{'measure': {'scheduled hours': {'Opening Hour': {'label': 'Opening Hour', 'order': 'desc'}}}}"
 5,why did scheduled hours change from may 2022 to july 2022,"{'measure': ['FPP_LATITUDE', 'PROFIT', 'Opening Hour'], 'measure_label': ['Gross Payment Amount', 'SCHEDULEDHOURS', 'Opening Hour']}","{'measure': {'scheduled hours': {'Opening Hour': {'label': 'Opening Hour', 'order': 'desc'}}}}"
 6,what is monthly growth of scheduled hours for rn,"{'measure': ['AFS_MAX_RATE', 'FFP_ALF_BEDS', 'Opening Hour'], 'measure_label': ['Scheduled Hours', 'Latitude', 'Opening Hour']}","{'measure': {'scheduled hours': {'Opening Hour': {'label': 'Opening Hour', 'order': 'desc'}}}}"
 7,what is monthly growth of worked hours for cna,"{'measure': ['FPP_LONGITUDE', 'FOP_LONGITUDE', 'Worked Hours'], 'measure_label': ['Number Requests For Shift', 'Fill Rate Opened', 'Worked Hours']}","{'measure': {'worked hours': {'Worked Hours': {'label': 'Worked Hours', 'order': 'desc'}}}}"
@@ -11,14 +13,12 @@
 11,trend of active facility,"{'measure': ['FPP_LATITUDE', 'AFS_SCHEDULED_HOURS', 'Active Facility'], 'measure_label': ['Latitude', 'Number Requests For Shift', 'Active Facility']}","{'measure': {'active facility': {'Active Facility': {'label': 'Active Facility', 'order': 'desc'}}}}"
 12,why profit changed in july 2022,"{'measure': ['FFP_NUM_TEAM_MEMBERS', 'WORKED_COUNT', 'PROFIT'], 'measure_label': ['Scheduled Hours', 'Profit in Dollars', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
 13,what will be profit in next 3 months,"{'measure': ['Active Facility', 'FSP_LATITUDE', 'PROFIT'], 'measure_label': ['Scheduled Hours', 'SNF Beds', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
-14,what will be profit in next 3 weeks,"{'measure': ['AFS_WORKED_HOURS', 'Worked Hours', 'PROFIT'], 'measure_label': ['Latitude', 'PROFIT', 'Profit in Dollars']}","{'measure': {'profit': {'PROFIT': {'label': 'Profit in Dollars', 'order': 'desc', 'operator': 'sum'}}}}"
 15,trend of worked hours and requested hours,"{'measure': ['Opening Hour', 'FSP_LONGITUDE'], 'measure_label': ['Number Requests For Shift', 'Assigned Fill Rate']}",{'measure': None}
 16,why requested hours changed in jan 2022,"{'measure': ['AFS_NUMBER_REQUESTS_FOR_SHIFT', 'Worked Hours'], 'measure_label': ['Team Size', 'Unfilled Count']}",{'measure': None}
 17,trend of scheduled hours,"{'measure': ['AFS_MAX_RATE', 'FSP_LATITUDE'], 'measure_label': ['Gross Payment Amount', 'Worked Hours']}",{'measure': None}
 18,trend of filled hours,"{'measure': ['AFS_CONTRACT_RATE', 'AFS_SCHEDULED_HOURS'], 'measure_label': ['Profit in Dollars', 'Latitude']}",{'measure': None}
 19,trend of worked hours,"{'measure': ['AFS_MAX_RATE', 'Opening Hour'], 'measure_label': ['SNF Beds', 'Gross Payment Amount']}",{'measure': None}
 20,trend of opened shifts,"{'measure': ['FFP_NUM_TEAM_MEMBERS', 'FILLED_HOURS'], 'measure_label': ['Longitude', 'PROFIT']}",{'measure': None}
-21,trend of assigned shifts,"{'measure': ['AFS_CONTRACT_RATE', 'AFS_SCHEDULED_HOURS'], 'measure_label': ['PROFIT', 'Worked Hours']}",{'measure': None}
 22,trend of worked shifts,"{'measure': ['OPENED_HOURS', 'FILL_RATE_ASSIGNED'], 'measure_label': ['Rate', 'ScheduledHours']}",{'measure': None}
 23,trend of requested shifts,"{'measure': ['AFS_DEFAULT_RATE', 'FOP_LONGITUDE'], 'measure_label': ['Shift Hours', 'Active Facility']}",{'measure': None}
 24,trend of number of providers,"{'measure': ['FFP_SNF_BEDS', 'FFP_LATITUDE'], 'measure_label': ['Team Size', 'Assigned Fill Rate']}",{'measure': None}
