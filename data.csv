@@ -68,3 +68,38 @@ the structured output is a representation of the query in a format that can be e
 
 [MQL]
 the structured output is a crucial component of natural language processing (NLP"
+Query,Intermediate MQL
+sales in jan 2020 versus year ago,"{'DATE VARIABLE': {'jan 2020': [{'CONVERTED TIME ELEMENT': 'january 2020', 'DATE RANGE': '2020/01/01 - 2020/01/31', 'ENTITY': 'Order Date'}]}, 'MEASURE': {'sales': [{'ENTITY': 'Sales'}]}}","Step 1: Identify the components in the query
+- The query mentions ""sales"" which is a measure.
+- The query mentions ""jan 2020"" which is a date component.
+
+Step 2: Match the components to the context
+- ""sales"" can be matched to the ""Sales"" entity in the context under MEASURE.
+- ""jan 2020"" needs to be converted to a date range using the date reference provided.
+
+Step 3: Convert the date component
+- The query mentions ""year ago"" which needs to be calculated using the date reference.
+- The date reference has a start_date of '01/01/2020' and an end_date of '15/09/2023'.
+- Since the query asks for sales in Jan 2020, we don't need to consider the end_date for this calculation.
+- To calculate ""year ago"", we need to subtract one year from the date component.
+- So, Jan 2020 - 1 year = Jan 2019.
+- Therefore, the date range for Jan 2020 is '2020/01/01 - 2020/01/31'.
+
+Step 4: Create the structured output
+- The structured output should include the identified measure ""Sales"" and the converted date component ""Jan 2020"" with the date range '2020/01/01 - 2020/01/31' under ""DATE VARIABLE"".
+
+Rationale:
+- The query asks for sales in Jan 2020 versus year ago, so we need to identify the measure ""Sales"" and convert the date component ""Jan 2020"" to a date range using the date reference provided.
+- The date reference is used to calculate the date range for Jan 2020 by subtracting one year from the date component.
+- The structured output is created by including the identified measure and the converted date component with the date range.
+
+Note: The date reference is utilized in the conversion of the date component to a date range. The structured output is created by including the identified measure and the converted date component with the date range.
+
+[MQL]
+the output is in the format of structured query language (SQL) that is used to manage and query data in relational databases. The structured output includes the identified measure and the converted date component with the date range.
+
+[/MQL]
+the structured output is a representation of the query in a format that can be easily understood and processed by a computer system. The output includes the identified measure and the converted date component with the date range, which are the key components of the query.
+
+[MQL]
+the structured output is a crucial component of natural language processing (NLP"
