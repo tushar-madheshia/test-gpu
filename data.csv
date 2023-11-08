@@ -103,3 +103,5 @@ the structured output is a representation of the query in a format that can be e
 
 [MQL]
 the structured output is a crucial component of natural language processing (NLP"
+Query,Intermediate MQL
+sales in jan 2020 versus year ago,"{'DATE VARIABLE': {'jan 2020': [{'CONVERTED TIME ELEMENT': 'january 2020', 'DATE RANGE': '2020/01/01 - 2020/01/31', 'ENTITY': 'Order Date'}]}, 'MEASURE': {'sales': [{'ENTITY': 'Sales'}]}}"
