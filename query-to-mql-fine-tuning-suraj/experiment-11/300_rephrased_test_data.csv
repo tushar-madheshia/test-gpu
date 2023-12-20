@@ -548,29 +548,6 @@ Step 4: Create the structured output
 - For the 'DATE VARIABLE' component, we have the 'Order Date' entity with the converted time element 'March 2022'.
 
 By following these steps, we have successfully converted the query into a structured output.","{'MEASURE': {'discount': [{'ENTITY': 'Discount', 'ADJECTIVE': ['peak'], 'TONE': 'positive'}]}, 'DATE VARIABLE': {'when': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'March '22'}]}}","{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discounts', 'discount'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [], 'FILTER': [], 'DERIVED MEASURE': [{'ENTITY': 'why', 'other names': ['reason for'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['when', 'time'], 'dataset_id': '6538e14185a957419006d762'}]}","{'MEASURE': {'discount': [{'ENTITY': 'Discount', 'ADJECTIVE': ['peak'], 'TONE': 'positive'}]}, 'DATE VARIABLE': {'when': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'March 2022'}], 'first time': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'from start to end'}]}}"
-Kenya & S,What is the percentage of kenya and south korea to overall sale in 15d,share,"{'MEASURE': [{'ENTITY': 'Sales', 'other names': ['sale', 'sales']}], 'DIMENSION': [{'ENTITY': 'Country', 'other names': ['country']}], 'FILTER': [{'ENTITY': 'Southeast Asia', 'other names': ['southeast asia'], 'parent': 'Region'}], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['percentage']}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'DERIVED MEASURE': {'percentage': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'sale': 'Sales'}], 'DERIVED MEASURE CONSTRAINT': [{'COMPARISON VALUE': '', 'COMPARISON OPERATOR': ''}]}]}, 'DATE VARIABLE': {'15d': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 15 days'}]}}","Step 1: Identify the components in the query
-- ""percentage"": DERIVED MEASURE
-- ""kenya"" and ""south korea"": DIMENSION (Country)
-- ""overall sale"": MEASURE (Sales)
-- ""15d"": DATE VARIABLE
-
-Step 2: Match the components to the context
-- ""percentage"" matches with ""ratio"" in DERIVED MEASURE
-- ""kenya"" and ""south korea"" match with ""country"" in DIMENSION
-- ""overall sale"" matches with ""Sales"" in MEASURE
-- ""15d"" matches with ""Order Date"" in DATE VARIABLE
-
-Step 3: Convert the date/time component
-- ""15d"" is converted to ""last 15 days"" for the ""Order Date"" entity
-
-Step 4: Create the structured output
-- For DERIVED MEASURE, we have ""ratio"" applied to the ""Sales"" measure, with no constraints
-- For DATE VARIABLE, we have ""last 15 days"" applied to the ""Order Date"" entity
-
-Rationale:
-- The query asks for the percentage (ratio) of sales for Kenya and South Korea compared to overall sales
-- The time frame specified is 15 days, which is converted to ""last 15 days"" for the ""Order Date"" entity
-- The structured output is created by combining the matched components from the context and the converted date/time component","{'MEASURE': {'kenya': [{'ENTITY': 'Sales'}], 's': [{'ENTITY': 'Sales'}]}, 'DIMENSION': {'kenya': [{'ENTITY': 'Country'}], 's': [{'ENTITY': 'Country'}]}}",,
 El Salvador & South Sudan shares' profit trend in last year's Q1?,What is the trend of share of el salvador and south sudan basis profits in 1st quarter of last year,trend_share,"{'MEASURE': [{'ENTITY': 'Profit', 'other names': ['profits']}], 'DIMENSION': [], 'FILTER': [], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['share']}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['trend']}]}","{'DERIVED MEASURE': {'share': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'profits': 'Profit'}]}]}, 'DATE VARIABLE': {'1st quarter of last year': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'quarter 1 last year'}]}}","Step 1: Identify components in the query
 - ""trend"": Date variable (Order Date)
 - ""share"": Derived measure (ratio)
@@ -618,28 +595,6 @@ Rationale:
 - The query asks for the discount of Burundi and Mali across 2 months, so we need to include the measure ""discount"" and the date variable ""across 2 months"" in the structured output.
 - The context provides the necessary information to match the components in the query to the entities in the context.
 - The date variable ""across 2 months"" is converted to ""last 2 months"" based on the date reference provided, making it more specific and easier to understand.","{'MEASURE': {'discount': [{'ENTITY': 'Discount'}]}, 'DATE VARIABLE': {'2-month': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 2 months'}]}}","{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['order date', 'when', 'trend', 'date', 'yoy', 'mom', 'time'], 'dataset_id': '6538e14185a957419006d762'}]}","{'MEASURE': {'discount': [{'ENTITY': 'Discount'}]}, 'DATE VARIABLE': {'2-month': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 2 months'}]}}"
-El Salvador & S,What is the profits of el salvador and south sudan across 2 months in 1st quarter of last year,what,"{'MEASURE': [{'ENTITY': 'Profit', 'other names': ['profits']}], 'DIMENSION': [], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['trend', 'yoy', 'mom', 'date', 'order date', 'when', 'time']}]}","{'MEASURE': {'profits': [{'ENTITY': 'Profit'}]}, 'DATE VARIABLE': {'1st quarter of last year': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'quarter 1 last year'}], 'across 2 months': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'across 2 months'}]}}","Step 1: Identify the components in the query
-- Profits: Measure
-- El Salvador and South Sudan: Filter (countries)
-- 1st quarter of last year: Date variable
-- Across 2 months: Date variable
-
-Step 2: Match the components to the context
-- Profits: Matched to 'Profit' in the context
-- El Salvador and South Sudan: Not present in the context, but can be considered as a filter
-- 1st quarter of last year: Matched to 'Order Date' in the context
-- Across 2 months: Matched to 'Order Date' in the context
-
-Step 3: Convert the date/time components
-- 1st quarter of last year: Convert this to 'quarter 1 last year' as it refers to the first quarter of the previous year.
-- Across 2 months: Keep this as 'across 2 months' as it refers to a time period of 2 months.
-
-Step 4: Create the structured output
-- MEASURE: Map 'profits' to the 'Profit' entity in the context.
-- DATE VARIABLE: Map '1st quarter of last year' and 'across 2 months' to the 'Order Date' entity in the context, and include the converted time elements ('quarter 1 last year' and 'across 2 months').
-
-Rationale:
-The query asks for the profits of El Salvador and South Sudan during a specific time period. The measure 'profits' is matched to the 'Profit' entity in the context. The date variables '1st quarter of last year' and 'across 2 months' are matched to the 'Order Date' entity in the context, and their time elements are converted accordingly. The countries El Salvador and South Sudan are not present in the context but can be considered as a filter for the query.","{'MEASURE': {'profits': [{'ENTITY': 'Profit'}]}, 'DATE VARIABLE': {'trend': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'trend'}]}}",,
 Discount ratio for Burundi & Mali?,What is the ratio of burundi and mali for discount,ratio,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount']}], 'DIMENSION': [], 'FILTER': [], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['ratio']}, {'ENTITY': 'why', 'other names': ['reason for'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'DERIVED MEASURE': {'ratio': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount': 'Discount'}]}]}}","Step 1: Identify the components in the query
 - The query asks for the ""ratio"" which is a derived measure.
 - It mentions ""Burundi"" and ""Mali"" which are not present in the context, so they are likely to be filter values.
@@ -909,25 +864,6 @@ Step 4: Structure the output
 
 Rationale:
 The query asks for the bottom cities based on the share of discount. To answer this, we need to rank the cities based on the derived measure 'share of discount', which is the ratio of the discount. The date reference provided helps to filter the data within the specified date range, ensuring that the analysis is relevant to the given time period. The structured output captures this information by specifying the 'City' entity with the appropriate ranking and the derived measure 'share of discount' with the applied measure 'Discount'.","{'DIMENSION': {'cities': [{'ENTITY': 'City', 'RANK': [{'RANK ADJECTIVE': 'bottom', 'RANK VALUE': '1'}]}]}, 'DERIVED MEASURE': {'share': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount': 'Discount'}], 'DERIVED MEASURE CONSTRAINT': [{'COMPARISON VALUE': '', 'COMPARISON OPERATOR': ''}]}]}}","{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discounts', 'discount'], 'dataset_id': '6538e14185a957419006d762'}, {'ENTITY': 'Discount percentage', 'other names': ['discount percentage'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [{'ENTITY': 'City', 'other names': ['cities'], 'dataset_id': '6538e14185a957419006d762'}], 'FILTER': [{'ENTITY': 'Low', 'other names': ['low'], 'dataset_id': '6538e14185a957419006d762', 'parent': 'Order Priority'}], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['share'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['order date', 'when', 'trend', 'date', 'yoy', 'mom', 'time'], 'dataset_id': '6538e14185a957419006d762'}]}","{'DIMENSION': {'Cities': [{'ENTITY': 'City', 'RANK': [{'RANK ADJECTIVE': 'lowest', 'RANK VALUE': '1'}]}]}, 'DERIVED MEASURE': {'discount share': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount': 'Discount'}]}]}}"
-03,what will be the monthly discount in march 2022,forecast,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount']}], 'DIMENSION': [], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'MEASURE': {'discount': [{'ENTITY': 'Discount'}]}, 'DATE VARIABLE': {'monthly discount': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'March 2022'}]}}","Step 1: Identify the components in the query
-- The query asks for the ""monthly discount"" which is a measure related to ""Discount"".
-- The query specifies a time period: ""March 2022"".
-
-Step 2: Match the components to the context
-- The context provides information about the ""Discount"" entity and its other names.
-- The context also provides information about the ""Order Date"" entity and its other names, which can be used to handle the time component.
-
-Step 3: Convert the measure component
-- The query asks for the ""monthly discount"", which can be matched to the ""Discount"" entity in the context. Therefore, the structured output should include the ""Discount"" entity as the measure.
-
-Step 4: Convert the date/time component
-- The query specifies ""March 2022"" as the time period. This can be matched to the ""Order Date"" entity in the context, which handles date and time-related information.
-- Since the query asks for the ""monthly discount"", the ""Order Date"" entity should be converted to represent the specific month of ""March 2022"" in the structured output.
-
-Rationale:
-- The query asks for a specific measure (monthly discount) in a specific time period (March 2022).
-- The context provides information about the ""Discount"" entity and the ""Order Date"" entity, which can be used to handle the measure and time components respectively.
-- By matching the components in the query to the context and converting them accordingly, the structured output can accurately represent the information requested in the query.","{'MEASURE': {'discount': [{'ENTITY': 'Discount'}]}, 'DATE VARIABLE': {'03': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'day 3'}]}}",,
 "Lowest overall discount % for Haiti, Central Asia in 2",When was share of haiti and central asia to overall discount percentage lowest across 2.5 months,when_share,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount']}, {'ENTITY': 'Discount percentage', 'other names': ['discount percentage'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [], 'FILTER': [{'ENTITY': 'Southeast Asia', 'other names': ['southeast asia'], 'parent': 'Region'}, {'ENTITY': 'Low', 'other names': ['low'], 'dataset_id': '6538e14185a957419006d762', 'parent': 'Order Priority'}], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['share', 'percentage']}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['when']}]}","{'MEASURE': {'discount percentage': [{'ENTITY': 'Discount percentage'}]}, 'DERIVED MEASURE': {'share': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount percentage': 'Discount percentage'}], 'ADJECTIVE': ['lowest'], 'TONE': 'negative'}]}, 'DATE VARIABLE': {'when': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 75 days'}]}}","Step 1: Identify the components in the query
 - Share of Haiti and Central Asia
 - Overall discount percentage
@@ -3589,25 +3525,6 @@ Rationale:
 - The query asks for a list of cities, which is a dimension in the context, so we include it in the structured output.
 - The query also specifies to exclude guinea bissau, so we apply this filter to the dimension ""City"".
 - Since there is no date or time-related information in the query, we do not include the date variable in the structured output.",{'DIMENSION': {'cities': [{'ENTITY': 'City'}]}},"{'MEASURE': [], 'DIMENSION': [{'ENTITY': 'City', 'other names': ['cities'], 'dataset_id': '6538e14185a957419006d762'}], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['order date', 'when', 'trend', 'date', 'yoy', 'mom', 'time'], 'dataset_id': '6538e14185a957419006d762'}]}",{'DIMENSION': {'cities': [{'ENTITY': 'City'}]}}
-"Kenya, S","What is the percentage of kenya, south korea, moldova and indonesia for sale",share,"{'MEASURE': [{'ENTITY': 'Sales', 'other names': ['sale']}], 'DIMENSION': [{'ENTITY': 'Country', 'other names': ['country', 'countries']}], 'FILTER': [{'ENTITY': 'Southeast Asia', 'other names': ['southeast asia'], 'parent': 'Region'}], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['percentage']}, {'ENTITY': 'why', 'other names': ['reason for'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'MEASURE': {'sale': [{'ENTITY': 'Sales'}]}, 'DERIVED MEASURE': {'percentage': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'sale': 'Sales'}]}]}}","Step 1: Identify the components in the query
-- In the query ""What is the percentage of kenya, south korea, moldova and indonesia for sale"", we can identify the following components:
-  - Measure: sale
-  - Derived Measure: percentage
-  - Dimension: Country (kenya, south korea, moldova, and indonesia)
-
-Step 2: Match the components to the context
-- Measure: 'sale' can be matched to 'Sales' in the context.
-- Derived Measure: 'percentage' can be matched to 'ratio' in the context.
-- Dimension: The countries mentioned in the query can be matched to 'Country' in the context.
-
-Step 3: Create the structured output
-- For the 'MEASURE' field, we include the matched entity 'Sales' with the key 'sale'.
-- For the 'DERIVED MEASURE' field, we include the matched entity 'ratio' with the key 'percentage'. We also need to specify the 'APPLIED MEASURE' field, which in this case is the 'Sales' measure identified earlier.
-
-Step 4: Handle the date/time component
-- The date reference provided is {'start_date': '03/01/2018', 'end_date': '31/12/2021'}.
-- Since the query does not explicitly mention any date or time-related information, we can assume that the analysis should be done within the given date range.
-- The date range can be applied to the 'Order Date' entity in the context, as it is the only date variable mentioned.","{'MEASURE': {'sale': [{'ENTITY': 'Sales'}]}, 'DIMENSION': {'kenya': [{'ENTITY': 'Country'}]}, 'DERIVED MEASURE': {'percentage': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'sale': 'Sales'}]}]}, 'DATE VARIABLE': {'when': [{'ENTITY': 'Order Date'}]}}",,
 IDs of customers in the last 3 years?,List of customer id across 3 years,list,"{'MEASURE': [{'ENTITY': 'Long', 'other names': ['long']}], 'DIMENSION': [{'ENTITY': 'Customer ID', 'other names': ['customer id']}, {'ENTITY': 'Customer Name', 'other names': ['customer name'], 'dataset_id': '6538e14185a957419006d762'}, {'ENTITY': 'Product ID', 'other names': ['product id'], 'dataset_id': '6538e14185a957419006d762'}], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'DIMENSION': {'customer id': [{'ENTITY': 'Customer ID'}]}, 'DATE VARIABLE': {'3 years': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 3 years'}]}}","Step 1: Identify the components in the query
 - The query asks for a ""List of customer id"" which is a dimension.
 - The query mentions ""across 3 years"" which is a date/time component.
@@ -5367,28 +5284,6 @@ Step 5: Combine the components into the structured output
 - The date variable ""monthly trends"" is linked to the entity ""Order Date"" from the context, along with the converted time element ""across months.""
 
 The rationale behind this conversion is to identify the key components in the query, match them to the context, and represent them in a structured output that captures the ranking, dimension, measure, and date/time elements of the original question.","{'MEASURE': {'profits': [{'ENTITY': 'Profit', 'ADJECTIVE': ['least'], 'TONE': 'negative'}]}, 'DIMENSION': {'product name': [{'ENTITY': 'Product Name'}]}, 'DATE VARIABLE': {'monthly trends': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'across months'}]}}","{'MEASURE': [{'ENTITY': 'Profit', 'other names': ['profits'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [{'ENTITY': 'Product Name', 'other names': ['product name'], 'dataset_id': '6538e14185a957419006d762'}], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['trend'], 'dataset_id': '6538e14185a957419006d762'}]}","{'MEASURE': {'profits': [{'ENTITY': 'Profit', 'ADJECTIVE': ['least'], 'TONE': 'negative'}]}, 'DIMENSION': {'products': [{'ENTITY': 'Product Name'}]}, 'DATE VARIABLE': {'monthly trends': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'across months'}]}}"
-2,top countries basis discount percentage across 2.5 months growth rate,which,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount']}, {'ENTITY': 'Discount percentage', 'other names': ['discount percentage'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [{'ENTITY': 'Country', 'other names': ['countries']}], 'FILTER': [], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['percentage']}, {'ENTITY': 'Growth Rate', 'other names': ['growth rate', 'growth'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'DIMENSION': {'countries': [{'ENTITY': 'Country', 'RANK': [{'RANK ADJECTIVE': 'top', 'RANK VALUE': '1'}]}]}, 'DERIVED MEASURE': {'growth rate': [{'ENTITY': 'Growth Rate', 'APPLIED MEASURE': [{'discount percentage': 'Discount percentage'}]}]}, 'DATE VARIABLE': {'across 2.5 months': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 75 days'}]}}","Step 1: Identify the components in the query
-- ""top countries"": ranking and dimension (Country)
-- ""discount percentage"": measure (Discount percentage)
-- ""across 2.5 months"": date variable (Order Date)
-- ""growth rate"": derived measure (Growth Rate)
-
-Step 2: Match the components to the context
-- ""countries"" matches to ""Country"" in the context under DIMENSION
-- ""discount percentage"" matches to ""Discount percentage"" in the context under MEASURE
-- ""growth rate"" matches to ""Growth Rate"" in the context under DERIVED MEASURE
-- ""across 2.5 months"" matches to ""Order Date"" in the context under DATE VARIABLE
-
-Step 3: Convert the date/time component
-- ""across 2.5 months"" is converted to ""last 75 days"" (approximately 2.5 months) and is associated with the ""Order Date"" entity in the DATE VARIABLE
-
-Step 4: Structure the output
-- DIMENSION: ""countries"" is associated with the ""Country"" entity and includes the ranking information (top 1)
-- DERIVED MEASURE: ""growth rate"" is associated with the ""Growth Rate"" entity and is applied to the ""Discount percentage"" measure
-- DATE VARIABLE: ""across 2.5 months"" is associated with the ""Order Date"" entity and is converted to ""last 75 days""
-
-Rationale:
-The query asks for the top countries based on discount percentage across a 2.5 months growth rate. To answer this, we need to identify the relevant dimensions, measures, and date variables from the context and structure the output accordingly. The date variable ""across 2.5 months"" is converted to ""last 75 days"" to provide a more precise time frame. The growth rate is applied to the discount percentage measure, and the ranking information is included in the dimension.","{'MEASURE': {'discount percentage': [{'ENTITY': 'Discount percentage'}]}, 'DIMENSION': {'countries': [{'ENTITY': 'Country'}]}, 'DERIVED MEASURE': {'percentage': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount percentage': 'Discount percentage'}]}]}, 'DATE VARIABLE': {'order date': [{'ENTITY': 'Order Date'}]}}",,
 "Discount contributions above 20,000 - which cities?",List of cities with discount contribution greater than 20000,list_share,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discounts', 'discount']}], 'DIMENSION': [{'ENTITY': 'City', 'other names': ['cities']}], 'FILTER': [], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['contribution']}, {'ENTITY': 'contribution_to_growth', 'other names': ['contributions'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'DIMENSION': {'cities': [{'ENTITY': 'City'}]}, 'DERIVED MEASURE': {'discount contribution': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount': 'Discount'}], 'DERIVED MEASURE CONSTRAINT': [{'COMPARISON VALUE': '20000', 'COMPARISON OPERATOR': '>'}]}]}}","Step 1: Identify the components in the query
 - List of cities: Dimension (City)
 - Discount contribution: Derived Measure (ratio)
@@ -5595,28 +5490,6 @@ Step 4: Structure the output
 - DATE VARIABLE: The 'Order Date' entity is converted to 'trend' as per the query
 
 The structured output is formed by combining the matched components and the converted date/time component.","{'MEASURE': {'discount percentage': [{'ENTITY': 'Discount percentage'}]}, 'DIMENSION': {'sub category': [{'ENTITY': 'Sub-Category', 'RANK': [{'RANK ADJECTIVE': 'bottom', 'RANK VALUE': '1'}]}]}, 'DERIVED MEASURE': {'share': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount percentage': 'Discount percentage'}]}]}, 'DATE VARIABLE': {'trend': [{'ENTITY': 'Order Date'}]}}","{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount'], 'dataset_id': '6538e14185a957419006d762'}, {'ENTITY': 'Discount percentage', 'other names': ['discount percentage'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [{'ENTITY': 'Sub-Category', 'other names': ['sub-category', 'sub category'], 'dataset_id': '6538e14185a957419006d762'}], 'FILTER': [], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['share', 'percentage'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['trend'], 'dataset_id': '6538e14185a957419006d762'}]}","{'DIMENSION': {'subcategory': [{'ENTITY': 'Sub-Category', 'RANK': [{'RANK ADJECTIVE': 'bottom', 'RANK VALUE': '1'}]}]}, 'DERIVED MEASURE': {'share': [{'ENTITY': 'ratio', 'APPLIED MEASURE': [{'discount percentage': 'Discount percentage'}], 'DERIVED MEASURE CONSTRAINT': [{'COMPARISON VALUE': '', 'COMPARISON OPERATOR': ''}]}]}, 'DATE VARIABLE': {'trend': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'across days'}]}}"
-2 mo,bottom cities basis discount across 2 months,which,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discount']}], 'DIMENSION': [{'ENTITY': 'City', 'other names': ['cities']}], 'FILTER': [], 'DERIVED MEASURE': [], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'MEASURE': {'discount': [{'ENTITY': 'Discount'}]}, 'DIMENSION': {'cities': [{'ENTITY': 'City', 'RANK': [{'RANK ADJECTIVE': 'bottom', 'RANK VALUE': '1'}]}]}, 'DATE VARIABLE': {'across 2 months': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 2 months'}]}}","Step 1: Identify the components in the query
-- ""bottom cities"": rank adjective and dimension
-- ""discount"": measure
-- ""across 2 months"": date variable
-
-Step 2: Match the components to the context
-- ""cities"" matches with the ""City"" entity in the context's 'DIMENSION'
-- ""discount"" matches with the ""Discount"" entity in the context's 'MEASURE'
-- ""across 2 months"" matches with the ""Order Date"" entity in the context's 'DATE VARIABLE'
-
-Step 3: Convert the rank adjective and dimension
-- ""bottom cities"" is converted to {'ENTITY': 'City', 'RANK': [{'RANK ADJECTIVE': 'bottom', 'RANK VALUE': '1'}]}
-
-Step 4: Convert the measure
-- ""discount"" is converted to {'discount': [{'ENTITY': 'Discount'}]}
-
-Step 5: Convert the date variable
-- ""across 2 months"" is converted to {'across 2 months': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 2 months'}]}
-- The date reference provided is from '03/01/2018' to '31/12/2021', so ""across 2 months"" refers to the last 2 months within this date range.
-
-Step 6: Combine the converted components into the structured output
-- The structured output is created by combining the converted rank adjective and dimension, measure, and date variable.","{'MEASURE': {'discount': [{'ENTITY': 'Discount'}]}, 'DIMENSION': {'cities': [{'ENTITY': 'City'}]}, 'DATE VARIABLE': {'2 mo': [{'ENTITY': 'Order Date', 'CONVERTED TIME ELEMENT': 'last 2 months'}]}}",,
 Smallest guinea/furnishing discount ratio in which subcategory?,Which are the bottom sub category based on ratio of guinea and furnishing for discount percentage,topn_ratio,"{'MEASURE': [{'ENTITY': 'Discount', 'other names': ['discounts', 'discount']}, {'ENTITY': 'Discount percentage', 'other names': ['discount percentage'], 'dataset_id': '6538e14185a957419006d762'}], 'DIMENSION': [{'ENTITY': 'Category', 'other names': ['category', 'categories']}, {'ENTITY': 'Sub-Category', 'other names': ['sub category', 'sub-category'], 'dataset_id': '6538e14185a957419006d762'}], 'FILTER': [{'ENTITY': 'Furnishings', 'other names': ['furnishing'], 'parent': 'Sub-Category'}], 'DERIVED MEASURE': [{'ENTITY': 'ratio', 'other names': ['ratio', 'percentage']}, {'ENTITY': 'why', 'other names': ['reason for'], 'dataset_id': 'non'}], 'DATE VARIABLE': [{'ENTITY': 'Order Date', 'other names': ['date', 'when', 'yoy', 'trend', 'mom', 'time', 'order date']}]}","{'DIMENSION': {'sub category': [{'ENTITY': 'Sub-Category', 'RANK': [{'RANK ADJECTIVE': 'bottom', 'RANK VALUE': '1'}]}]}, 'FILTER': {'furnishing': [{'ENTITY': 'Furnishings', 'PARENT': 'Sub-Category'}]}, 'DERIVED MEASURE': {'ratio': [{'ENTITY': 'ratio', 'RATIO FILTER': [{'furnishing': 'Furnishings'}], 'APPLIED MEASURE': [{'discount percentage': 'Discount percentage'}], 'DERIVED MEASURE CONSTRAINT': [{'COMPARISON VALUE': '', 'COMPARISON OPERATOR': ''}]}]}}","Step 1: Identify the components in the query
 - Bottom sub-category: This indicates a ranking and dimension component.
 - Ratio of guinea and furnishing: This indicates a derived measure component.
