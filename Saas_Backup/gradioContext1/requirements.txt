@@ -1,0 +1,6 @@
+gradio
+fastapi
+uvicorn
+torch
+transformers
+accelerate
